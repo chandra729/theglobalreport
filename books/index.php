@@ -142,12 +142,12 @@ Yudhishthira does not elaborate on his laconic statement, ‘I act because I mus
 23.Machiavelli might have been addressing the earlier Yudhishthira when he wrote, ‘a man who wishes to profess goodness at all times will come to ruin among so many who are not so good’.
 </i></p>
 
-<!---
+
 <p><i>
 24.The winner of the game was neither altruistic nor egoistic—but the person who used a strategy called ‘tit-for-tat’, or what Indians call ‘nehle pe dehla’.  ‘Tit-for-tat’ is in effect ‘reciprocal altruism’: do not confess on the first move; this sends a signal to your opponent that you are a nice person; from the second move onwards, however, mimic what your opponent does; if he is nice to you, reciprocate by being nice; if he is selfish, punish him in kind. This sends a message to the Duryodhanas of the world that you will retaliate if necessary. Each time that the tournament was replayed, ‘tit-for-tat’ or reciprocity won. Those who followed the selfish strategy always lost. Those who tried to be good like the earlier Yudhishthira in the forest also lost. Neither pure meanness nor pure goodness  paid off.  I learned from this game that the principle of reciprocity keeps cheats like Duryodhana in check. In contrast Mahatma Gandhi’s and Jesus’s teaching about turning the other cheek sends them a wrong signal that cheating pays.
 </i></p>
 
-
+<!---
 <p><i>
 25.Karl von Clausewitz, the German strategist, set out to explain the ‘inner meaning’ of war. He wrote, ‘War has no limits to violence . . . [The reason is that] each of the adversaries forces the hand of the other, and this results in continuous escalation, in which neither side is guilty even if it acts first, since every act can be called pre-emptive.’16 Once war begins, it inevitably escalates, without limit. (When Winston Churchill made the decision to fight Adolf Hitler, he did not know that the war would escalate into the fire-bombing of German cities in which thousands of civilians would die.) Great tragedy is inescapable in war.
 </i></p>
