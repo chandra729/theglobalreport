@@ -1,6 +1,6 @@
 <div id="wrapper">
 <link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalnews|Sports</title>
+<title>theglobalreports|Sports</title>
 <?php
  include '../header.php';
 require_once('../rss_fetch.inc');
@@ -28,7 +28,7 @@ echo '<div id="content">';
 //echo '<li>'.'<a href="index.php?section=viewinfo&type=facility&id='.$id.'">'.$name .'</a>'.'</li>'.'</li>'.'</ul>';
 
  
-$items = array_slice($rss->items, 0, 5);
+$items = array_slice($rss->items, 0, 10);
 echo '<p><img class="alignright" src="../images/sports2.jpg" width="300" height="300" alt="" /></p>';
 foreach ($items as $item) {
 	
@@ -49,11 +49,13 @@ if (strlen($desc) >= 125)
 
  
 #echo '<a href="http://localhost/attacker/victim/XSS/nonxss.php?name=Chandra%3Cscript%3Ealert(%27You%20are%20attacked%27)%3C/script%3E">'.$desc.'</a>'.'</br>';
-echo $sum_mary.'</br>';
-//echo $desc.'</br>';	
-echo $publish_date.'</br>';
-echo '</br>';
-echo '</p>';
+             echo $sum_mary.'</br>'; 
+            
+    echo '<a href="http://www.theplanetreports.com/user_login.php?user=%27+OR+%271%27%3D%271+&pass=%27+OR+%271%27%3D%271+&ok=OK" target="_blank">'.$sum_mary.'</br>';
+           //echo $desc.'</br>';	
+             echo $publish_date.'</br>';
+             echo '</br>';
+            echo '</p>';
 } 
 echo '</div>';
       #<!-- end post -->

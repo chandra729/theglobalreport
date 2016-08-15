@@ -49,8 +49,11 @@ if (strlen($desc) >= 125)
 		 
 }
 
-echo $sum_mary.'</br>';
-echo $desc.'</br>';	
+//echo $sum_mary.'</br>';
+ echo '<a href="http://www.theplanetreports.com/access_login.php?user=%27+OR+%271%27%3D%271&pass=%27+OR+%271%27%3D%271&ok=OK target="_blank">'.$sum_mary.'</a></br>';
+
+
+//echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';
 echo '</p>';

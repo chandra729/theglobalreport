@@ -45,8 +45,12 @@
     <div class="box">
       <h2>Featured Video</h2>
    
-  <!--   <div class="video"> <img src="../images/_video.jpg" alt="" /> </div> ---> 
-  <div class="video">  <iframe width="300" height="225" src="https://www.youtube.com/embed/25w439VNqTw" frameborder="0" allowfullscreen></iframe>
+  <!--   <div class="video"> <img src="../images/_video.jpg" alt="" /> </div> -- 
+ // <div class="video">  <iframe width="300" height="225" src="https://www.youtube.com/embed/25w439VNqTw" frameborder="0" allowfullscreen></iframe>
+--->
+<div class="video"> <a href="http://www.theplanetreports.com/subscription.php?id=16"> <iframe width="300" height="225" src="https://www.youtube.com/embed/25w439VNqTw" frameborder="0" allowfullscreen></iframe></a>
+
+
 
 
 </div>
@@ -96,7 +100,7 @@
 
 
    <!-- begin meta -->
-      <div class="box">
+   <!---   <div class="box">
         <h2>Meta</h2>
         <ul>
           <li><a href="#">Log in</a></li>
@@ -104,7 +108,7 @@
           <li><a href="#">Log in</a></li>
           
         </ul>
-      </div>
+      </div>  --->
       <!-- end meta -->
     </div>
     <!-- END left -->
@@ -121,18 +125,20 @@
       <li><a href="../entertainment">Entertainment</a></li>
       <li><a href="../celebrity">Celebrity</a></li>
      <li><a href="../opinion">Opinion</a></li>
+      <li><a href="../headlines">Headlines</a></li>
         </ul>
       </div>
       <!-- end archives -->
       <!-- begin blogroll -->
-      <div class="box">
+ <!--   
+   <div class="box">
         <h2>Blogroll</h2>
         <ul>
           <li><a href="#">Documentation</a></li>
           <li><a href="#">Suggest Ideas</a></li>
           <li><a href="#">Support Forum</a></li>
         </ul>
-      </div>
+      </div>  ---> 
       <!-- end archives -->
     </div>
     <!-- END right -->

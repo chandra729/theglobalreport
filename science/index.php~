@@ -28,7 +28,7 @@ echo '<div id="content">';
 
  
 $items = array_slice($rss->items, 0, 5);
-echo '<p><img class="alignright" src="../images/sports2.jpg" width="300" height="300" alt="" /></p>';
+//echo '<p><img class="alignright" src="../images/sports2.jpg" width="300" height="300" alt="" /></p>';
 foreach ($items as $item) {
 	
 	       $title = $item['title'];
@@ -48,7 +48,7 @@ if (strlen($desc) >= 125)
 
  
 #echo '<a href="http://localhost/attacker/victim/XSS/nonxss.php?name=Chandra%3Cscript%3Ealert(%27You%20are%20attacked%27)%3C/script%3E">'.$desc.'</a>'.'</br>';
-echo $sum_mary.'</br>';
+echo '<a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">'.$sum_mary.'</br>';
 //echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';

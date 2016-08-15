@@ -4,9 +4,9 @@
 require_once('rss_fetch.inc');
 $url = // 'http://feeds.bbci.co.uk/news/rss.xml';
       //  'http://feeds.reuters.com/Reuters/worldNews';
-  //	'http://feeds.mashable.com/Mashable?format=xml';
+  	'http://feeds.mashable.com/Mashable?format=xml';
       //'http://www.espncricinfo.com/rss/content/story/feeds/0.xml';
-	'http://www.huffingtonpost.com/feeds/index.xml';
+	//'http://www.huffingtonpost.com/feeds/index.xml';
 //'http://www.theverge.com/rss/frontpage';
 //'http://www.wired.com/feed/';
 //'http://feeds.feedburner.com/thr/news';
@@ -42,23 +42,22 @@ $items = array_slice($rss->items, 0, 2);
 foreach ($items as $item) {
 	
 	       $title = $item['title'];
-		   $desc = $item['description'];
-           $href = $item['link'];
+             $desc = $item['description'];
+             $href = $item['link'];
 		   $publish_date=$item['pubdate'];
 		   $sum_mary=$item['summary'];
 		    echo '<p>'.'<h2>'.'<a href="'.$href.'">'.$title.'</a>'.'</h2>'.'</br>';
-        
- 	      
-	 	
+
+
+         	     	 	
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,50).".";
+        $desc = substr($desc,0,5).".";
 		 
 }
 //echo $desc.'</br>';
-
+         	     	 	
 ?>
-
 
 
 <div class="o post"> <a href="#"><img src="images/_thumb..jpg" alt="" /></a>
@@ -66,14 +65,17 @@ if (strlen($desc) >= 125)
         <p>
 
              <?php
+
+         echo "<a href=\"http://www.theplanetreports.com/redirecturl.php?url=http://www.theplanetreports.com\" target=\"_blank\">".$publish_date.'</br>';
+                       // echo $desc.'</br>';
                         echo $sum_mary.'</br>';
-                        echo $publish_date.'</br>';
+                     //   echo $publish_date.'</br>';
                         echo '</br>';
                         echo '</p>';
                ?> 
 
         </p>
-        <p class="readmore">[ <a href="#">read more</a> ]</p>
+      <!--  <p class="readmore">[ <a href="#">read more</a> ]</p> --> 
         <div class="break"></div>
       </div>
 

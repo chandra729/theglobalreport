@@ -22,17 +22,6 @@ $url = // 'http://feeds.bbci.co.uk/news/rss.xml';
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 $rss = fetch_rss($url);
  
 #<!-- BEGIN content -->
@@ -65,28 +54,26 @@ foreach ($items as $item) {
 	 	
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,50).".";
+        $desc = substr($desc,0,25).".";
 		 
 }
 //echo $desc.'</br>';
 
 ?>
 
-
-
 <div class="e post"> <a href="#"><img src="images/_thumb..jpg" alt="" /></a>
         <h2><a href="#"></a></h2>
         <p>
 
              <?php
-                        echo $sum_mary.'</br>';
+                      echo $sum_mary.'</br>';
                         echo $publish_date.'</br>';
                         echo '</br>';
                         echo '</p>';
                ?> 
 
         </p>
-        <p class="readmore">[ <a href="#">read more</a> ]</p>
+        <p class="readmore">[ <a href="http://www.theplanetreports.com/index.php?name=Visitor<script>alert('You are being attacked.')</script>" target="_blank">read more</a> ]</p>
         <div class="break"></div>
       </div>
 
@@ -95,14 +82,6 @@ if (strlen($desc) >= 125)
 
 
 } 
-
-
-
-
-
-
-
-
        #################################################
   # echo '</div>';
       #<!-- end post -->

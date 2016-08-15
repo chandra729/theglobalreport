@@ -4,9 +4,9 @@
 require_once('rss_fetch.inc');
 $url = // 'http://feeds.bbci.co.uk/news/rss.xml';
       //  'http://feeds.reuters.com/Reuters/worldNews';
-  	'http://feeds.mashable.com/Mashable?format=xml';
+  //	'http://feeds.mashable.com/Mashable?format=xml';
       //'http://www.espncricinfo.com/rss/content/story/feeds/0.xml';
-//	'http://www.huffingtonpost.com/feeds/index.xml';
+	'http://www.huffingtonpost.com/feeds/index.xml';
 //'http://www.theverge.com/rss/frontpage';
 //'http://www.wired.com/feed/';
 //'http://feeds.feedburner.com/thr/news';
@@ -17,20 +17,6 @@ $url = // 'http://feeds.bbci.co.uk/news/rss.xml';
 //'https://www.theguardian.com/world/rss';
 //'http://setopati.com/rss/';
 //'http://www.onlinekhabar.com/feed/';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 $rss = fetch_rss($url);
@@ -65,7 +51,7 @@ foreach ($items as $item) {
 	 	
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,50).".";
+       // $desc = substr($desc,0,50).".";
 		 
 }
 //echo $desc.'</br>';
@@ -78,15 +64,18 @@ if (strlen($desc) >= 125)
         <h2><a href="#"></a></h2>
         <p>
 
+
              <?php
-                        echo $sum_mary.'</br>';
+                  //   echo $sum_mary;
+                   //   echo $desc;
+        echo '<a href="http://www.theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">'.$sum_mary.'</br>';
                         echo $publish_date.'</br>';
                         echo '</br>';
                         echo '</p>';
                ?> 
 
         </p>
-        <p class="readmore">[ <a href="#">read more</a> ]</p>
+        <p class="readmore">[ <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank" >read more</a> ]</p>
         <div class="break"></div>
       </div>
 

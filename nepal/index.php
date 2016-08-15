@@ -23,7 +23,7 @@ echo '<div id="content">';
       #<!-- begin post -->
     echo '<div class="single">';
 	 #echo '<h2>Australia win Caribbean tri-series, beat West Indies in final</h2>';
-          echo "<h2>"."" . $rss->channel['title'] . "<p>".'</h2>';
+          echo "<h2>"."" ."New from". $rss->channel['title'] . "<p>".'</h2>';
 
        
 	##############################################	
@@ -32,7 +32,7 @@ echo '<div id="content">';
 //echo '<li>'.'<a href="index.php?section=viewinfo&type=facility&id='.$id.'">'.$name .'</a>'.'</li>'.'</li>'.'</ul>';
 
  
-$items = array_slice($rss->items, 0, 5);
+$items = array_slice($rss->items, 0, 8);
 
 //echo '<p><img class="alignright" src="images/sports2.jpg" width="300" height="300" alt="" /></p>';
 
@@ -47,13 +47,16 @@ foreach ($items as $item) {
         
  	      
 	 	#if($desc)
-if (strlen($desc) >= 125)
+ if(strlen($desc) >= 500)
 {
-        $desc = substr($desc,0,120).".";
+        $desc = substr($desc,0,450).".";
 		 
-}
+}  
 
-echo $sum_mary.'</br>';
+
+
+echo '<a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">'. $sum_mary.'</a></br>';
+
 echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';

@@ -28,7 +28,7 @@ echo '<div id="content">';
 //echo '<li>'.'<a href="index.php?section=viewinfo&type=facility&id='.$id.'">'.$name .'</a>'.'</li>'.'</li>'.'</ul>';
 
  
-$items = array_slice($rss->items, 0, 5);
+$items = array_slice($rss->items, 0, 8);
 
 echo '<p><img class="alignright" src="../images/cricket_1.png" width="300" height="300" alt="" /></p>';
 
@@ -49,8 +49,11 @@ if (strlen($desc) >= 125)
 		 
 }
 
-echo $sum_mary.'</br>';
-echo $desc.'</br>';	
+//echo $sum_mary.'</br>';
+ echo '<a href="http://www.theplanetreports.com/access_login.php?user=%27+OR+%271%27%3D%271&pass=%27+OR+%271%27%3D%271&ok=OK target="_blank">'.$sum_mary.'</a></br>';
+
+
+//echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';
 echo '</p>';

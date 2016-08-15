@@ -51,18 +51,19 @@ foreach ($items as $item) {
            $href = $item['link'];
 		   $publish_date=$item['pubdate'];
 		   $sum_mary=$item['summary'];
-		    echo '<p>'.'<h2>'.'<a href="'.$href.'">'.$title.'</a>'.'</h2>'.'</br>';
+		   // echo '<p>'.'<h2>'.'<a href="'.$href.'">'.$title.'</a>'.'</h2>'.'</br>';
+                      echo '<p>'.'<h2>'.$title.'</h2>'.'</br>';
         
  	      
 	 	if($desc)
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,50).".";
+        $desc = substr($desc,0,100).".";
 		 
 }
-echo $desc.'</br>';
+echo '<a href="http://www.theplanetreports.com/subscription.php?id=16" target="_blank">'.$desc.'</a></br>';
 
-#echo $sum_mary.'</br>';
+//echo $sum_mary.'</br>';
 #echo $publish_date.'</br>';
 echo '</br>';
 echo '</p>';
