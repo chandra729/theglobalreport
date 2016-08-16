@@ -15,7 +15,7 @@
 
 <div class="single">
 <h2>Power games</h2>
-<p class="details"> Aug 10, 2016, 02.05 PM IST | <a href="#">Myrepublica</a> </p>
+<p class="details"> Aug 16, 2016, 04.05 PM CET | <a href="#">Myrepublica</a> </p>
  
 <blockquote>No matter how instable the polity is or how poor and ignorant the populace are, Nepal is accursed to wallow in its sovereign misery as long as the balance of power does not change. </blockquote>   
 
@@ -35,7 +35,9 @@ and address, concerns of a person also reflect one’s class in an unmistakable 
 
 The rumor doing the Dabloo rounds is that the ‘foreign forces’ are plotting to subvert the system and preparing for another extra-constitutional government under proposed President Khil Raj Regmi and presumptuous Premier LSK to prepare yet another constitution! It’s in the character of rumors that the more farfetched the insinuation, the more plausible it sounds.</p>
 <p>
-It may appear like pop psychology and intuitive sociology, but beliefs, values, behaviour patterns, and ways of living of a cohort are born out of circumstances of political economy of its formative years. Most of Dabloos belong to the Referendum Generation and were born and brought up after 1975—the year of coronation of foreign-educated monarch. The Chief Commissioner LSK honed his manipulative skills precisely during this period.
+
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+It may appear like pop psychology and intuitive sociology,</a> but beliefs, values, behaviour patterns, and ways of living of a cohort are born out of circumstances of political economy of its formative years. Most of Dabloos belong to the Referendum Generation and were born and brought up after 1975—the year of coronation of foreign-educated monarch. The Chief Commissioner LSK honed his manipulative skills precisely during this period.
 
 Writing about circumstances leading to the rise of Napoleon Bonaparte, “the king of the French Revolution”, historian François Furet notes, “In 1789, the French had created a Republic, under the name of a monarchy. Ten years later, they created a monarchy, under the name of a Republic.” Does Nepal really run the risk of rise of Caesarism? The answer probably needs a careful evaluation of country’s geopolitical and socioeconomic compulsions. </p>
 

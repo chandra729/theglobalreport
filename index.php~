@@ -6,9 +6,51 @@ include 'header.php';
  <div id="content">
     <!-- begin featured ---------------------------------------------------------------------------------------------------------------->
     <div id="featured">
+
+<!------------------------------------------------------------------------------------------------------------------------------>
+ <div class="post">
+<!--------------------------------------------------------------------------------------------------------------------------->
+ <h2> <a href="/featured/20160816-independene-day-speech.php">Independence Day speech: Thank you PM Narendra Modi, for not launching new schemes</a></h2>
+       
+
+
+       <p class="details"> Aug 16, 2016, 12.23 PM IST| <a href="#">Dinesh Unnikrishnan</a> </p>
+           <div class="thumb"><a href="#"><img src="images/indepen.jpg" alt="indepen" /></a></div>
+       
+ <p>Prime minister Narendra Modi’s Independence Day Speech from the ramparts of Red Fort on Monday morning has been analysed threadbare to know what his words meant or not meant </p>
+
+<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">A precise 77 words the PM uttered on on how people from Balochistan</a>Gilgit and Pakistan Occupied Kashmir..</p>
+     
+  <p class="readmore">[ <a href="/featured/20160816-independence-day-speech.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+<!------------------------------------------------------------------------------------------------------------------------------>
+ <div class="post">
+<!--------------------------------------------------------------------------------------------------------------------------->
+ <h2> <a href="/featured/20160816-donald-trump.php">Donald Trump proposes TITMUS test for visitors to US from terror-prone areas</a></h2>
+       
+
+ <p class="details">Aug 16, 2016, 11.44 AM IST| <a href="#">Chidanand Rajghatta |TNN|</a> </p>
+ <div class="thumb"><a href="#"><img src="/images/donald.jpeg" alt="trump" /></a></div>
+       
+
+
+        <p> Attention prospective immigrants and visitors to the United States, Muslims in particular — stand-by to fill in the TITMUS form <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">if you wish to enter America under a Trump administration.</a></p>
+
+
+ <p class="readmore">[ <a href="/featured/20160816-donald-trump.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div> 
+
+
+
+
+
+
+
+<!--------------------------------------------------------------------->
       <div class="post">
-	  
-    <!----------------------------------------------------------------------------------------------------------------------------->   
+<!----------------------------------------------------------------------------------------------------------------------------->   
      <h2> <a href="/featured/20160815-pakistan-invites-self.php">Pakistan invites self-exiled Balochistan leaders for talks</a></h2>
        
 
@@ -38,16 +80,17 @@ include 'header.php';
 
 
         
-<p> On a leafy side street off Independence Square in Kiev is an office used for years by Donald J. Trump’s campaign chairman, Paul Manafort, when he consulted for Ukraine’s ruling political party. His furniture and personal items were still there <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">as recently as May</a>.</p>
+<p> On a leafy side street off Independence Square in Kiev is an office used for years by Donald J. Trump’s campaign chairman, Paul Manafort, when he consulted for Ukraine’s ruling political party. His furniture and personal items were still there <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">as recently as May.</a></p>
  <p class="readmore">[ <a href="/featured/20160815-secret-ledge-ukraine.php">read more</a> ]</p>
 	          	<div class="break"></div>
      </div>  
   
-   <!--<p> <a href="http://localhost/attacker/victim/login.php?username=%27%20OR%20%271%27=%271&password=%27%20OR%20%271%27=%271">From the moment </a> he first declared it, the plan has been a signature of his campaign for president: "Donald J Trump is calling for a total and complete shutdown of Muslims entering the United States until our country's representatives can figure out what is going on." -->
+   <!--<p> <a href="http://localhost/attacker/victim/login.php?username=%27%20OR%20%271%27=%271&password=%27%20OR%20%271%27=%271">From the moment </a> he first declared it, the plan has been a signature of his campaign for president: "Donald J Trump is calling for a total and complete shutdown of Muslims entering the United States until our country's representatives can figure out what is going on." --
 
 
 
-<!------------------------------------------------------------------------>
+
+<!------------------------------------------------------------------------------------------------------------------------------>
  </div>
 
 
