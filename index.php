@@ -10,7 +10,7 @@ include 'header.php';
 <!------------------------------------------------------------------------------------------------------------------------------>
  <div class="post">
 <!--------------------------------------------------------------------------------------------------------------------------->
- <h2> <a href="/featured/20160816-independene-day-speech.php">Independence Day speech: Thank you PM Narendra Modi, for not launching new schemes</a></h2>
+ <h2> <a href="/featured/20160816-independence-day-speech.php">Independence Day speech: Thank you PM Narendra Modi, for not launching new schemes</a></h2>
        
 
 
