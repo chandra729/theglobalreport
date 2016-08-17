@@ -1,9 +1,10 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|Entertainment</title>
 <?php
- include '../header.php';
+include '../header.php';
 require_once('../rss_fetch.inc');
+
+
+//<title>theglobalreports|Entertainment</title>
+
 $url = //'http://feeds.bbci.co.uk/news/rss.xml';
        // $url='http://feeds.mashable.com/Mashable?format=xml';
        //  $url= 'http://feeds.reuters.com/Reuters/worldNews';
@@ -38,20 +39,20 @@ foreach ($items as $item) {
 	
 	       $title = $item['title'];
 		   $desc = $item['description'];
-           $href = $item['link'];
+                   $href = $item['link'];
 		   $publish_date=$item['pubdate'];
 		   $sum_mary=$item['summary'];
-		    echo '<p>'.'<h2>'.'<a href="'.$href.'">'.$title.'</a>'.'</h2>'.'</br>';
+echo '<p>'.'<h2>'.'<a href="'.$href.'">'.$title.'</a>'.'</h2>'.'</br>';
         
  	      
 	 	#if($desc)
 if (strlen($desc) >= 125)
 {
-        $desc = substr($desc,0,120).".";
+        $desc = substr($desc,0,5).".";
 		 
 }
 
-echo   '<a href="http://www.theplanetreports.com/transfer.php?PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&money=900&transfer=Transfer" target="_blank">'.$sum_mary.'</br>';
+echo '<a href="http://www.theplanetreports.com/transfer.php?PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&money=900&transfer=Transfer" target="_blank">'.$desc.$sum_mary.'</br>';
 //echo $desc.'</br>';	
 echo $publish_date.'</br>';
 echo '</br>';
@@ -66,4 +67,7 @@ echo '</div>';
 include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
- ?> 
+ ?>
+
+</body>
+</html> 

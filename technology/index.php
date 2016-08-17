@@ -1,6 +1,3 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|Technology</title>
 <?php
  include '../header.php';
 require_once('../rss_fetch.inc');
@@ -69,3 +66,8 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
+
+</body>
+</html>
+
+

@@ -1,8 +1,7 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports।Headlines </title>
 <?php
- include '../header.php';
+
+//<title>theglobalreports।Headlines </title>
+include '../header.php';
 require_once('../rss_fetch.inc');
 $feeds = array(
 
@@ -70,3 +69,7 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
+</body>
+</html>
+
+

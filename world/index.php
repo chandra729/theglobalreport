@@ -1,9 +1,9 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|World</title>
 <?php
- include '../header.php';
+include '../header.php';
 require_once('../rss_fetch.inc');
+
+//index world 
+
 $url = //'http://www.wired.com/category/science/feed/';
         //'http://feeds.mashable.com/Mashable?format=xml';
            'http://rss.nytimes.com/services/xml/rss/nyt/World.xml';
@@ -63,4 +63,7 @@ echo '</div>';
 include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
- ?> 
+ ?>
+
+</body>
+</html>

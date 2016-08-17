@@ -1,5 +1,3 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
 <?php
   include '../header.php';
  ?> 
@@ -102,7 +100,7 @@ Many Indian Trump supporters believe his proposals will be aimed only at ''radic
 
 <p><cite><a href="http://timesofindia.indiatimes.com/us-elections-2016/Donald-Trump-proposes-TITMUS-test-for-visitors-to-US-from-terror-prone-areas/articleshow/53718980.cms">Source</a></cite></p>
 		
-		
+</div>		
        
 </div>
 <!-- end post -->
@@ -113,4 +111,7 @@ Many Indian Trump supporters believe his proposals will be aimed only at ''radic
 <?php	 
      include '../footer.php';
   ?> 
+
+</body>
+</html>
 

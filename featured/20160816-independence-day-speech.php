@@ -1,5 +1,3 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
 <?php
   include '../header.php';
  ?> 
@@ -74,7 +72,7 @@ This applies to not just reforms but all key government schemes. In this context
 
 <p><cite><a href="http://www.firstpost.com/politics/independence-day-speech-thank-you-pm-narendra-modi-for-not-launching-new-schemes-2958418.html">Source</a></cite></p>
 		
-		
+</div>		
        
 </div>
 <!-- end post -->
@@ -85,4 +83,8 @@ This applies to not just reforms but all key government schemes. In this context
 <?php	 
      include '../footer.php';
   ?> 
+
+</body>
+</html>
+
 

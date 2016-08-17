@@ -1,9 +1,9 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports।नेपाल </title>
+
 <?php
  include '../header.php';
 require_once('../rss_fetch.inc');
+//<title>theglobalreports।नेपाल </title>
+
 $url = //'http://feeds.bbci.co.uk/news/rss.xml';
        // $url='http://feeds.mashable.com/Mashable?format=xml';
 		// $url= 'http://feeds.reuters.com/Reuters/worldNews';
@@ -72,3 +72,7 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
+
+</body>
+</html>
+

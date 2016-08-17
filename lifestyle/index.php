@@ -1,9 +1,7 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|LifeStyle</title>
 <?php
- include '../header.php';
+include '../header.php';
 require_once('../rss_fetch.inc');
+//<title>theglobalreports|LifeStyle</title>
 $url = //'http://feeds.bbci.co.uk/news/rss.xml';
        // $url='http://feeds.mashable.com/Mashable?format=xml';
        //  $url= 'http://feeds.reuters.com/Reuters/worldNews';
@@ -71,4 +69,8 @@ echo '</div>';
 include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
- ?> 
+ ?>
+
+
+</body>
+</html> 

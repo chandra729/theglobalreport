@@ -1,25 +1,22 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
 <?php
   include '../header.php';
- ?> 
+?> 
 <!-- BEGIN content -->
 <div id="content">
 <!-- begin recent posts -->
 <div class="recent">
-<!-- begin post ----------------------------------------------->
+<!-- begin post -->
 <div class="single">
-<h5><a href="/index.php">Back </a> </h5>
+<h5><a href="/index.php">Back </a></h5>
     
 <h2>Pakistan invites self-exiled Balochistan leaders for talks</h2>
        
 
 
 <p>Days after Prime Minister Narendra Modi spoke about the atrocities being carried out on the people of Balochistan and Pakistan-occupied Kashmir 
-(PoK),<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">Pakistan has invited self-exiled Baloch leaders</a> for talks while stating that dialogue is the only way to find a solution to all issues. for talks while stating that dialogue is the only way to find a solution to all issues..</p>
+(PoK),<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">Pakistan has invited self-exiled Baloch leaders</a> for talks while stating that dialogue is the only way to find a solution to all issues. for talks while stating that dialogue is the only way to find a solution to all issues.</p>
         
-<p><img class="alignright" src="/images/pak-invite.png" width="250" height="250" alt="IronSharmila" /></p>';
-
+<p><img class="alignright" src="/images/pak-invite.png" width="250" height="250" alt="IronSharmila" /></p>
 <p>Balochistan chief minister Nawab Sanaullah Zehri and commander of southern command Lieutenant General Aamir Riaz said that they would welcome Baloch leaders' return to the country, Dawn reported. The invite was extended at the national flag-hoisting ceremony at the Quaid-i-Azam Residency in Ziarat, a district in Balochistan, on the occasion of the 70th Independence Day celebrations of Pakistan on Sunday.
 </p>
 
@@ -56,8 +53,10 @@ On Monday, Modi also hit out at Pakistan for supporting terrorism. This, he said
 </div>
 <!-- end recent posts -->
 </div>
+</div>
 <!-- END content -->
 <?php	 
-     include '../footer.php';
-  ?> 
-
+       include '../footer.php';
+?> 
+</body>
+</html>

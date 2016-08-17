@@ -1,8 +1,6 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
 <?php
   include '../header.php';
- ?> 
+?> 
 <!-- BEGIN content -->
 <div id="content">
 <!-- begin recent posts -->
@@ -142,7 +140,7 @@ There was another item with Mr. Yanukovych’s autograph: a piece of white paper
 
 <p><cite><a href="http://www.nytimes.com/2016/08/15/us/politics/paul-manafort-ukraine-donald-trump.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news ">Source</a></cite></p>
 		
-		
+</div>		
        
 </div>
 <!-- end post -->
@@ -153,4 +151,8 @@ There was another item with Mr. Yanukovych’s autograph: a piece of white paper
 <?php	 
      include '../footer.php';
   ?> 
+
+</body>
+</html>
+
 

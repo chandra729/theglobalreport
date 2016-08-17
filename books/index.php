@@ -1,9 +1,9 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|Books</title>
 <?php
   include '../header.php';
- ?> 
+  
+//<title>theglobalreports|Books</title>
+?>
+
 <!-- BEGIN content -->
 <div id="content">
 <!-- begin recent posts -->
@@ -153,7 +153,7 @@ Yudhishthira does not elaborate on his laconic statement, ‘I act because I mus
 
 <p><i>
 
-<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank">24.The winner of the game was neither altruistic nor egoistic—but</a> the person who used a strategy called ‘tit-for-tat’, or what Indians call ‘nehle pe dehla’.  ‘Tit-for-tat’ is in effect ‘reciprocal altruism’: do not confess on the first move; this sends a signal to your opponent that you are a nice person; from the second move onwards, however, mimic what your opponent does; if he is nice to you, reciprocate by being nice; if he is selfish, punish him in kind. This sends a message to the Duryodhanas of the world that you will retaliate if necessary. Each time that the tournament was replayed, ‘tit-for-tat’ or reciprocity won. Those who followed the selfish strategy always lost. Those who tried to be good like the earlier Yudhishthira in the forest also lost. Neither pure meanness nor pure goodness  paid off.  I learned from this game that the principle of reciprocity keeps cheats like Duryodhana in check. In contrast Mahatma Gandhi’s and Jesus’s teaching about turning the other cheek sends them a wrong signal that cheating pays.
+<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank"> 24.The winner of the game was neither altruistic nor egoistic—but </a> the person who used a strategy called ‘tit-for-tat’, or what Indians call ‘nehle pe dehla’.  ‘Tit-for-tat’ is in effect ‘reciprocal altruism’: do not confess on the first move; this sends a signal to your opponent that you are a nice person; from the second move onwards, however, mimic what your opponent does; if he is nice to you, reciprocate by being nice; if he is selfish, punish him in kind. This sends a message to the Duryodhanas of the world that you will retaliate if necessary. Each time that the tournament was replayed, ‘tit-for-tat’ or reciprocity won. Those who followed the selfish strategy always lost. Those who tried to be good like the earlier Yudhishthira in the forest also lost. Neither pure meanness nor pure goodness  paid off.  I learned from this game that the principle of reciprocity keeps cheats like Duryodhana in check. In contrast Mahatma Gandhi’s and Jesus’s teaching about turning the other cheek sends them a wrong signal that cheating pays.
 </i></p>
 
 
@@ -196,8 +196,10 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 
 <p><i>
 32.In pursuit of this aim, Indians began to elaborate early on mental exercises or meditative disciplines, which became known by the generic term ‘yoga’. The earliest references to yoga are found in the Upanishads, but over time many different kinds of yoga developed. The word ‘yoga’ comes from the Sanskrit root yuj, ‘to yoke’—in the sense of yoking one thing to another—the  point being to merge or unite the atman, the ‘soul’, with the brahman, ‘universal essence’. Although the ontology varies from system to system, the common starting point is that ordinary daily life is characterized by ‘being led astray’ by our phenomenal ‘self’ (our sense of I-ness, ahamkara) and the distracting busy-ness of one’s mind and everyday activity. Patanjali stated the purpose of yoga concisely in the first sentence of his classic Yoga Sutras: chitta-vritti-nirodha, ‘calm the ceaseless activity of the mind’. Through mental steadiness, right breathing and benevolence towards others, one’s mind becomes ‘one-pointed’ and prepares to distance itself from the deluded sense of I-ness, recognizing the true ‘self’.
-<!---
+
 </i></p>
+<!--
+
 33.Virginia Woolf, the writer, made a similar observation: Examine for a moment an ordinary mind on an ordinary day. The mind receives myriad impressions—trivial, fantastic, evanescent, or engraved with the sharpness of steel. From all sides they come, an incessant shower of innumerable atoms; and as they fall, as they shape themselves into the life of Monday or Tuesday the accent falls differently from of old; the moment of importance came not here but there; so that if a writer were a free man and not a slave, if he could write what he chose, not what he must, if he could base his work upon his own feeling and not upon convention, there would be no plot, no comedy, no tragedy, no love interest  or catastrophe in the accepted style, and perhaps not a single button sewn on as the Bond Street tailors would have it. Life is not a series of gig lamps symmetrically arranged; but a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.
 
 <p><i>
@@ -283,7 +285,7 @@ Immanuel Kant expressed famously in these words: ‘Out of timber so crooked as 
 <p><i>
 49.Modern democracies expend a huge amount of energy in debates between the political Left and the Right when the greater divide is between conduct in accordance with dharma and adharma.
 </i></p>
-	---> 
+	--> 
 </div>
 <!-- end post -->
 
@@ -291,7 +293,7 @@ Immanuel Kant expressed famously in these words: ‘Out of timber so crooked as 
 
 <!-- Begin post -->
 
-<!----
+<!--
 <div class="single">
 <h2>Hungry  games</h2>
 <p class="details"> Aug 10, 2016, 02.05 PM IST | <a href="#">Myrepublica</a> </p>
@@ -307,15 +309,12 @@ The more practical option is to limit CIAA’s role into investigations. Absolut
 
 <!-- Begin post -->
 
-<!---
-
+<!--
 <div class="single">
 <h2>Hungry  games</h2>
-<p class="details"> Aug 10, 2016, 02.05 PM IST | <a href="#">Myrepublica</a> </p>
+<p class="details"> Aug 10, 2016, 02.05 PM IST | <a href="#">Myrepublica</a> </p> --> 
 
----> 
-
-<!--- </div>
+<!--- </div> -->
 <!-- end post -->
 <h5><a href="/index.php">Back </a> </h5>  
 </font>
@@ -330,8 +329,8 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
-
-
+</body>
+</html>
 
 
 

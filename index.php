@@ -1,9 +1,7 @@
-<div id="wrapper">
 <?php
 include 'header.php';
 ?> 
- 
- <div id="content">
+<div id="content">
     <!-- begin featured ---------------------------------------------------------------------------------------------------------------->
     <div id="featured">
 
@@ -20,7 +18,7 @@ include 'header.php';
        
  <p>There may be no more shopworn and meaningless cliché in politics than the idea of election winners having mandates. Yet you hear about it all the time.  </p>
 
-<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">A president who wins election by any margin large or small will claim a mandate to push through his policy agenda.</p>
+<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">A president who wins election by any margin large or small will claim a mandate to push through his policy agenda.</a></p>
      
   <p class="readmore">[ <a href="/featured/20160817-clinton-wins-she-wont-be-empowered-the-way.php">read more</a> ]</p>
 	          	<div class="break"></div>
@@ -116,12 +114,8 @@ include 'header.php';
 	          	<div class="break"></div>
      </div>  
   
-   <!--<p> <a href="http://localhost/attacker/victim/login.php?username=%27%20OR%20%271%27=%271&password=%27%20OR%20%271%27=%271">From the moment </a> he first declared it, the plan has been a signature of his campaign for president: "Donald J Trump is calling for a total and complete shutdown of Muslims entering the United States until our country's representatives can figure out what is going on." --
 
-
-
-
-<!------------------------------------------------------------------------------------------------------------------------------>
+<!--                                                           -->
  </div>
 
 
@@ -211,7 +205,9 @@ include 'header.php';
      include 'footer.php';
   ?>  
 
- 
+
+</body>
+</html> 
   
   
   

@@ -1,5 +1,3 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
 <?php
   include '../header.php';
  ?> 
@@ -59,7 +57,7 @@ But a mandate for a president is an illusory and meaningless term. It would be b
 
 <p><cite><a href="http://www.salon.com/2016/08/17/hillary-wont-have-a-mandate-if-clinton-wins-she-wont-be-empowered-the-way-democrats-are-hoping/">Source</a></cite></p>
 		
-		
+</div>		
        
 </div>
 <!-- end post -->
@@ -70,4 +68,7 @@ But a mandate for a president is an illusory and meaningless term. It would be b
 <?php	 
      include '../footer.php';
   ?> 
+
+</body>
+</html>
 

@@ -1,9 +1,9 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|Books</title>
 <?php
   include '../header.php';
- ?> 
+  
+//<title>theglobalreports|Opinion</title>
+?>
+
 <!-- BEGIN content -->
 <div id="content">
 <!-- begin recent posts -->
@@ -168,7 +168,8 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
-
+</body>
+</html>
 
 
 

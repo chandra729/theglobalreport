@@ -1,18 +1,12 @@
-<!DOCTYPE html> 
-<html>
-<head> 
 
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|FeedBack</title>
-<link rel="stylesheet" href="css/elements.css" />
 <?php
  include 'header.php';
 ?>		
+<title>theglobalreports|FeedBack</title>
+<link rel="stylesheet" href="css/elements.css" />
 
- </head> 
- <!-- body starts here -->
- <body>
+<!-- body starts here -->
+ 
 <div class="container">
  <!-- feedback form starts here -->
  <div id="feedback">

@@ -1,4 +1,3 @@
-<div id="wrapper">
 <?php
  include 'header.php';
 ?> 
@@ -11,11 +10,13 @@
       <!-- begin post -->
       <div class="single">
         <h2>Contact Us</h2>
-        <p><h3>The globalreports.com is newly created news aggregator website.</h3>
-<h6>If you have any complaint against the content or claim of copyright violation please mail to the admin regarding your query.</h6>
-<h7>Queried will be resolved as soon as possible.
+        <p><h2>The globalreports.com is newly created news aggregator website.</h2>
 
-<p><b>Email id:  theglobalreports@gmail.com</b></p>  </h7>
+
+<h3>If you have any complaint against the content or claim of copyright violation please mail to the admin regarding your query.</h3>
+<h4>Queried will be resolved as soon as possible. </h4>
+
+<h5><p><b>Email id:  theglobalreports@gmail.com</b></p>  </h5>
 <a href="mailto:theglobalreports@gmail.com? target="_top">Send Mail</a>
 <h4>Thank you </h4></p>
       </div>
@@ -57,3 +58,7 @@
 <?php	 
      include 'footer.php';
   ?> 
+</body>
+</html>
+
+

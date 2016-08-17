@@ -1,7 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<html xmlns:og="http://ogp.me/ns#" >
-<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#"  xmlns:fb="http://www.facebook.com/2008/fbml"
+>
 
 <head>
 <meta name="msvalidate.01" content="095F99ABCD8665F06D60F88BF54D80E7" />
@@ -12,50 +11,41 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
-<meta http-equiv="Last-Modified" content="Wednesday, 17 August, 2016 3:45:10PM">
-<meta name="Last-Modified"       content="Wednesday, 17 August, 2016 3:45:10PM">
-<meta name="Last-Modified-Date"  content="Wed, August 17,2016">
-<meta name="Last-Modified-Time" content="3.45PM CET">
+<meta http-equiv="Last-Modified" content="Wednesday, 17 August, 2016 3:45:10PM"/>
+<meta name="Last-Modified"       content="Wednesday, 17 August, 2016 3:45:10PM"/>
+<meta name="Last-Modified-Date"  content="Wed, August 17,2016"/>
+<meta name="Last-Modified-Time" content="3.45PM CET"/>
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
 
-<meta name="author" content="theglobalreports.com">
+<meta name="author" content="theglobalreports.com"/>
 
 <meta name="keywords" content="news,latest news,breaking news,today news,world news,sports news,india latest news,recent news,local news,news headlines,news site,news website,latest cricket news,top news,Science,Political,Books,Lifestyle, Celebrity,Sport,entertainment news, Entertainment,online, nepal news, nepali news, latest nepali news, news portal,nepali politics,"/>
 
 <link rel="canonical" href="http://www.theglobalreports.com"/>
 
 
-<meta property="og:url" content="http://www.globalreports.com"/>
+<meta property="og:url" content="http://www.theglobalreports.com"/>
 <meta property="og:type" content="website"/>
-<meta property="og:site_name" content="globalreports"/>
+<meta property="og:site_name" content="theglobalreports"/>
 <meta property="og:title" content="Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theglobalreports.com|Digital Newspaper"/>
 
 <meta property="og:description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
 
-<meta property="og:image" content="http://globalreports.com/images/theglobalreports.png"/>   <!-- some image -->
+<meta property="og:image" content="http://www.theglobalreports.com/images/theglobalreports.png"/>   <!-- some image -->
 
 <meta property="fb:app_id" content="869701586495704"/>  
 
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@globalreport1"/>
+<meta name="twitter:title" content="Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theglobalreports.com|Digital Newspaper"/>
 
-<!-- <meta property="fb:pages" content="108349739223556"/>  <!-- remaining to get -->  
+<meta name="twitter:description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
 
+<meta name="twitter:image" content="http://www.theglobalreports.com/images/theglobalreports.png"/> 
 
-<!---
-*************************************************************************
-Twitter:  ---> 
-
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@globalreport1">
-<meta name="twitter:title" content="Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theglobalreports.com|Digital Newspaper">
-
-<meta name="twitter:description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity.">
-
-<meta name="twitter:image" content="http://globalreports.com/images/theglobalreports.png"/> 
-
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="../style.css" />
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="ie.css" /><![endif]-->
 <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
@@ -63,6 +53,8 @@ Twitter:  --->
 </head>
 
 <body>
+
+<div id="wrapper">
 
 <!-- BEGIN wrapper -->
 <!-- BEGIN header -->
@@ -100,9 +92,8 @@ Twitter:  --->
    
 <!-- Test : <a href="../index.php"><img src="../images/theglobalreports.png" alt="main_logo" style="width:50px;height:22px"  /></a>  --> 
  <!-- <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"> --> 
-  <!--
- <div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div> 
-
+  
+ <!--div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div>  --> 
 <!-- end sponsor -->
 
 
@@ -130,8 +121,9 @@ Twitter:  --->
     <!-- end categories -->
   </div>
   <!-- END header -->
+<!--End wrapper -->
 
 
-</body>
-</html>
+
+
 

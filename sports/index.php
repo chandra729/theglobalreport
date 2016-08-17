@@ -1,9 +1,10 @@
-<div id="wrapper">
-<link rel="stylesheet" type="text/css" href="../style.css" />
-<title>theglobalreports|Sports</title>
+
 <?php
  include '../header.php';
 require_once('../rss_fetch.inc');
+
+//title sports
+
 $url = //'http://www.wired.com/category/science/feed/';
         'http://feeds.bbci.co.uk/sport/rss.xml?edition=uk';
        //  'http://www.wired.com/category/gear/feed/';
@@ -67,3 +68,8 @@ include '../sidebar.php';
    echo '</div>';  	 
 include '../footer.php';
  ?> 
+
+</body>
+</html>
+
+
