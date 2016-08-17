@@ -13,10 +13,10 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<meta http-equiv="Last-Modified" content="Tuesday, 16 August, 2016 3:30:20PM">
-<meta name="Last-Modified"       content="Tuesday, 16 August, 2016 3:30:20PM">
-<meta name="Last-Modified-Date" content="Tue, August 16,2016">
-<meta name="Last-Modified-Time" content="3.20PM CET">
+<meta http-equiv="Last-Modified" content="Wednesday, 17 August, 2016 3:45:10PM">
+<meta name="Last-Modified"       content="Wednesday, 17 August, 2016 3:45:10PM">
+<meta name="Last-Modified-Date"  content="Wed, August 17,2016">
+<meta name="Last-Modified-Time" content="3.45PM CET">
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
@@ -54,15 +54,6 @@ Twitter:  --->
 <meta name="twitter:description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity.">
 
 <meta name="twitter:image" content="http://globalreports.com/images/theglobalreports.png"/> 
-
-<!--
-***************************************************
-Google:
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta content="ZgFICIedNvVZl5pV9EfAUeenwta9vBY0Za_GgmV4zuw" name="google-site-verification">
-<meta content="GdaeWTVPddYtkw-2hEyDpLYMw9SjsNr4dS5Z-9tfcT0" name="google-site-verification">
-<META content="b1abb36a8d5c19c9" name="y_key">
-<meta content="457417EC9132CC3C354E54899114BB98" name="msvalidate.01">  ---> 
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="ie.css" /><![endif]-->
