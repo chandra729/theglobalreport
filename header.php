@@ -5,9 +5,16 @@
 <head>
 <meta name="msvalidate.01" content="095F99ABCD8665F06D60F88BF54D80E7" />
 <meta name="yandex-verification" content="99331e0d34f6998d" />
+<meta name="google-site-verification" content="t1P6gGHQk-2TvFk1T0K6gI4gsYkYJyuobem9hMP4wXA" />
 
 
-<title>Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theglobalreports.com|Digital Newspaper </title>
+<meta name="naver-site-verification" content="79164d959d8510c0d4e407398d10e7a984a50253"/>
+
+
+
+
+
+<title>Latest News,World,Opinion,Books,Technology,Sports,Cricket,Nepal from theglobalreports.com </title>
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -47,6 +54,18 @@
 
 <link rel="stylesheet" type="text/css" href="../style.css" />
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="ie.css" /><![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82757888-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
