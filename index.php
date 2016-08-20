@@ -2,18 +2,36 @@
 include 'header.php';
 ?> 
 <div id="content">
-    <!-- begin featured ---------------------------------------------------------------------------------------------------------------->
+    <!-- begin featured -->
     <div id="featured">
 
-<!--------------------------------------------------------------------------------------------------------------------------->
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160820-Merkel-to-ban-burkas.php">Merkel to ban burkas </a></h2>
+       
+  <p class="details">Published:20th Aug 2016 08:30AM|Last Updated:20th Aug 2016 08:30 AM <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/merkel.png" alt="Merkel" /></a></div>
+       
+ Germany could impose a ban on women wearing burkas or full-face Islamic veils at schools .<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">and universities and while driving, under proposals announced by Angela Merkel's party. </a>  and universities and while driving, under proposals announced by Angela Merkel's party.
+     
+  <p class="readmore">[ <a href="/featured/20160820-Merkel-to-ban-burkas.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+<!-- start of post -->
         <div class="post">
 	  
-    <!----------------------------------------------------------------------------------------------------------------------------->   
+    <!--headlines -->   
      <h2> <a href="/featured/20160817-clinton-wins-she-wont-be-empowered-the-way.php">Hillary won’t have a mandate: If Clinton wins — she won’t be empowered the way Democrats are hoping </a></h2>
        
-
-
-       <p class="details"> Wednesday, Aug 17, 2016 12:00 PM CEST| <a href="#">Gary Legum</a> </p>
+  <p class="details"> Wednesday, Aug 17, 2016 12:00 PM CEST| <a href="#">Gary Legum</a> </p>
            <div class="thumb"><a href="#"><img src="images/hillary.png" alt="hillary" /></a></div>
        
  <p>There may be no more shopworn and meaningless cliché in politics than the idea of election winners having mandates. Yet you hear about it all the time.  </p>
@@ -24,21 +42,13 @@ include 'header.php';
 	          	<div class="break"></div>
      </div>  
   
-  <!-------------------------------------------------------------------------------------------------->  
+  <!-- end post -->  
 
 
 
-
-
-
-
-
-
-
-
-<!------------------------------------------------------------------------------------------------------------------------------>
+<!-- start post -->
  <div class="post">
-<!--------------------------------------------------------------------------------------------------------------------------->
+<!-- headlines -->
  <h2> <a href="/featured/20160816-independence-day-speech.php">Independence Day speech: Thank you PM Narendra Modi, for not launching new schemes</a></h2>
        
 
@@ -53,9 +63,11 @@ include 'header.php';
   <p class="readmore">[ <a href="/featured/20160816-independence-day-speech.php">read more</a> ]</p>
 	          	<div class="break"></div>
      </div>  
-<!------------------------------------------------------------------------------------------------------------------------------>
- <div class="post">
-<!--------------------------------------------------------------------------------------------------------------------------->
+<!--end post -->
+ 
+<!--start post -->
+<div class="post">
+<!--headline-->
  <h2> <a href="/featured/20160816-donald-trump.php">Donald Trump proposes TITMUS test for visitors to US from terror-prone areas</a></h2>
        
 
@@ -72,14 +84,12 @@ include 'header.php';
      </div> 
 
 
+<!--end post -->
 
+<!--start post -->
 
-
-
-
-<!--------------------------------------------------------------------->
       <div class="post">
-<!----------------------------------------------------------------------------------------------------------------------------->   
+<!--headline-->   
      <h2> <a href="/featured/20160815-pakistan-invites-self.php">Pakistan invites self-exiled Balochistan leaders for talks</a></h2>
        
 
@@ -95,11 +105,13 @@ include 'header.php';
      </div>  
   
 
-  <!-------------------------------------------------------------------------------------------------->  
+  <!--end post -->
+
+<!--start post -->
             
        <div class="post">
    
-<!--------------------------------------------------------------------------------------------------------------------------->
+<!--headline--> 
        <h2> <a href="/featured/20160815-secret-ledge-ukraine.php">Secret Ledger in Ukraine Lists Cash for Donald Trump’s Campaign Chief</a></h2>
        
 
@@ -115,17 +127,17 @@ include 'header.php';
      </div>  
   
 
-<!--                                                           -->
+<!--     end post                                                      -->
  </div>
 
 
 
-    <!-- end featured ---------------------------------------------------------------------------------------------------------->
+    <!-- end featured -->
    
 
      <!-- begin recent posts -->
       <div class="recent">
-      <!-- begin post ----------------------------------------------------------------------------------------------------------->
+      <!-- begin post -->
    <!--   <div class="o post"> <a href="#"><img src="images/_thumb.jpg" alt="" /></a>
         <h2></h2>
         <p>  -->
@@ -136,12 +148,12 @@ include 'header.php';
     <!--       </p>
         <p class="readmore">[ <a href="#">read more</a> ]</p>
         <div class="break"></div>
-      </div> ---> 
-      <!-- end post ----------------------------------------------------------------------------------------------------------------->
+      </div> --> 
+      <!-- end post -->
 
 
 
-      <!-- begin post --------------------------------------------------------------------------------------------------------------->
+      <!-- begin post -->
    <!--   <div class="e post"> <a href="#"><img src="images/_thumb.jpg" alt="" /></a>
         <h2><a href="#"> </a></h2>
         <p> --> 
@@ -154,14 +166,14 @@ include 'header.php';
 <p class="readmore">[ <a href="#">read more</a> ]</p>
         <div class="break"></div>
       </div> ---> 
-  <!-- end post --------------------------------------------------------------------------------------------------------------------->
+  <!-- end post -->
      
     
 
- <!-- begin post ------------------------------------------------------------------------------------------------------------->
+ <!-- begin post -->
   <!--    <div class="o post"> <a href="#"><img src="images/_thumb.jpg" alt="" /></a>
         <h2><a href="#"> </a></h2>
-        <p>  ---> 
+        <p>  --> 
                <?php
                     include 'subpost3.php';
                ?> 
@@ -171,10 +183,10 @@ include 'header.php';
         <p class="readmore">[ <a href="#">read more</a> ]</p>
         <div class="break"></div>
       </div> --->
-      <!-- end post ----------------------------------------------------------------------------------------------------------------------->
+      <!-- end post -->
      
 
- <!-- begin post --------------------------------------------------------------------------------------------------------------------->
+ <!-- begin post -->
     <!--  <div class="e post"> <a href="#"><img src="images/_thumb.jpg" alt="" /></a>
         <h2><a href="#">Special Twitter Icons for Sale</a></h2>
         <p>
@@ -183,23 +195,23 @@ include 'header.php';
                     include 'subpost4.php';
                ?> 
 
-      <!---  </p>
+      <!--  </p>
         <p class="readmore">[ <a href="#">read more</a> ]</p>
         <div class="break"></div>
-      </div>  ---> 
-       <!-- end post ------------------------------------------------------------------------------------------------------------------------>
+      </div>  --> 
+       <!-- end post -->
 	  
     </div>
-    <!-- end recent posts -------------------------------------->
+    <!-- end recent posts -->
   </div>
-  <!-- END content ---------------------------------------------------------------------------->
+  <!-- END content -->
   
   <?php
           include 'sidebar.php';
     ?>
 
 	 </div>  	
-<!-- END wrapper -------------------------------------------------------------------------------------------------->
+<!-- END wrapper -->
  
 <?php	 
      include 'footer.php';

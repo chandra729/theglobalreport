@@ -138,7 +138,7 @@
           <li><a href="#">Suggest Ideas</a></li>
           <li><a href="#">Support Forum</a></li>
         </ul>
-      </div>  ---> 
+      </div>  --> 
       <!-- end archives -->
     </div>
     <!-- END right -->
