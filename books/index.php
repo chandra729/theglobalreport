@@ -15,7 +15,7 @@
 
 <div class="single">
 <h2>The Difficulty of Being Good: On the Subtle Art of Dharma Book by Gurcharan Das </h2>
-<p class="details"> Aug 17, 2016, 3.20 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
+<p class="details"> Aug 21, 2016, 3.20 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
  
 <blockquote><font face="Arial" size="2" color="red"><b><i>It was captivating and thought proving piece of literature if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book if you want to understand the subtle different between dharma and religion .</font></i>  </b> </blockquote>   
 
@@ -205,7 +205,7 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 <p><i>
 34.Dennet goes on to explain that the self is somewhat like the narrator in fiction. 58 He argues that man acquired consciousness because he happened to have a brain that was larger than what he needed purely for evolutionary purposes. He speculates that before human beings learned to speak, our primitive ancestors ‘just blurted things out’ unconsciously. ‘Then one day one of our ancestors asked a question in what was apparently an inappropriate circumstance: there was nobody around to be the audience. Strangely enough, he heard his own question, and this stimulated him cooperatively to think of an answer, and sure + enough the answer came to him. One component of the mind + had confronted a problem that another component could solve. Sometimes talking and listening to oneself can have wonderful effects.
 </i></p>
-<!--
+
 <p><i>
 35.Contemporary thinkers increasingly liken consciousness to literature. The self’s interaction with an object, says Antonio Tomasio, is a ‘simple narrative without words. It [has] characters. It unfolds in time. And it has a beginning, middle and an end.’ However, not all of these theorists dismiss the ‘autobiographical self’ as an illusion. They are content to leave it as ‘an inner sense’.  The ‘I-maker’ seems like a literary narrator because literature is so good at capturing what cognitive theorists call qualia or the sensory content of subjective experience, the ‘raw feeling’. 62 It is the ‘painfulness of pain, the scent of sandalwood, the taste of Bourbon-Vanilla or the extraordinary sound quality in the tone of a cello.’The problem of consciousness comes down to the problem of how to give an objective, third person account of what is essentially a subjective, first person phenomenon. In a famous essay called ‘What is it Like to be a Bat?’, Thomas Nagel concludes that the only way to experience what a bat experiences is to be a bat.  Indeed, according to the distinguished neuroscientist, V.S. Ramachandran, the ‘need to reconcile the first person and third person accounts of the universe . . . is the single most important problem in science.’This goes back to the question that Descartes puzzled over: how can consciousness arise in a purely physical universe? Today, the problem of consciousness—perhaps together with the question of the origin of the universe—marks the very limit of human striving for understanding. It is the ‘the last great puzzle’, says Thomas Metzinger.  Religions have always been suspicious of the ‘self’. Hindus think of the ‘I-maker’ (ahamkara) as the source of all human problems. Christianity exhorts people to suppress the sinful ‘self’, and be selfless and humble.
 </i></p>
@@ -231,7 +231,7 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 39.The Allies behaved no better than Krishna in the terror bombing of Dresden, Hamburg and other German cities in World War II. They had a clear intention of killing German civilians in order to destroy Nazi morale, hoping that this would lead Nazi Germany to surrender. In doing so, they clearly violated the ‘just war’ doctrine. Yet they were not hauled up before any Nuremburg court, which only judged Nazi war criminals after the war is because the Allies were victors and only losers are tried for war crimes.
 </i></p> 
 
-
+<!--
 <p><i>
 40.Epicurus, one of the first to raise this question, asks: ‘Either God wants to abolish evil, and cannot; or he can, but does not want to . . . If he wants to, but cannot, he is impotent. If he can, but does not want to, he is wicked . . . If, as they say, God can abolish evil, and God really wants to do it, why is there evil in the world?’ Put another way if god is good why is this world is so bad .
 </i></p>

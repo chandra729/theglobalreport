@@ -11,6 +11,35 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160821-obamacare-has-gone.php">Obamacare has gone from the president's greatest achievement to a 'slow-motion death spiral'</a></h2>
+       
+  <p class="details">Published:21th Aug 2016 4:10PM|Bob Bryan <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/obama.png" alt="obama" /></a></div>
+       
+ <p>
+It has not been a good week for the Affordable Care Act (ACA), <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">better known as Obamacare.</a>
+</p>
+     
+  <p class="readmore">[ <a href="/featured/20160821-obamacare-has-gone.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160820-Merkel-to-ban-burkas.php">Merkel to ban burkas </a></h2>
        
   <p class="details">Published:20th Aug 2016 08:30AM|Last Updated:20th Aug 2016 08:30 AM <a href="#"></a> </p>
