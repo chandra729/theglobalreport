@@ -22,6 +22,8 @@
 
 <p class="details"> 22:27 GMT, 20 August 2016 | <a href="#">thedailymail</a> </p>
 <h2 align="right"><a href="20160817-opinion.php"> Previous </a> </h2>
+<h2 align="left"><a href="20160821-opinion.php"> Next </a> </h2>
+
 
 <blockquote>Had India’s GDP growth matched that of other Asian countries in that 25-year period, India’s economy would today be double its size. Per capita income would be nearer $3,000 than $1,500 and poverty levels below 10 per cent, not today’s 21 per cent. In short, 150 million more Indians would have been lifted out of the poverty they live in today. 
 </blockquote>

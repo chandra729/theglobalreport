@@ -6,6 +6,33 @@ include 'header.php';
     <div id="featured">
 
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160823-kashmir-unrest.php">Kashmir unrest: PM Modi must strike a chord at grassroot to quell the Burhan Wani charm</a></h2>
+       
+  <p class="details"> Aug 23, 2016 17:39 IST |Afroz Alam   <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/modi.png" alt="obama" /></a></div>
+       
+ <p>
+The present government is still in a denial of the perpetual violence in Kashmir. Ironically, our Prime Minister made three contradictory statements in this regard after watching a month-long bloodshed.<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">  One, he appealed the syncretic consciousness of Kashmiriyat </a>..
+</p>
+     
+  <p class="readmore">[ <a href="/featured/20160823-kashmir-unrest.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  
