@@ -22,7 +22,7 @@
 
 <p class="details"> 15:15 CET, 21 August 2016|Swapan Dasgupta|<a href="#">telegraphindia</a> </p>
 <h2 align="right"><a href="20160820-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160823-opinion.php"> Next </a> </h2>
 
 <blockquote><b>Politicians must face up to the present realities in Kashmir</b></blockquote>
 

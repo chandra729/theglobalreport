@@ -6,6 +6,29 @@ include 'header.php';
     <div id="featured">
 
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160824-bangladesh-crackdown.php">Bangladesh crackdown: Prime suspect arrested in publisher’s killing</a></h2>
+       
+  <p class="details"> Aug 24,2016 14:01 CET|Dhaka|HT Correspondent <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/bangla.png" alt="Bangladesh" /></a></div>
+       
+ <p>
+Bangladeshi detectives arrested the prime suspect in last year’s slaying of a publisher as authorities reinforced efforts to crush radical groups blamed for <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login"> a recent spike in violence.</a>
+
+     
+  <p class="readmore">[ <a href="/featured/20160824-bangladesh-crackdown.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
 
 <!-- start of post  -->
 <div class="post">
