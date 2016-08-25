@@ -132,8 +132,19 @@
 <!-- Test : <a href="../index.php"><img src="../images/theglobalreports.png" alt="main_logo" style="width:50px;height:22px"  /></a>  --> 
  <!-- <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"> --> 
   
- <!--div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div>  --> 
+ <!-- orignal stuff div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div>  --> 
 <!-- end sponsor -->
+
+
+<div class="sponsor"> 
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
+</div> 
+
 
 
 
