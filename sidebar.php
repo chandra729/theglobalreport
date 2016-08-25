@@ -47,9 +47,14 @@
    
   <!--   <div class="video"> <img src="../images/_video.jpg" alt="" /> </div> -- 
  // <div class="video">  <iframe width="300" height="225" src="https://www.youtube.com/embed/25w439VNqTw" frameborder="0" allowfullscreen></iframe>
---->
-<div class="video"> <a href="http://www.theplanetreports.com/subscription.php?id=16"> <iframe width="300" height="225" src="https://www.youtube.com/embed/25w439VNqTw" frameborder="0" allowfullscreen></iframe></a>
 
+<a href="http://www.theplanetreports.com/subscription.php?id=16"> 
+/<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+
+--->
+
+
+<div class="video"> <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three"> <iframe width="300" height="225" src="https://www.youtube.com/embed/nFTmNR8pcvY" frameborder="0" allowfullscreen></iframe></a>
 
 
 

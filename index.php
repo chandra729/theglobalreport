@@ -5,6 +5,30 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160825-amatrice-italy-earthquake.php">Italy in shock after Amatrice earthquake: 'This used to be my home'</a></h2>
+       
+  <p class="details">Thursday 25 August 2016 07.02 BST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/italy.png" alt="Italy" /></a></div>
+       
+ <p>
+Amid the rubble of a town that seems almost to have toppled on to its hillside, it is, miraculously, still standing. But the clock on the 13th-century bell tower in Amatrice is stuck at 3.39 – three minutes after the earthquake struck. <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login"> At least 247 people died and dozens more were injured.</a>
+
+     
+  <p class="readmore">[ <a href="/featured/20160825-amatrice-italy-earthquake.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">
