@@ -44,6 +44,9 @@
 
 <meta property="fb:app_id" content="869701586495704"/>  
 
+<meta property="fb:pages" content="1181408581880605"/>
+
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@globalreport1"/>
 <meta name="twitter:title" content="Latest News,World,Opinion,Science,Technology,Sports,Cricket,Nepal, Books,Lifestyle, Entertainment,Celebrity from theglobalreports.com|Digital Newspaper"/>
