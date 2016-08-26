@@ -18,10 +18,10 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Last-Modified" content="Thursday, 25 August, 2016  10:55:10AM"/>
-<meta name="Last-Modified"       content="Thursday, 25 August, 2016  10:55:10AM"/>
-<meta name="Last-Modified-Date"  content="Thursday, August 25,2016"/>
-<meta name="Last-Modified-Time" content="10.55AM CET"/>
+<meta http-equiv="Last-Modified" content="Friday, 26 August, 2016  10:05:10AM"/>
+<meta name="Last-Modified"       content="Friday, 26 August, 2016  10:05:10AM"/>
+<meta name="Last-Modified-Date"  content="Friday, August 26,2016"/>
+<meta name="Last-Modified-Time" content="10.05AM CET"/>
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
@@ -43,6 +43,9 @@
 <meta property="og:image" content="http://www.theglobalreports.com/images/theglobalreports.png"/>   <!-- some image -->
 
 <meta property="fb:app_id" content="869701586495704"/>  
+
+<meta property="fb:pages" content="1181408581880605"/>
+
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@globalreport1"/>
@@ -72,6 +75,26 @@
 </head>
 
 <body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '869701586495704',
+      xfbml      : true,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+
 
 <div id="wrapper">
 
@@ -112,8 +135,19 @@
 <!-- Test : <a href="../index.php"><img src="../images/theglobalreports.png" alt="main_logo" style="width:50px;height:22px"  /></a>  --> 
  <!-- <img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"> --> 
   
- <!--div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div>  --> 
+ <!-- orignal stuff div class="sponsor"> <a href="index.php "><img src="../images/theglobalreports.png" alt="main_logo" style="width:300px;height:85px" /> </a> </div>  --> 
 <!-- end sponsor -->
+
+
+<div class="sponsor"> 
+<div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
+</div> 
+
 
 
 

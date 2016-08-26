@@ -10,6 +10,32 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160826-hillary-says-trump.php">Hillary Clinton Says ‘Radical Fringe’ Is Taking Over G.O.P. Under Donald Trump </a></h2>
+       
+  <p class="details">Friday 26 August 2016 10.05 AM CET<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/hillary.png" alt="Hillary" /></a></div>
+       
+
+<p>
+In a 31-minute address, building to a controlled simmer, Mrs. Clinton did everything but call Mr. Trump a racist outright — saying he had promoted “racist lie” after “racist lie,” pushed conspiracy theories with <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">  “racist undertones” </a> and heartened racists across the country by submitting to an “emerging racist ideology known as the alt-right.”
+</p>
+
+     
+  <p class="readmore">[ <a href="/featured/20160826-hillary-says-trump.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160825-amatrice-italy-earthquake.php">Italy in shock after Amatrice earthquake: 'This used to be my home'</a></h2>
        
   <p class="details">Thursday 25 August 2016 07.02 BST<a href="#"></a> </p>

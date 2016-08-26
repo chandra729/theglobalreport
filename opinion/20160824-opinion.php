@@ -22,7 +22,7 @@
 
 <p class="details"> August 24, 2016, 12:03 am IST |Swapan Dasgupta| <a href="#">TimesofIndia</a> </p>
 <h2 align="right"><a href="20160823-opinion.php"> Previous </a> </h2>
-<h2 align="left"> <a href=index.php> Next </a> </h2>
+<h2 align="left"> <a href="20160825-opinion.php"> Next </a> </h2>
 
 
 <p>
