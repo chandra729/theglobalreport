@@ -22,7 +22,7 @@
 
 <p class="details"> Aug 25, 2016 11:18 IST|Ajai Pasricha|<a href="#">Hindustan Times</a> </p>
 <h2 align="right"><a href="20160824-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160826-opinion.php"> Next </a> </h2>
 
 
 
