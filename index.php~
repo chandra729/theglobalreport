@@ -6,6 +6,33 @@ include 'header.php';
     <div id="featured">
 
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160828-mann-ki-baat.php">Any life lost in Kashmir is a loss for India, says PM Modi on Mann ki Baat</a></h2>
+       
+  <p class="details">Aug 28, 2016 12:49 IST|Dhrubo Jyoti<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/modi.png" alt="Modi" /></a></div>
+       
+
+<p>
+<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">
+Prime Minister Narendra Modi </a> reached out to a violence-torn Kashmir on Sunday, saying any life lost in the Valley, be it that of a young man or a security personnel, was a loss for India.
+</p>
+
+     
+  <p class="readmore">[ <a href="/featured/20160828-mann-ki-baat.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">
@@ -15,7 +42,7 @@ include 'header.php';
      <h2> <a href="/featured/20160827-bangladesh-attack.php">Bangladesh cops storm militant hideout, kill 'mastermind' of Dhaka cafe attack</a></h2>
        
   <p class="details">Aug 27,2016,10.44 AM IST<a href="#"></a> </p>
-           <div class="thumb"><a href="#"><img src="images/bangla.png" alt="Hillary" /></a></div>
+           <div class="thumb"><a href="#"><img src="images/bangla.png" alt="Bangladesh" /></a></div>
        
 
 <p>
