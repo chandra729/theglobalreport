@@ -5,6 +5,34 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160829-colombia-ceasefire.php">Colombia ceasefire to end half-century war in hours</a></h2>
+       
+  <p class="details">AFP | Aug 29, 2016, 07.18 AM IST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/colombia.png" alt="colombia" /></a></div>
+       
+
+<p>
+
+A historic midnight ceasefire on Sunday is set to end a 52-year-old war between the Colombian state and FARC rebels.
+Hundreds of thousands of Colombians have died since 1964 as rebel armies and gangs battled in the jungles in <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"  > what is considered Latin America's last major civil armed conflict.</a>
+
+</p>
+
+     
+  <p class="readmore">[ <a href="/featured/20160829-colombia-ceasefire.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
 
 <!-- start of post  -->
 <div class="post">
@@ -18,7 +46,7 @@ include 'header.php';
        
 
 <p>
-<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">
+<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">
 Prime Minister Narendra Modi </a> reached out to a violence-torn Kashmir on Sunday, saying any life lost in the Valley, be it that of a young man or a security personnel, was a loss for India.
 </p>
 
@@ -46,7 +74,7 @@ Prime Minister Narendra Modi </a> reached out to a violence-torn Kashmir on Sund
        
 
 <p>
-Bangladeshi security forces killed four Islamist militants, including the mastermind of an attack on a cafe in Dhaka+ last month in which 22 people, mostly foreigners, were killed, <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login"> the head of police counter-terrorism in the capital </a> said on Saturday.
+Bangladeshi security forces killed four Islamist militants, including the mastermind of an attack on a cafe in Dhaka+ last month in which 22 people, mostly foreigners, were killed, <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"  > the head of police counter-terrorism in the capital </a> said on Saturday.
 
 </p>
 
@@ -76,7 +104,7 @@ Bangladeshi security forces killed four Islamist militants, including the master
        
 
 <p>
-In a 31-minute address, building to a controlled simmer, Mrs. Clinton did everything but call Mr. Trump a racist outright — saying he had promoted “racist lie” after “racist lie,” pushed conspiracy theories with <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">  “racist undertones” </a> and heartened racists across the country by submitting to an “emerging racist ideology known as the alt-right.”
+In a 31-minute address, building to a controlled simmer, Mrs. Clinton did everything but call Mr. Trump a racist outright — saying he had promoted “racist lie” after “racist lie,” pushed conspiracy theories with <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  “racist undertones” </a> and heartened racists across the country by submitting to an “emerging racist ideology known as the alt-right.”
 </p>
 
      
@@ -101,7 +129,7 @@ In a 31-minute address, building to a controlled simmer, Mrs. Clinton did everyt
            <div class="thumb"><a href="#"><img src="images/italy.png" alt="Italy" /></a></div>
        
  <p>
-Amid the rubble of a town that seems almost to have toppled on to its hillside, it is, miraculously, still standing. But the clock on the 13th-century bell tower in Amatrice is stuck at 3.39 – three minutes after the earthquake struck. <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login"> At least 247 people died and dozens more were injured.</a>
+Amid the rubble of a town that seems almost to have toppled on to its hillside, it is, miraculously, still standing. But the clock on the 13th-century bell tower in Amatrice is stuck at 3.39 – three minutes after the earthquake struck. <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> At least 247 people died and dozens more were injured.</a>
 
      
   <p class="readmore">[ <a href="/featured/20160825-amatrice-italy-earthquake.php">read more</a> ]</p>
@@ -126,7 +154,7 @@ Amid the rubble of a town that seems almost to have toppled on to its hillside, 
            <div class="thumb"><a href="#"><img src="images/bangla.png" alt="Bangladesh" /></a></div>
        
  <p>
-Bangladeshi detectives arrested the prime suspect in last year’s slaying of a publisher as authorities reinforced efforts to crush radical groups blamed for <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login"> a recent spike in violence.</a>
+Bangladeshi detectives arrested the prime suspect in last year’s slaying of a publisher as authorities reinforced efforts to crush radical groups blamed for <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> a recent spike in violence.</a>
 
      
   <p class="readmore">[ <a href="/featured/20160824-bangladesh-crackdown.php">read more</a> ]</p>
@@ -150,7 +178,7 @@ Bangladeshi detectives arrested the prime suspect in last year’s slaying of a 
            <div class="thumb"><a href="#"><img src="images/modi.png" alt="obama" /></a></div>
        
  <p>
-The present government is still in a denial of the perpetual violence in Kashmir. Ironically, our Prime Minister made three contradictory statements in this regard after watching a month-long bloodshed.<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">  One, he appealed the syncretic consciousness of Kashmiriyat </a>..
+The present government is still in a denial of the perpetual violence in Kashmir. Ironically, our Prime Minister made three contradictory statements in this regard after watching a month-long bloodshed.<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  One, he appealed the syncretic consciousness of Kashmiriyat </a>..
 </p>
      
   <p class="readmore">[ <a href="/featured/20160823-kashmir-unrest.php">read more</a> ]</p>
@@ -176,7 +204,7 @@ The present government is still in a denial of the perpetual violence in Kashmir
            <div class="thumb"><a href="#"><img src="images/obama.png" alt="obama" /></a></div>
        
  <p>
-It has not been a good week for the Affordable Care Act (ACA), <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">better known as Obamacare.</a>
+It has not been a good week for the Affordable Care Act (ACA), <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">better known as Obamacare.</a>
 </p>
      
   <p class="readmore">[ <a href="/featured/20160821-obamacare-has-gone.php">read more</a> ]</p>
@@ -204,7 +232,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
   <p class="details">Published:20th Aug 2016 08:30AM|Last Updated:20th Aug 2016 08:30 AM <a href="#"></a> </p>
            <div class="thumb"><a href="#"><img src="images/merkel.png" alt="Merkel" /></a></div>
        
- Germany could impose a ban on women wearing burkas or full-face Islamic veils at schools .<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">and universities and while driving, under proposals announced by Angela Merkel's party. </a>  and universities and while driving, under proposals announced by Angela Merkel's party.
+ Germany could impose a ban on women wearing burkas or full-face Islamic veils at schools .<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">and universities and while driving, under proposals announced by Angela Merkel's party. </a>  and universities and while driving, under proposals announced by Angela Merkel's party.
      
   <p class="readmore">[ <a href="/featured/20160820-Merkel-to-ban-burkas.php">read more</a> ]</p>
 	          	<div class="break"></div>
@@ -224,7 +252,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
        
  <p>There may be no more shopworn and meaningless cliché in politics than the idea of election winners having mandates. Yet you hear about it all the time.  </p>
 
-<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">A president who wins election by any margin large or small will claim a mandate to push through his policy agenda.</a></p>
+<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">A president who wins election by any margin large or small will claim a mandate to push through his policy agenda.</a></p>
      
   <p class="readmore">[ <a href="/featured/20160817-clinton-wins-she-wont-be-empowered-the-way.php">read more</a> ]</p>
 	          	<div class="break"></div>
@@ -246,7 +274,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
        
  <p>Prime minister Narendra Modi’s Independence Day Speech from the ramparts of Red Fort on Monday morning has been analysed threadbare to know what his words meant or not meant </p>
 
-<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">A precise 77 words the PM uttered on on how people from Balochistan</a>Gilgit and Pakistan Occupied Kashmir..</p>
+<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">A precise 77 words the PM uttered on on how people from Balochistan</a>Gilgit and Pakistan Occupied Kashmir..</p>
      
   <p class="readmore">[ <a href="/featured/20160816-independence-day-speech.php">read more</a> ]</p>
 	          	<div class="break"></div>
@@ -264,7 +292,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
        
 
 
-        <p> Attention prospective immigrants and visitors to the United States, Muslims in particular — stand-by to fill in the TITMUS form <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">if you wish to enter America under a Trump administration.</a></p>
+        <p> Attention prospective immigrants and visitors to the United States, Muslims in particular — stand-by to fill in the TITMUS form <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">if you wish to enter America under a Trump administration.</a></p>
 
 
  <p class="readmore">[ <a href="/featured/20160816-donald-trump.php">read more</a> ]</p>
@@ -286,7 +314,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
        
  <p>Days after Prime Minister Narendra Modi spoke about the atrocities being carried out on the people of Balochistan and Pakistan-occupied Kashmir (PoK), </p>
 
-<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">Pakistan has invited self-exiled Baloch leaders</a> for talks while stating that dialogue is the only way to find a solution to all issues..</p>
+<p><a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"  >Pakistan has invited self-exiled Baloch leaders</a> for talks while stating that dialogue is the only way to find a solution to all issues..</p>
      
   <p class="readmore">[ <a href="/featured/20160815-pakistan-invites-self.php">read more</a> ]</p>
 	          	<div class="break"></div>
@@ -309,7 +337,7 @@ It has not been a good week for the Affordable Care Act (ACA), <a href="http://w
 
 
         
-<p> On a leafy side street off Independence Square in Kiev is an office used for years by Donald J. Trump’s campaign chairman, Paul Manafort, when he consulted for Ukraine’s ruling political party. His furniture and personal items were still there <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login">as recently as May.</a></p>
+<p> On a leafy side street off Independence Square in Kiev is an office used for years by Donald J. Trump’s campaign chairman, Paul Manafort, when he consulted for Ukraine’s ruling political party. His furniture and personal items were still there <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">as recently as May.</a></p>
  <p class="readmore">[ <a href="/featured/20160815-secret-ledge-ukraine.php">read more</a> ]</p>
 	          	<div class="break"></div>
      </div>  

