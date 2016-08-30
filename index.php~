@@ -5,6 +5,35 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160830-is-running-terror-classes.php">IS running terror classes in Kerala, Yasmin Ahmed tells NIA</a></h2>
+       
+  <p class="details">Munish Pandey| Aug 30,2016,08.20 AM IST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/kerala.png" alt="Kerala" /></a></div>
+       
+
+<p>
+A radicalized Kerala schoolteacher who was arrested at Delhi airport+ on August 2 before she could board a flight to Kabul has revealed that the extremist group Daesh is now running <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> "terror classes" in the country</a>.
+
+
+</p>
+
+     
+  <p class="readmore">[ <a href="/featured/20160830-is-running-terror-classes.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  

