@@ -11,6 +11,37 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160831-trump-mexico-visit.php">Trump confirms trip to Mexico for talks with President Peña Nieto</a></h2>
+       
+  <p class="details">Wednesday 31 August 2016 07.15 BST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/trump.png" alt="Trump" /></a></div>
+       
+
+
+
+<p>
+Republican presidential nominee Donald Trump has confirmed that he will <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> travel to Mexico on Wednesday </a> to meet with President Enrique Peña Nieto in Mexico City.
+</p>
+
+
+
+     
+  <p class="readmore">[ <a href="/featured/20160831-trump-mexico-visit.php">read more</a> ]</p>
+	          	<div class="break"></div>
+     </div>  
+
+
+<!-- end of post -->
+
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160830-is-running-terror-classes.php">IS running terror classes in Kerala, Yasmin Ahmed tells NIA</a></h2>
        
   <p class="details">Munish Pandey| Aug 30,2016,08.20 AM IST<a href="#"></a> </p>

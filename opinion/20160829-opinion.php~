@@ -19,7 +19,7 @@
 
 <p class="details">By FREDRIK LOGEVALL and KENNETH OSGOODAUG.Aug 29,2016 <a href="#">nytimes</a> </p>
 <h2 align="right"><a href="20160828-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160830-opinion.php""> Next </a> </h2>
 
 
 <p>
