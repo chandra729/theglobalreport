@@ -10,6 +10,29 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160902-france-dismantle-jungle.php">France vows to dismantle 'Jungle' refugee camp in Calais </a></h2>
+       
+  <p class="details">By Angelique Chrisafis  Friday 2 September 2016 08.09 BST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/france.png" alt="Trump" /></a></div>
+       
+<p>
+France is to gradually dismantle the  <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> “Jungle” refugee camp in Calais </a>, the interior minister, Bernard Cazeneuve, has vowed.
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160902-france-dismantle-jungle.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160901-no-amnesty-immigrants-trump.php">Trump confirms trip to Mexico for talks with President Peña Nieto</a></h2>
        
   <p class="details">By Rory Carroll Thursday, 1 Sept 2016 07.15 BST<a href="#"></a> </p>
@@ -22,8 +45,6 @@ Donald Trump has vowed anew to deport millions of undocumented people and to <a 
 <p class="readmore">[ <a href="/featured/20160901-no-amnesty-immigrants-trump.php">read more</a> ]</p>
 	          	<div class="break"></div>
 </div>  
-
-
 <!-- end of post -->
 
 

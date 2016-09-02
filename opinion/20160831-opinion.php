@@ -19,7 +19,7 @@
 
 <p class="details">By Rafael Behr|31 August 2016 |Published on:30 August 2016 <a href="#">theguardian</a> </p>
 <h2 align="right"><a href="20160830-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Previous </a> </h2>
+<h2 align="left"><a href="20160901-opinion.php"> Next </a> </h2>
 <p>
 <blockquote><b>From tax to terrorist material,<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">borderless companies such as Apple and Google </a> pose problems that analogue authorities can’t solve</b></blockquote>
 </p>
