@@ -10,6 +10,29 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160903-obama-xi-climate-deal.php">Obama and Xi Formally Commit U.S. and China to Paris Climate Accord </a></h2>
+       
+  <p class="details">By MARK LANDLER and JANE PERLEZS| Sept 3, 2016 <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/obamaxi.png" alt="Climatedeal" /></a></div>
+       
+<p>
+HANGZHOU, China — President Obama and President Xi Jinping of China formally committed the <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> world’s two largest economies </a> to the Paris climate agreement here on Saturday, cementing their partnership on climate change and offering a rare display of harmony in a relationship that has become increasingly discordant.
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160903-obama-xi-climate-deal.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160902-france-dismantle-jungle.php">France vows to dismantle 'Jungle' refugee camp in Calais </a></h2>
        
   <p class="details">By Angelique Chrisafis  Friday 2 September 2016 08.09 BST<a href="#"></a> </p>

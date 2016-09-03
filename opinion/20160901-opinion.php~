@@ -19,7 +19,7 @@
 
 <p class="details">Thomas L. Friedman Sept. 1, 2016 <a href="#">nytimes</a> </p>
 <h2 align="right"><a href="20160831-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160902-opinion.php"> Next </a> </h2>
 
 
 <p>Anyone who says it doesn’t matter whether <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> Donald Trump or Hillary Clinton </a> wins this election needs their head examined. The damage that Trump could do to our nation with his blend of intellectual laziness, towering policy ignorance and reckless impulsiveness is in a league of its own. Hillary has some real personal ethics issues she needs to confront, but she’s got the chops to be president.
