@@ -19,7 +19,7 @@
 
 <p class="details">By Aaron M. Bornstein September 2, 2016  <a href="#">nautil.us</a> </p>
 <h2 align="right"><a href="20160901-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160903-opinion.php"> Next </a> </h2>
 
 
 <p>

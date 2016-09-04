@@ -5,6 +5,32 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160904-obama-snubbed.php">Barack Obama 'deliberately snubbed' by Chinese in chaotic arrival at G20</a></h2>
+       
+  <p class="details">Tom Phillips in Beijing | Sunday 4 September 2016 08.27 BST  <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/obamachina.png" alt="Obamachina" /></a></div>
+       
+<p>
+
+China’s leaders have been accused of delivering a <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">  calculated diplomatic snub to Barack Obama </a> after the US president was not provided with a staircase to leave his plane during his chaotic arrival in Hangzhou before the start of the G20.
+
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160904-obama-snubbed.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  
