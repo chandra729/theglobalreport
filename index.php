@@ -11,6 +11,30 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160905-obama-to-china-stop-flexing-muscle.php">Barack Obama 'deliberately snubbed' by Chinese in chaotic arrival at G20</a></h2>
+       
+  <p class="details">Sep 5, 2016, 12.03 PM IST <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/obamaurges.png" alt="ObamaChinaSouthChinaSea" /></a></div>
+       
+<p>
+
+WASHINGTON:<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">A rising China </a>, which has been worrying its neighbours with its aggressive behaviour on economic policies and in the disputed South China Sea, needs to restrain itself and behave responsibly at the world stage, <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> US President Barack Obama has said.
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160905-obama-to-china-stop-flexing-muscle.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160904-obama-snubbed.php">Barack Obama 'deliberately snubbed' by Chinese in chaotic arrival at G20</a></h2>
        
   <p class="details">Tom Phillips in Beijing | Sunday 4 September 2016 08.27 BST  <a href="#"></a> </p>

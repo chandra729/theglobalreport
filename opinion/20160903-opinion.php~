@@ -19,7 +19,7 @@
 
 <p class="details">Written by Sushant Singh | Published:September 3, 2016 12:09 am IST <a href="#">indianexpress</a> </p>
 <h2 align="right"><a href="20160902-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160904-opinion.php"> Next </a> </h2>
 
 <p>
 A few days after Defence Minister Manohar Parrikar and his American counterpart, Ashton Carter, announced the signing of the <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> Logistics Exchange Memorandum of Agreement (LEMOA) </a>, a senior Pakistani military official told me that, “America can be no one’s friend. You don’t need to look beyond us to know how they court you and use you.” Given the current state of the US-Pakistan relationship, his statement does not come as a surprise. However, this view is not uncommon even among senior Indian military and government officials. It is against this backdrop that the defence ministry explained the signing of the LEMOA with the US.

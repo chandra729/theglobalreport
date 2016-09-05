@@ -15,7 +15,7 @@
 
 <div class="single">
 <h2>A Tale of Two Cities by Charles Dickens</h2>
-<p class="details"> Aug 31, 2016, 10.55 AM CET | <a href="#">A Tale of Two Cities</a> </p>
+<p class="details"> Sept 5, 2016, 10.20 AM CET | <a href="#">A Tale of Two Cities</a> </p>
 <h2 align="right"><a href="the-difficulty-of-being-good.php"> Previous </a> </h2>
 
  
