@@ -19,7 +19,7 @@
 
 <p class="details">By By Aroup Chatterjee| Sep 04, 2016, 09.44 AM IST <a href="#">economictimes</a> </p>
 <h2 align="right"><a href="20160903-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160905-opinion.php"> Next </a> </h2>
 
 
 <p>

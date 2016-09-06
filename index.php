@@ -5,6 +5,30 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160906-duterte-obama.php">Duterte tells Obama 'son of a whore' remark was not meant to be personal </a></h2>
+       
+  <p class="details">By Oliver Holmes|Tuesday 6 September 2016 07.10 BST <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/duterte.png" alt="duterte" /></a></div>
+       
+<p>
+President Rodrigo Duterte of the Philippines has expressed regret for calling Barack Obama a <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank"> “son of a whore” </a> – a remark that led to the US leader cancelling their meeting during a regional summit in Laos.
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160906-duterte-obama.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">
