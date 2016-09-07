@@ -10,7 +10,7 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
-     <h2> <a href="/featured/20160907-syrian-opposition-coalition.php">Duterte tells Obama 'son of a whore' remark was not meant to be personal </a></h2>
+     <h2> <a href="/featured/20160907-syrian-opposition-coalition.php">Syrian opposition coalition to announce democratic transition plan</a></h2>
        
   <p class="details">By Patrick Wintour | Wednesday 7 September 2016 08.07 BST <a href="#"></a> </p>
            <div class="thumb"><a href="#"><img src="images/syria.png" alt="Syria" /></a></div>
