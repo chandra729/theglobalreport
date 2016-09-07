@@ -10,6 +10,30 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160907-syrian-opposition-coalition.php">Duterte tells Obama 'son of a whore' remark was not meant to be personal </a></h2>
+       
+  <p class="details">By Patrick Wintour | Wednesday 7 September 2016 08.07 BST <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/syria.png" alt="Syria" /></a></div>
+       
+<p>
+The High Negotiation Committee (HNC), an umbrella body representing more than <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> 30 political and military forces </a> seeking to wrest power from Assad, is to unveil its  <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank"> 25-page plan  </a>at a meeting in London.
+
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160907-syrian-opposition-coalition.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160906-duterte-obama.php">Duterte tells Obama 'son of a whore' remark was not meant to be personal </a></h2>
        
   <p class="details">By Oliver Holmes|Tuesday 6 September 2016 07.10 BST <a href="#"></a> </p>

@@ -19,7 +19,7 @@
 
 <p class="details">September 5, 2016, 12:00 am IST Swapan Dasgupta<a href="#">timesofindia</a> </p>
 <h2 align="right"><a href="20160904-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160906-opinion.php"> Next </a> </h2>
 
 
 
