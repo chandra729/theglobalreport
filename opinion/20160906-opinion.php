@@ -19,7 +19,7 @@
 
 <p class="details">By JACALYN DUFFIN SEPT. 6, 2016 <a href="#"></a> </p>
 <h2 align="right"><a href="20160905-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160907-opinion.php"> Next </a> </h2>
 
 <p>
 Kingston, Ontario — THERE was <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> no mistaking the diagnostic </a> significance of that little red stick inside a deep blue cell: The Auer rod meant the mystery patient had acute myelogenous leukemia. As slide after slide went by, her bone marrow told a story: treatment, remission, relapse, treatment, remission, remission, remission.

