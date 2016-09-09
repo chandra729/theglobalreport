@@ -19,7 +19,7 @@
 
 <p class="details">Thomas L. Friedman SEPT. 7, 2016 <a href="#"></a> </p>
 <h2 align="right"><a href="20160906-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160908-opinion.php"> Next </a> </h2>
 
 
 <p>
