@@ -11,17 +11,14 @@
 <meta name="naver-site-verification" content="79164d959d8510c0d4e407398d10e7a984a50253"/>
 
 
-
-
-
 <title>Latest News,World,Opinion,Books,Technology,Sports,Cricket,Nepal from theglobalreports.com </title>
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Last-Modified" content="Friday, 09 Septmber, 2016  2:30:15 PM"/>
-<meta name="Last-Modified"       content="Friday, 09 Septmber, 2016  2:30:15 PM"/>
-<meta name="Last-Modified-Date"  content="Fri, Sep 09, 2016  2:30:15 PM"/>
-<meta name="Last-Modified-Time" content="2.30PM CET"/>
+<meta http-equiv="Last-Modified" content="Saturday, 10 Septmber, 2016  12:10:15 PM"/>
+<meta name="Last-Modified"       content="Saturday, 10 Septmber, 2016  12:10:15 PM"/>
+<meta name="Last-Modified-Date"  content="Sat, Sep 10, 2016  12:10:15 PM"/>
+<meta name="Last-Modified-Time" content="12.10PM CET"/>
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>

