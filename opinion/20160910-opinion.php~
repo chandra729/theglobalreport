@@ -19,7 +19,7 @@
 
 <p class="details">By Emerging Technology from the arXiv September 10, 2016 <a href="#"></a> </p>
 <h2 align="right"><a href="20160909-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160911-opinion.php"> Next </a> </h2>
 
 <p>
 
