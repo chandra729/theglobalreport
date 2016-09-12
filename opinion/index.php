@@ -17,7 +17,7 @@
 <div class="single">
 <h2>How Countries Like the Philippines Fall Into Vigilante Violence</h2>
 
-<p class="details">By AMANDA TAUB SEPT. 11, 2016 <a href="#"></a> </p>
+<p class="details">By AMANDA TAUB SEPT. 12, 2016 <a href="#"></a> </p>
 <h2 align="right"><a href="20160911-opinion.php"> Previous </a> </h2>
 
 <p>
