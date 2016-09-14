@@ -15,10 +15,10 @@
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Last-Modified" content="Tuesday, 13 Septmber, 2016  12:35:15 PM"/>
-<meta name="Last-Modified"       content="Tuesday, 13 Septmber, 2016  12:35:15 PM"/>
-<meta name="Last-Modified-Date"  content="Tue, Sep 13, 2016  12:35:15 PM"/>
-<meta name="Last-Modified-Time" content="12.35PM CET"/>
+<meta http-equiv="Last-Modified" content="Wednesday, 14 Septmber, 2016  12:02:10 PM"/>
+<meta name="Last-Modified"       content="Wednesday, 14 Septmber, 2016  12:02:10 PM"/>
+<meta name="Last-Modified-Date"  content="Wed, Sep 14, 2016  12:02:10 PM"/>
+<meta name="Last-Modified-Time" content="12.02PM CET"/>
 
 
 <meta name="description" content="theglobalreports.com is online destination for breaking News,World,Features,Opinion,Nepal,Science,Technology,Sports,Cricket,Books,Lifestyle, Entertainment,Celebrity."/>
