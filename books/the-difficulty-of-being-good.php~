@@ -15,15 +15,15 @@
 
 <div class="single">
 <h2>The Difficulty of Being Good: On the Subtle Art of Dharma Book by Gurcharan Das </h2>
-<p class="details"> Sept 13, 2016, 12.40 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
+<p class="details"> Sept 19, 2016, 12.40 PM CET | <a href="#">The Difficulty of Being Good</a> </p>
 <h2 align="right"><a href="index.php"> Previous </a> </h2>
  
 <blockquote><font face="Arial" size="2" color="red"><b><i>
-It was captivating and thought proving piece of literature if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book if you want to understand the subtle different between dharma and religion . </font></i></b>
+It was captivating and thought proving piece of <a href="http://bit.ly/2cKc7xM" target="_blank">literature </a> if I may say so.It tried to contextualize Indian epic “Mahabharata”, in the light of modern world. I highly recommend this book if you want to <a href="http://www.theplanetreports.com/uploads/" target="_blank">understand</a> the subtle different between dharma and religion . </font></i></b>
 </blockquote>   
 
 <font face="Arial" size="3" color="#0000">
-<p>During my reading , I noted some paragraph and quotes which in sense tries to provide a glimpse into the central theme of the book.Like , What is dharama ? Why to be good ? and so on.
+<p>During my reading , I noted some paragraph and quotes which in sense tries to provide a <a href="http://www.theplanetreports.com/images/" target="_blank">glimpse into the central theme</a> of the book.Like , <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">What is dharama ?</a> Why to be good ? and so on.
 They are listed below:
 </p>
 

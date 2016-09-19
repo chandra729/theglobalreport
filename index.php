@@ -5,6 +5,29 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160919-is-jem-pak-provoking-india.php">Uri attack: Is JeM-Pak combine provoking Modi government?</a></h2>
+       
+     <p class="details">Written by Nirupama Subramanian|September 19, 2016 3:13pm<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/Uriattack.png"  alt="Uri Attacks"/></a></div>
+       
+<p>
+India has blamed Sunday’s deadly attack on the <a href="http://bit.ly/2cKc7xM" target="_blank">12th brigade headquarters </a> at Uri in Kashmir, which claimed the lives of 17 Indian soldiers, on the <a href="http://www.theplanetreports.com/uploads/" target="_blank">Jaish-e-Mohammed (JeM)
+</p>
+
+<p class="readmore">[ <a href="/featured/20160919-is-jem-pak-provoking-india.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
 
 <!-- start of post  -->
 <div class="post">
