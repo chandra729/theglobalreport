@@ -5,6 +5,46 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160921-usa-consider-arming-kurds.php">Obama Administration Considers Arming Syrian Kurds Against ISIS</a></h2>
+       
+     <p class="details">By ERIC SCHMITTSEPT. 21, 2016<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/kurdish-forces.png"  alt="kurdish-forces"/></a></div>
+       
+<p>
+WASHINGTON — The Obama administration is weighing a military plan to directly arm <a href="http://bit.ly/2cKc7xM" target="_blank">Syrian Kurdish fighters </a> combating the Islamic State, a major policy shift that could speed up the <a href="http://www.theplanetreports.com/uploads/" target="_blank">offensive against</a> the terrorist group but also sharply <a href="http://www.theplanetreports.com/images/" target="_blank">escalate tensions </a> between Turkey and the <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">United States.</a>
+</p>
+
+<p class="readmore">[ <a href="/featured/20160921-usa-consider-arming-kurds.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- start of post  -->
 <div class="post">
 	  

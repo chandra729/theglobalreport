@@ -19,7 +19,7 @@
 
 <p class="details">By C. Uday Bhaskar |September 19, 2016 7:59 am <a href="#"></a> </p>
 <h2 align="right"><a href="20160918-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160920-opinion.php"> Next </a> </h2>
 <p>
 The audacious terror attack on a <a href="http://bit.ly/2cKc7xM" target="_blank">brigade headquarters </a> in Uri in the early hours of Sunday, September 18, that resulted in the death of <a href="http://www.theplanetreports.com/uploads/" target="_blank">17 Indian soldiers </a> and injured over 20 troops is a <a href="http://www.theplanetreports.com/images/" target="_blank">very serious operational lapse.</a> That four armed terrorists could kill <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">so many soldiers </a> in a fortified army camp is an illustration of the asymmetrical advantage that has progressively accrued to the adversary.
 </p> <p>

