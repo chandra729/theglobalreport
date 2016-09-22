@@ -19,7 +19,7 @@
 
 <p class="details">September 20, 2016, 2:00 am IST C Christine Fair  <a href="#"></a> </p>
 <h2 align="right"><a href="20160919-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160921-opinion.php"> Next </a> </h2>
 
 <p>
 Feigning outrage at the killing of Pakistan-backed Hizbul Mujahideen commander <a href="http://bit.ly/2cKc7xM" target="_blank">Burhan Wani,</a> Pakistan’s civilian-led government decried his killing by Indian security forces as “deplorable and condemnable”. This group is considered to be a <a href="http://www.theplanetreports.com/uploads/" target="_blank">terrorist organisation</a> by the United States, the European Union, and India alike. This conniption once again exposed Pakistan’s <a href="http://www.theplanetreports.com/images/" target="_blank">unstinting support</a> for the zoo of Islamist terrorists that it uses to achieve its foreign policy objectives in India, Afghanistan and elsewhere.

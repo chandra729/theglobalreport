@@ -12,6 +12,43 @@ include 'header.php';
 	  
     	  
     <!-- headline -->    
+     <h2> <a href="/featured/20160922-pakistan-host-terrorism.php">Pakistan now host to ‘Ivy League of terrorism’: India at UNGA</a></h2>
+       
+     <p class="details">By ERIC SCHMITTSEPT. 21, 2016<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/UNGA.png"  alt="UNGA"/></a></div>
+       
+<p>
+Pakistan is a <a href="http://bit.ly/2cKc7xM" target="_blank">“terrorist”</a> state that carries out <a href="http://www.theplanetreports.com/uploads/" target="_blank">“war crimes”</a> against Indians by <a href="http://www.theplanetreports.com/images/" target="_blank">“sponsoring terrorism”,</a> New Delhi said on Thursday in a stinging response that underscored plummeting relations following a militant attack on an army base in  <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">Kashmir.</a>
+</p>
+
+<p class="readmore">[ <a href="/featured/20160922-pakistan-host-terrorism.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
      <h2> <a href="/featured/20160921-usa-consider-arming-kurds.php">Obama Administration Considers Arming Syrian Kurds Against ISIS</a></h2>
        
      <p class="details">By ERIC SCHMITTSEPT. 21, 2016<a href="#"></a> </p>
