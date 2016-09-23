@@ -5,6 +5,28 @@ include 'header.php';
     <!-- begin featured -->
     <div id="featured">
 
+<!-- start of post  -->
+<div class="post">
+	  
+    	  
+    <!-- headline -->    
+     <h2> <a href="/featured/20160923-obama-puts-syria-arm-length.php">Obama Puts Syria at Arm’s Length as Carnage Drags On</a></h2>
+       
+     <p class="details">By MARK LANDLER SEPT. 23, 2016<a href="#"></a> </p>
+           <div class="thumb"><a href="#"><img src="/images/obamasyria.png"  alt="obamasyria"/></a></div>
+       
+<p>
+WASHINGTON — When Secretary of State <a href="http://bit.ly/2cKc7xM" target="_blank">John Kerry</a> took the floor at the <a href="http://www.theplanetreports.com/uploads/" target="_blank">United Nations</a> on Wednesday to deliver a searing denunciation of the <a href="http://www.theplanetreports.com/images/" target="_blank">airstrike on an aid </a> convoy headed for the Syrian city of <a href="http://www.theplanetreports.com/uploads/phpinfo.php" target="_blank">Aleppo President Obama was crosstown,</a> at his Manhattan hotel, preparing for a day of diplomacy that included Africa, Israel and Colombia — but, conspicuously, not Syria.
+</p> 
+<p class="readmore">[ <a href="/featured/20160923-obama-puts-syria-arm-length.php">read more</a> ]</p>
+	          	<div class="break"></div>
+</div>  
+<!-- end of post -->
+
+
+
+
+
 
 
 <!-- start of post  -->

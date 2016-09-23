@@ -19,7 +19,7 @@
 
 <p class="details">By Kanchan Gupta : 21 September 2016<a href="#"></a> </p>
 <h2 align="right"><a href="20160920-opinion.php"> Previous </a> </h2>
-<h2 align="left"><a href="index.php"> Next </a> </h2>
+<h2 align="left"><a href="20160922-opinion.php"> Next </a> </h2>
 <p>
 The <a href="http://bit.ly/2cKc7xM" target="_blank">rush of reaction </a> within India to the terrorist attack - clearly plotted and executed by Pakistan - on an <a href="http://www.theplanetreports.com/uploads/" target="_blank">Army base at Uri in Kashmir</a>, which resulted in the death of 18 soldiers, is quite unlike the outrage that has followed similar acts of cross-border aggression in the <a href="http://www.theplanetreports.com/images/" target="_blank">past.</a>
 </p> <p>
