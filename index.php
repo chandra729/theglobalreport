@@ -36,7 +36,7 @@ WASHINGTON — When Secretary of State <a href="http://bit.ly/2cKc7xM" target="_
     <!-- headline -->    
      <h2> <a href="/featured/20160922-pakistan-host-terrorism.php">Pakistan now host to ‘Ivy League of terrorism’: India at UNGA</a></h2>
        
-     <p class="details">By ERIC SCHMITTSEPT. 21, 2016<a href="#"></a> </p>
+     <p class="details">SEPT. 22, 2016<a href="#"></a> </p>
            <div class="thumb"><a href="#"><img src="/images/UNGA.png"  alt="UNGA"/></a></div>
        
 <p>
